@@ -3,21 +3,21 @@
 All BP's here are made from Yoshi128986#6141 unless stated otherwise
 
 #### Quick-Navigation
-- [Forest](Forest)
-- [Desert](Desert)
-- [Winter](Winter)
-- [Underground](Underground)
-- [Volcano](Volcano)
-- [High Mountain](High Mountain)
-- [Jungle](Jungle)
-- [Metallic Ruins](Metallic Ruins)
-- [Beach](Beach)
-- [Ocean](Ocean)
-- [Neutral](Neutral)
-- [Dark Realm](Dark Realm)
-- [Heaven](Heaven)
-- [Universe](Universe)
-- [Chaos](Chaos)
+- [Forest](#Forest)
+- [Desert](#Desert)
+- [Winter](#Winter)
+- [Underground](#Underground)
+- [Volcano](#Volcano)
+- [High Mountain](#High Mountain)
+- [Jungle](#Jungle)
+- [Metallic Ruins](#Metallic Ruins)
+- [Beach](#Beach)
+- [Ocean](#Ocean)
+- [Neutral](#Neutral)
+- [Dark Realm](#Dark Realm)
+- [Heaven](#Heaven)
+- [Universe](#Universe)
+- [Chaos](#Chaos)
 
 ## Forest
 
