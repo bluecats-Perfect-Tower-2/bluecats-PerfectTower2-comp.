@@ -68,7 +68,9 @@ YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5h
 **C1**
 
 No Software
+
 Spam Desperado
+
 Requires some luck
 
 `Import Code`
@@ -86,6 +88,7 @@ YzItMjthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5i
 **C3**
 
 Spam Toxic Ivy
+
 Spam Lifeleech
 
 Made by: Matthew T.#2759
