@@ -1,6 +1,6 @@
 # Pre-Era Challenge BP's
 
-All BP's here are made from Yoshi128986#6141 unless stated otherwise
+All BP's here are made from Yoshi128986#6141 unless stated otherwise (not all are pre-era, but they are as close as possible - Yoshi128986#6141)
 
 #### Quick-Navigation
 - [Forest](#Forest)
