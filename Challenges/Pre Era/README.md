@@ -14,7 +14,7 @@ All BP's here are made from Yoshi128986#6141 unless stated otherwise
 - [Beach](#Beach)
 - [Ocean](#Ocean)
 - [Neutral](#Neutral)
-- [Dark Realm](#Dark Realm)
+- [Dark Realm](#Dark_Realm)
 - [Heaven](#Heaven)
 - [Universe](#Universe)
 - [Chaos](#Chaos)
@@ -253,7 +253,7 @@ YzQtNCBoYXJkO3JlZ2VuZXJhdGlvbi5iYXNpYztmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5tdWx0aXNo
 ```
 
 
-## High Mountain
+## High_Mountain
 
 **C1**
 
@@ -333,7 +333,7 @@ YzQtNCBoYXJkO3JlZ2VuZXJhdGlvbi5iYXNpYztmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5tdWx0aXNo
 ```
 
 
-## Metallic Ruins
+## Metallic_Ruins
 
 **C1**
 
@@ -493,7 +493,7 @@ YzQtNCBoYXJkO3JlZ2VuZXJhdGlvbi5iYXNpYztmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5tdWx0aXNo
 ```
 
 
-## Dark Realm
+## Dark_Realm
 
 **C1**
 
