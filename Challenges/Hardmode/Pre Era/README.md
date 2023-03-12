@@ -91,7 +91,7 @@ Spam Toxic Ivy
 
 Spam Lifeleech
 
-Made by: Matthew T.#2759
+Improved by: Matthew T.#2759
 
 `Import Code`
 ```
@@ -146,6 +146,8 @@ YzMtMyBoYXJkO2F0dGFjay5zcGVlZDthdHRhY2sucmFwaWRmaXJlO2ZvdW5kYXRpb24uZGlhbW9uZDtz
 **C4**
 
 Needs improvement because of useage of WINCE
+
+Made By: Astronut#5518
 
 `Import Code`
 ```
