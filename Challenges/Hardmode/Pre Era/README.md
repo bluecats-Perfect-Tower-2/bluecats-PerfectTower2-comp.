@@ -203,15 +203,19 @@ YzQtNCBoYXJkO3JlZ2VuZXJhdGlvbi5iYXNpYztmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5tdWx0aXNo
 ```
 **C5**
 
+No Wave Acceleration softwares
+
 `Import Code`
 ```
-
+YzQtNSBoYXJkO2F1cmEudW5ob2x5O2F1cmEuaGVhcnRzdG9wcGVyO2F1cmEuZnJvc3Q7Zm91bmRhdGlvbi5tYWdtYTthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYmFzaDthdHRhY2suc3Bhcms7c291bC5oYXJ2ZXN0aW5nO2F0dGFjay5pbXBldHVzO2ltcGV0dXMuZmlyZTtmaXJlLmluY2luZXJhdGlvbjthdHRhY2suYm91bmNlO2F0dGFjay5maXJlO2F0dGFjay5yYXBpZGZpcmU=
 ```
 **C6**
 
+I Gave Up - Yoshi128986#6141
+
 `Import Code`
 ```
-
+YzQtNiBoYXJkO3NoaWVsZC5kaXZpc2lvbjtkZWZlbnNlLmJ1bHdhcms7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c3BlbGwudG94aWNpdnk=
 ```
 
 
@@ -221,19 +225,21 @@ YzQtNCBoYXJkO3JlZ2VuZXJhdGlvbi5iYXNpYztmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5tdWx0aXNo
 
 `Import Code`
 ```
-
+YzUtMSBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO2F1cmEuaGVhcnRzdG9wcGVyO3NoZWxsLmZpcmU7cmVzaXN0YW5jZS5maXJlO2V4Y2hhbmdlLmZpcmU=
 ```
 **C2**
 
 `Import Code`
 ```
-
+YzUtMiBoYXJkO2ZvY3VzLndhdGVyO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2ZvdW5kYXRpb24uZGlhbW9uZDtyZXNpc3RhbmNlLmVsZW1lbnRhbDtleGNoYW5nZS5maXJlO2V4Y2hhbmdlLmVhcnRoO2V4Y2hhbmdlLnVuaXZlcnNhbDtmb3VuZGF0aW9uLm1hcmJsZTthdXJhLmRyeW5lc3M7YmFycmllci53YXRlcjtzaGllbGQuYmFzaWM=
 ```
 **C3**
 
+Slightly luck based, upgrade health first so that you don't die, then wince to kill faster. No accel until you get a bit of health. 
+
 `Import Code`
 ```
-
+YzUtMyBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3JlZmxlY3Qud2luY2U7c2hpZWxkLmRpdmlzaW9u
 ```
 **C4**
 
