@@ -87,15 +87,11 @@ YzItMjthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5i
 ```
 **C3**
 
-Spam Toxic Ivy
-
-Spam Lifeleech
-
-Improved by: Matthew T.#2759
+Spam Firestorm
 
 `Import Code`
 ```
-YzItMyBCVVQgV0lUSCBNT1JFIEJSUlI7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247c2hlbGwuZWxlY3RyaWNpdHk7Zm91bmRhdGlvbi5kaWFtb25kO3NwZWxsLnRveGljaXZ5O3NwZWxsLmxpZmVsZWVjaA==
+YzItMyBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO3NoZWxsLmVsZWN0cmljaXR5O2ZvdW5kYXRpb24uZGlhbW9uZDtmb3VuZGF0aW9uLm1hZ21hO3NwZWxsLmZpcmVzdG9ybQ==
 ```
 **C4**
 
@@ -105,11 +101,11 @@ YzItNDtzcGxhc2guZWxlbWVudC5maXJlO2NyaXQuZmlyZURtZztmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91
 ```
 **C5**
 
-Spam Toxic Ivy
+Spam Toxic Ivy and Desperado
 
 `Import Code`
 ```
-YzItNTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3NwZWxsLnRveGljaXZ5O2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9u
+YzItNSBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c3BlbGwudG94aWNpdnk7c3BlbGwuZGVzcGVyYWRvO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9u
 ```
 **C6**
 
@@ -201,7 +197,7 @@ No Wave Acceleration softwares
 
 `Import Code`
 ```
-YzQtNCBoYXJkO3JlZ2VuZXJhdGlvbi5iYXNpYztmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5tdWx0aXNob3Q7c3RlaW5pLmNoYWluZWQuYmFsbDtmaXJlLmluY2luZXJhdGlvbjthdHRhY2suaW1wZXR1cztpbXBldHVzLmZpcmU7YXR0YWNrLnNwZWVkO2F0dGFjay5maXJlO2F0dGFjay5yYXBpZGZpcmU=
+YzQtNCBoYXJkO2ZvdW5kYXRpb24ubWFnbWE7YXR0YWNrLm11bHRpc2hvdDtzdGVpbmkuY2hhaW5lZC5iYWxsO2ZpcmUuaW5jaW5lcmF0aW9uO2F0dGFjay5pbXBldHVzO2ltcGV0dXMuZmlyZTthdHRhY2suc3BlZWQ7YXR0YWNrLnJhcGlkZmlyZTthdHRhY2suYm91bmNlO2F0dGFjay5maXJl
 ```
 **C5**
 
