@@ -87,11 +87,11 @@ YzItMjthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5i
 ```
 **C3**
 
-Spam Firestorm
+Made By dazmaticx
 
 `Import Code`
 ```
-YzItMyBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO3NoZWxsLmVsZWN0cmljaXR5O2ZvdW5kYXRpb24uZGlhbW9uZDtmb3VuZGF0aW9uLm1hZ21hO3NwZWxsLmZpcmVzdG9ybQ==
+YzItNSBoYXJkIERhek1hdGljeC1FZGl0O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWxlY3RyaWNpdHk7Z2lmdC52b2xjYW5vO2F0dGFjay5maXJlYnJlYXRoO2F0dGFjay5zcGVlZA==
 ```
 **C4**
 
