@@ -1,6 +1,6 @@
 # Fast Hardmode solutions
 
-All bps by Yoshi128986#6141 on discord unless stated otherwise
+All bps by Yoshi128986#6141 on discord unless stated otherwise, the "requirement" to be pre era is invalid here
 
 #### Quick-Navigation
 - [Forest](#Forest)
@@ -63,9 +63,12 @@ All bps by Yoshi128986#6141 on discord unless stated otherwise
 
 **C1**
 
+Spam Desperade
+No wave skips
+
 `Import Code`
 ```
-
+RGVzZXJ0IENoYWwgMTtmb3VuZGF0aW9uLmdyYW5pdGU7c2hlbGwubGlnaHQ7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzcGVsbC5kZXNwZXJhZG87Ym9udXMub2ZmZW5zaXZlO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2JvbnVzLmRlZmVuc2l2ZTtib3Jm
 ```
 **C2**
 
@@ -85,7 +88,7 @@ No Software
 
 `Import Code`
 ```
-
+YzItNDtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYWdtYTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO2F1cmEuZmllcnk=
 ```
 **C5**
 
