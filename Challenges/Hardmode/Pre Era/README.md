@@ -175,11 +175,13 @@ YzMtNiBoYXJkO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlv
 
 **C1**
 
-Takes a very long time
+Takes a slightly shorter time
+
+By: rimfire_
 
 `Import Code`
 ```
-YzQtMSAoaGFyZD8pO3N0ZWluaS5jaGFpbmVkLmJhbGw7YXR0YWNrLmZpcmU7ZmlyZS5pbmNpbmVyYXRpb247YXR0YWNrLm5hdHVyZXN0b3VjaDtmb3VuZGF0aW9uLm1hZ21hO2ZvdW5kYXRpb24uZGlhbW9uZDtzaGVsbC5lYXJ0aA==
+YzQtMTtzdGVpbmkuY2hhaW5lZC5iYWxsO3NwbGFzaC5lbGVtZW50LmZpcmU7YXR0YWNrLm5hdHVyZXN0b3VjaDtnaWZ0LnZvbGNhbm87Zm91bmRhdGlvbi5tYWdtYTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWFydGg=
 ```
 **C2**
 
