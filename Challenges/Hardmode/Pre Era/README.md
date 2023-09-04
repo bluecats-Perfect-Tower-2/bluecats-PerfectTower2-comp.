@@ -115,6 +115,8 @@ YzItNSBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c3BlbGwudG94aWNp
 
 Made from an unknown person
 
+Can swap power of the cat for daigoparry
+
 `Import Code`
 ```
 YzItNjthdHRhY2suY29tYnVzdGlvbjtyZWZsZWN0LndpbmNlO3NoaWVsZC51bml2ZXJzYWw7Y2F0LnBvd2Vy
