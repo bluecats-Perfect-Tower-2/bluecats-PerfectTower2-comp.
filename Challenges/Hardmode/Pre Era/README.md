@@ -71,15 +71,13 @@ YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5h
 
 **C1**
 
-No Software
+Made by catasleep, dfirestorm, rimfire_
 
-Spam Desperado
-
-Requires some luck
+Spam Firestorm
 
 `Import Code`
 ```
-RGVzZXJ0IENoYWwgMTtmb3VuZGF0aW9uLmdyYW5pdGU7c2hlbGwubGlnaHQ7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzcGVsbC5kZXNwZXJhZG87Ym9udXMub2ZmZW5zaXZlO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2JvbnVzLmRlZmVuc2l2ZTtlbmVyZ3kuZmxvdw==
+YzItMTtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtib251cy5vZmZlbnNpdmU7Ym9udXMuZGVmZW5zaXZlO2JvcmY7c3BlbGwuZmlyZXN0b3JtO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwubGlnaHQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZl
 ```
 **C2**
 
