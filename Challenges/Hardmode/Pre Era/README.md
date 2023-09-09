@@ -71,7 +71,7 @@ YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5h
 
 **C1**
 
-Made by catasleep, dfirestorm, rimfire_
+**Made By:** catasleep, dfirestorm, rimfire_
 
 Spam Firestorm
 
