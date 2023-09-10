@@ -284,27 +284,41 @@ YzYtMTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmFpcjtyZXNpc3RhbmNlLmVs
 ```
 **C2**
 
+Made By: rimfire_
+
 `Import Code`
 ```
-
+YzYtMjtmb3VuZGF0aW9uLmdyYW5pdGU7ZGVmZW5zZS5yZWZsZWN0O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5haXI7c2hlbGwud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7ZXhjaGFuZ2UuZmlyZTtyZXNpc3RhbmNlLmVsZW1lbnRhbA==
 ```
 **C3**
 
+Made By: rimfire_
+
 `Import Code`
 ```
-
+YzYtMztmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWFydGg7c2hlbGwuYWlyO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS51bmhvbHk7YXVyYS5oZWFydHN0b3BwZXI7c3BsYXNoLmVsZW1lbnQuZGFya25lc3M7c3RlaW5pLmNoYWluZWQuYmFsbDttaXNzaWxlLnVuaG9seTthdHRhY2suc3BlZWQ7b2ZmZW5zaXZlLmhlYWRodW50aW5n
 ```
 **C4**
 
+Made By: rimfire_
+
 `Import Code`
 ```
-
+YzYtNDtleGNoYW5nZS5haXI7cmVzaXN0YW5jZS5haXI7c2hlbGwuYWlyO3Jlc2lzdGFuY2UuZWxlbWVudGFsO2ZvdW5kYXRpb24uc3RlZWw7ZGVmZW5zZS5yZWZsZWN0O2ZvdW5kYXRpb24uZGlhbW9uZDtyZXNpc3RhbmNlLmFicy5haXI7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2RlZmVuc2Uuc3RhYnByZXZlbnRpb24=
 ```
 **C5**
 
+Made By: rimfire_
+
+Start with no wave streaming
+
+Upgrade Granite foundation first so you don't die, then phasing, max granite foundation, elemental resistance, shells, then upgrade as you wish
+
+Restart if an assassin jumps out of range and doesn't pathfind back to the tower
+
 `Import Code`
 ```
-
+YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVzaXN0YW5jZS5lbGVtZW50YWw7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c2hpZWxkLnBoYXNpbmc7c2hpZWxkLmRpdmlzaW9uO3JlZmxlY3Qud2luY2U7c2hpZWxkLnVuaXZlcnNhbDtjYXQucG93ZXI=
 ```
 **C6**
 
