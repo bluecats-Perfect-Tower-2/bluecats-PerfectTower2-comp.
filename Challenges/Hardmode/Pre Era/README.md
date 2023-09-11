@@ -300,27 +300,25 @@ YzYtMztmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWFydGg7c2hlbGwuYWlyO2ZvdW5kYXRpb24uZ3Jh
 ```
 **C4**
 
-Made By: rimfire_
+Made By: yoshi128986
 
-**BUGGED BP CHANGES PENDING ON UPDATE**
+**Turn off:** Wave Surge, Wave Vortex, Wave Horizon, Wave Breach and Infinity Horizon.
 
 `Import Code`
 ```
-YzYtNDtkZWZlbnNlLnJlZmxlY3Q7ZGVmZW5zZS5zdGFicHJldmVudGlvbg==
+YzYtNDthdHRhY2suc3BlZWQ7YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTtmaXJlLmluY2luZXJhdGlvbjtzdGVpbmkuY2hhaW5lZC5iYWxsO2dpZnQudm9sY2FubzthdHRhY2suZmlyZTtmb3VuZGF0aW9uLm1hZ21h
 ```
 **C5**
 
 Made By: rimfire_
 
-Start with no wave streaming
+Max out in order: Granite Foundation -> Phasing -> Division Shield -> Shells -> Elemental Resistance -> W.I.N.C.E -> Everything else
 
-Upgrade Granite foundation first so you don't die, then phasing, max granite foundation, elemental resistance, shells, then upgrade as you wish
-
-Restart if an assassin jumps out of range and doesn't pathfind back to the tower
+(Needs improvement due to usage of division shield)
 
 `Import Code`
 ```
-YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVzaXN0YW5jZS5lbGVtZW50YWw7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c2hpZWxkLnBoYXNpbmc7c2hpZWxkLmRpdmlzaW9uO3JlZmxlY3Qud2luY2U7c2hpZWxkLnVuaXZlcnNhbDtjYXQucG93ZXI=
+YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c2hpZWxkLnBoYXNpbmc7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2FsO3NoaWVsZC5kaXZpc2lvbg==
 ```
 **C6**
 
