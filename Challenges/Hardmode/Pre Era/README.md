@@ -284,27 +284,41 @@ YzYtMTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmFpcjtyZXNpc3RhbmNlLmVs
 ```
 **C2**
 
+Made By: rimfire_
+
 `Import Code`
 ```
-
+YzYtMjtmb3VuZGF0aW9uLmdyYW5pdGU7ZGVmZW5zZS5yZWZsZWN0O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5haXI7c2hlbGwud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7ZXhjaGFuZ2UuZmlyZTtyZXNpc3RhbmNlLmVsZW1lbnRhbA==
 ```
 **C3**
 
+Made By: rimfire_
+
 `Import Code`
 ```
-
+YzYtMztmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWFydGg7c2hlbGwuYWlyO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS51bmhvbHk7YXVyYS5oZWFydHN0b3BwZXI7c3BsYXNoLmVsZW1lbnQuZGFya25lc3M7c3RlaW5pLmNoYWluZWQuYmFsbDttaXNzaWxlLnVuaG9seTthdHRhY2suc3BlZWQ7b2ZmZW5zaXZlLmhlYWRodW50aW5n
 ```
 **C4**
 
+Made By: yoshi128986
+
+**Turn off:** Wave Surge, Wave Vortex, Wave Horizon, Wave Breach and Infinity Horizon.
+
 `Import Code`
 ```
-
+YzYtNDthdHRhY2suc3BlZWQ7YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTtmaXJlLmluY2luZXJhdGlvbjtzdGVpbmkuY2hhaW5lZC5iYWxsO2dpZnQudm9sY2FubzthdHRhY2suZmlyZTtmb3VuZGF0aW9uLm1hZ21h
 ```
 **C5**
 
+Made By: rimfire_, yoshi128986
+
+Max out in order: Granite Foundation -> Division Shield -> Shells -> Elemental Resistance -> W.I.N.C.E -> Everything else
+
+(Needs improvement due to usage of division shield)
+
 `Import Code`
 ```
-
+YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS5oZWFydHN0b3BwZXI7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2FsO3NoaWVsZC5kaXZpc2lvbg==
 ```
 **C6**
 
