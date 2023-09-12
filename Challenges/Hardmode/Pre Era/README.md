@@ -310,15 +310,15 @@ YzYtNDthdHRhY2suc3BlZWQ7YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5tdWx0aXNo
 ```
 **C5**
 
-Made By: rimfire_
+Made By: rimfire_, yoshi128986
 
-Max out in order: Granite Foundation -> Phasing -> Division Shield -> Shells -> Elemental Resistance -> W.I.N.C.E -> Everything else
+Max out in order: Granite Foundation -> Division Shield -> Shells -> Elemental Resistance -> W.I.N.C.E -> Everything else
 
 (Needs improvement due to usage of division shield)
 
 `Import Code`
 ```
-YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c2hpZWxkLnBoYXNpbmc7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2FsO3NoaWVsZC5kaXZpc2lvbg==
+YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS5oZWFydHN0b3BwZXI7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2FsO3NoaWVsZC5kaXZpc2lvbg==
 ```
 **C6**
 
