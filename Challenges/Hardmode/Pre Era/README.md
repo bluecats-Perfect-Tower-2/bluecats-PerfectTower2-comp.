@@ -342,9 +342,11 @@ BGM2LTYBAAAADWdhbWUubmV3cm91bmQAAAAABgAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2Ft
 
 **C1**
 
+Made By: rimfire_
+
 `Import Code`
 ```
-
+YzctMTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2ZvdW5kYXRpb24uZ3Jhbml0ZTthdXJhLmhlYXJ0c3RvcHBlcjtyZXNpc3RhbmNlLm5hdHVyZTtzaGVsbC5uYXR1cmU7cmVzaXN0YW5jZS53YXRlcjtzaGVsbC53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3NoZWxsLmVhcnRoO3Jlc2lzdGFuY2UuZWxlbWVudGFsO2RlZmVuc2UuYnVsbGV0cHJvb2Y=
 ```
 **C2**
 
