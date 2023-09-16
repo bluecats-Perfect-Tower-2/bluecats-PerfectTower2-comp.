@@ -322,9 +322,19 @@ YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVu
 ```
 **C6**
 
-`Import Code`
-```
+Made By: gen1code
 
+Enable AI and start it before the run (F4)
+
+**Turn Off:** Wave Streaming
+
+`Blueprint Import Code`
+```
+YzYtNjtnaWZ0LmZvcmVzdDtnaWZ0LmRlc2VydDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24uZGlhbW9uZDtmb3VuZGF0aW9uLm1hcmJsZTtleGNoYW5nZS5uZXV0cmFsO3NwZWxsLnNub3dzdG9ybTtzcGVsbC5zYW5kc3Rvcm07Zm91bmRhdGlvbi5zdGVlbDtzdGFtcGVkZS5nb2F0cztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2VuZXJneS5yZWN5Y2xpbmc=
+```
+`Facility AI Import Code`
+```
+BGM2LTYBAAAADWdhbWUubmV3cm91bmQAAAAABgAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zdGFtcGVkZS5nb2F0cwhjb25zdGFudAUAAAAAAAAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEFnNwZWxsLnJlc3BvbnNlLm5ldXRyYWwXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5zYW5kc3Rvcm0OZ2VuZXJpYy5nb3RvaWYIY29uc3RhbnQCBgAAABFjb21wYXJpc29uLmRvdWJsZRV0b3dlci5tb2R1bGUuY29vbGRvd24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5zYW5kc3Rvcm0IY29uc3RhbnQEAT4IY29uc3RhbnQDAAAAAAAAP0AXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5zbm93c3Rvcm0OZ2VuZXJpYy5nb3RvaWYIY29uc3RhbnQCAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5n
 ```
 
 
@@ -344,9 +354,14 @@ YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVu
 ```
 **C3**
 
+Made By: fireball541
+
+Requires Artifact: Golden Apple
+Max out in order: Granite Foundation -> W.I.N.C.E -> Everything else
+
 `Import Code`
 ```
-
+YzctMztmb3VuZGF0aW9uLmdyYW5pdGU7cmVzaXN0YW5jZS5uYXR1cmU7cmVzaXN0YW5jZS5nZW5lcmljO3NoZWxsLm5hdHVyZTtleGNoYW5nZS5uYXR1cmU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZmxlY3Qud2luY2U=
 ```
 **C4**
 
