@@ -356,14 +356,17 @@ YzctMTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2ZvdW5kYXRpb24uZ3Jh
 ```
 **C3**
 
-Made By: fireball541
+Made By: fireball541, rimfire_
 
-Requires Artifact: Golden Apple
+Requires a bit of luck.
+
+**Spam upgrade Granite Foundation at the start**, sometimes W.I.N.C.E will proc before you die giving you XP to upgrade Granite Foundation so you won't die on subsequent hits
+
 Max out in order: Granite Foundation -> W.I.N.C.E -> Everything else
 
 `Import Code`
 ```
-YzctMztmb3VuZGF0aW9uLmdyYW5pdGU7cmVzaXN0YW5jZS5uYXR1cmU7cmVzaXN0YW5jZS5nZW5lcmljO3NoZWxsLm5hdHVyZTtleGNoYW5nZS5uYXR1cmU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZmxlY3Qud2luY2U=
+YzctMztmb3VuZGF0aW9uLmdyYW5pdGU7cmVzaXN0YW5jZS5uYXR1cmU7c2hlbGwubmF0dXJlO2V4Y2hhbmdlLm5hdHVyZTtmb3VuZGF0aW9uLmRpYW1vbmQ7YmxvY2submF0dXJlO2V2YXNpb24uYmFzaWM7Z2lmdC5mb3Jlc3Q7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2Fs
 ```
 **C4**
 
