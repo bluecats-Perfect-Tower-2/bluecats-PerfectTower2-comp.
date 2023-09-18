@@ -286,8 +286,6 @@ YzYtMTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmFpcjtyZXNpc3RhbmNlLmVs
 
 Made By: rimfire_
 
-**Turn Off:** Wave Streaming
-
 `Import Code`
 ```
 YzYtMjtmb3VuZGF0aW9uLmdyYW5pdGU7ZGVmZW5zZS5yZWZsZWN0O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5haXI7c2hlbGwud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7ZXhjaGFuZ2UuZmlyZTtyZXNpc3RhbmNlLmVsZW1lbnRhbA==
@@ -353,6 +351,8 @@ YzctMTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2ZvdW5kYXRpb24uZ3Jh
 **C2**
 
 Made By: rimfire_
+
+**Turn Off:** Wave Streaming
 
 `Import Code`
 ```
