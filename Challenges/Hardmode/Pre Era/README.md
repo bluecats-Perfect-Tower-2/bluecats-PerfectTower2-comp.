@@ -101,7 +101,7 @@ Made By: yoshi128986, rimfire_
 
 `Import Code`
 ```
-YzItNDtzcGxhc2guZWxlbWVudC5maXJlO2dpZnQudm9sY2Fubztmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYWdtYTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRl
+YzItNDtzcGxhc2guZWxlbWVudC5maXJlO2dpZnQudm9sY2FubzthdHRhY2suc3BlZWQ7Zm91bmRhdGlvbi5tYWdtYTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRl
 ```
 **C5**
 
