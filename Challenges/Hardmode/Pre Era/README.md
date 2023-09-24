@@ -420,9 +420,13 @@ BGM3LTYCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nCQAAAA5n
 
 **C1**
 
+Made By: rimfire_
+
+May require a bit of luck.
+
 `Import Code`
 ```
-
+YzgtMTtyZXNpc3RhbmNlLmVhcnRoO3NoZWxsLmVhcnRoO3Jlc2lzdGFuY2UuZWxlY3RyaWNpdHk7c2hlbGwuZWxlY3RyaWNpdHk7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7ZXhjaGFuZ2UuZWFydGg7ZXhjaGFuZ2UuZWxlY3RyaWNpdHk7cmVmbGVjdC53aW5jZQ==
 ```
 **C2**
 
@@ -448,9 +452,11 @@ YzgtMztmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmZpcmU7c2hlbGwu
 ```
 **C4**
 
+Made By: gen1code
+
 `Import Code`
 ```
-
+YzgtNDtjb3JlLm1vbHRlbjtyZWZsZWN0LndpbmNlO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLm1hcmJsZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3NoZWxsLmZpcmU7c2hlbGwuZWxlY3RyaWNpdHk7cmVzaXN0YW5jZS5maXJlO3Jlc2lzdGFuY2UuZWxlY3RyaWNpdHk7cmVzaXN0YW5jZS5lbGVtZW50YWw7YXVyYS5oZWFydHN0b3BwZXI7ZXhjaGFuZ2UudW5pdmVyc2Fs
 ```
 **C5**
 
