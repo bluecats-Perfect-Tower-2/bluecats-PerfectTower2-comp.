@@ -426,15 +426,25 @@ BGM3LTYCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nCQAAAA5n
 ```
 **C2**
 
+Made By: rimfire_
+
+**Turn Off:** Wave Streaming
+
 `Import Code`
 ```
-
+YzgtMjthdHRhY2suZmlyZTtnaWZ0LnZvbGNhbm87ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJlO2F0dGFjay5pbXBldHVzO3N0ZWluaS5jaGFpbmVkLmJhbGw7YXR0YWNrLnNwZWVkO2F0dGFjay5ib3VuY2U7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2ZvdW5kYXRpb24ubWFnbWE7YXVyYS51bmhvbHk7YXVyYS5mcm9zdDthdXJhLnN0b3Jt
 ```
 **C3**
 
+Made By: rimfire_
+
+Requires a bit of luck, spam upgrade granite foundation and you should be fine, if for whatever reason you still die just try again.
+
+Max out in order: Granite Foundation -> Shells -> Everything else
+
 `Import Code`
 ```
-
+YzgtMztmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmZpcmU7c2hlbGwuYWlyO3NoZWxsLmVsZWN0cmljaXR5O3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYztkZWZlbnNlLmJ1bGxldHByb29mO2V4Y2hhbmdlLmZpcmU7ZXhjaGFuZ2UuYWlyO2V4Y2hhbmdlLmVsZWN0cmljaXR5O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTthdXJhLmhlYXJ0c3RvcHBlcjthdXJhLnVuaG9seTtyZWZsZWN0LndpbmNlO3NoaWVsZC51bml2ZXJzYWw=
 ```
 **C4**
 
