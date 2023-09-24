@@ -426,9 +426,13 @@ BGM3LTYCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nCQAAAA5n
 ```
 **C2**
 
+Made By: rimfire_
+
+**Turn Off:** Wave Streaming
+
 `Import Code`
 ```
-
+YzgtMjthdHRhY2suZmlyZTtnaWZ0LnZvbGNhbm87ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJlO2F0dGFjay5pbXBldHVzO3N0ZWluaS5jaGFpbmVkLmJhbGw7YXR0YWNrLnNwZWVkO2F0dGFjay5ib3VuY2U7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2ZvdW5kYXRpb24ubWFnbWE7YXVyYS51bmhvbHk7YXVyYS5mcm9zdDthdXJhLnN0b3Jt
 ```
 **C3**
 
