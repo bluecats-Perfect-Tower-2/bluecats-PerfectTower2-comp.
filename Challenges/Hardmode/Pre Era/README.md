@@ -436,9 +436,15 @@ YzgtMjthdHRhY2suZmlyZTtnaWZ0LnZvbGNhbm87ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJl
 ```
 **C3**
 
+Made By: rimfire_
+
+Requires a bit of luck, spam upgrade granite foundation and you should be fine, if for whatever reason you still die just try again.
+
+Max out in order: Granite Foundation -> Shells -> Everything else
+
 `Import Code`
 ```
-
+YzgtMztmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmZpcmU7c2hlbGwuYWlyO3NoZWxsLmVsZWN0cmljaXR5O3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYztkZWZlbnNlLmJ1bGxldHByb29mO2V4Y2hhbmdlLmZpcmU7ZXhjaGFuZ2UuYWlyO2V4Y2hhbmdlLmVsZWN0cmljaXR5O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTthdXJhLmhlYXJ0c3RvcHBlcjthdXJhLnVuaG9seTtyZWZsZWN0LndpbmNlO3NoaWVsZC51bml2ZXJzYWw=
 ```
 **C4**
 
