@@ -298,7 +298,7 @@ Made By: rimfire_
 
 `Import Code`
 ```
-YzYtMztmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWFydGg7c2hlbGwuYWlyO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS51bmhvbHk7YXVyYS5oZWFydHN0b3BwZXI7c3BsYXNoLmVsZW1lbnQuZGFya25lc3M7c3RlaW5pLmNoYWluZWQuYmFsbDttaXNzaWxlLnVuaG9seTthdHRhY2suc3BlZWQ7b2ZmZW5zaXZlLmhlYWRodW50aW5n
+YzYtMztmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWFydGg7c2hlbGwuYWlyO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTthdXJhLnVuaG9seTthdXJhLmhlYXJ0c3RvcHBlcjtmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5zcGVlZDtzcGxhc2guZWxlbWVudC5maXJlO2dpZnQudm9sY2FubzthdHRhY2sucmFwaWRmaXJlO2ZpcmUuaW5jaW5lcmF0aW9u
 ```
 **C4**
 
@@ -314,13 +314,11 @@ YzYtNDthdHRhY2suc3BlZWQ7YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5tdWx0aXNo
 
 Made By: rimfire_, yoshi128986
 
-Max out in order: Granite Foundation -> Division Shield -> Shells -> Elemental Resistance -> W.I.N.C.E -> Everything else
-
-(Needs improvement due to usage of division shield)
+Max out in order: Granite Foundation -> Shells -> Elemental Resistance -> Generic Resistance -> W.I.N.C.E -> Everything else
 
 `Import Code`
 ```
-YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS5oZWFydHN0b3BwZXI7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2FsO3NoaWVsZC5kaXZpc2lvbg==
+YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7cmVzaXN0YW5jZS5lbGVtZW50YWw7cmVzaXN0YW5jZS5nZW5lcmljO3JlZmxlY3Qud2luY2U7c2hpZWxkLnVuaXZlcnNhbDthdHRhY2suY29tYnVzdGlvbjtmaXJlLmluY2luZXJhdGlvbg==
 ```
 **C6**
 
