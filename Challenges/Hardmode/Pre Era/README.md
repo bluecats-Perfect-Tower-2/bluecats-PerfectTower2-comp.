@@ -1,6 +1,6 @@
 # Pre-Era Challenge BP's
 
-All BP's here are made from Yoshi128986#6141 unless stated otherwise (not all are pre-era, but they are as close as possible - Yoshi128986#6141)
+All BP's here are made from Yoshi128986 unless stated otherwise (not all are pre-era, but they are as close as possible - Yoshi128986)
 
 **AI**
 
@@ -473,6 +473,8 @@ CWM4LTQ6c3BhbQAAAAAAAAAAAwAAABFnZW5lcmljLndhaXR1bnRpbBFjb21wYXJpc29uLmRvdWJsZRV0
 
 ```
 **C6**
+
+Made By Yoshi128986
 
 Spam Toxic Piranha Ivy
 
