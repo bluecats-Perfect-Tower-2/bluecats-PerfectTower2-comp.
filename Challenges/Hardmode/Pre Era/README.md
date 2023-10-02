@@ -470,7 +470,7 @@ CWM4LTQ6c3BhbQAAAAAAAAAAAwAAABFnZW5lcmljLndhaXR1bnRpbBFjb21wYXJpc29uLmRvdWJsZRV0
 
 by yoshi128986
 
-No Wave Streaming until most of the Defensive modules are upgraded
+No Wave Streaming until most of the Defensive modules are maxed
 
 Use Toxic Piranha Ivy at the start to get xp to upgrade Granite Foundation, then focus on upgrading things generally in the order of the Defensive modules, don't upgrade Toxic Piranha Ivy, or Universal Shield. Using Toxic Piranha Ivy more at the start can make things faster, though after a few waves it can put you in danger. Using Awareness and other xp boosts can make it faster. 
 
