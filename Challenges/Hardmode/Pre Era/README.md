@@ -418,13 +418,11 @@ BGM3LTYCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nCQAAAA5n
 
 **C1**
 
-Made By: rimfire_
-
-May require a bit of luck.
+Made By: rimfire_, bertie690
 
 `Import Code`
 ```
-YzgtMTtyZXNpc3RhbmNlLmVhcnRoO3NoZWxsLmVhcnRoO3Jlc2lzdGFuY2UuZWxlY3RyaWNpdHk7c2hlbGwuZWxlY3RyaWNpdHk7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7ZXhjaGFuZ2UuZWFydGg7ZXhjaGFuZ2UuZWxlY3RyaWNpdHk7cmVmbGVjdC53aW5jZQ==
+YzgtMTtzaGVsbC5lYXJ0aDtzaGVsbC5lbGVjdHJpY2l0eTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtleGNoYW5nZS5lYXJ0aDtleGNoYW5nZS5lbGVjdHJpY2l0eTtyZWZsZWN0LndpbmNlO3Rvd2VyLnVuaXZlcnNhbDthdHRhY2suY29tYnVzdGlvbg==
 ```
 **C2**
 
