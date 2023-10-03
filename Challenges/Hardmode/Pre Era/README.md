@@ -1,6 +1,6 @@
 # Pre-Era Challenge BP's
 
-All BP's here are made from Yoshi128986#6141 unless stated otherwise (not all are pre-era, but they are as close as possible - Yoshi128986#6141)
+All BP's here are made from Yoshi128986 unless stated otherwise (not all are pre-era, but they are as close as possible - Yoshi128986)
 
 **AI**
 
@@ -466,15 +466,27 @@ CWM4LTQ6c3BhbQAAAAAAAAAAAwAAABFnZW5lcmljLndhaXR1bnRpbBFjb21wYXJpc29uLmRvdWJsZRV0
 ```
 **C5**
 
+by yoshi128986
+
+No Wave Streaming until most of the Defensive modules are maxed
+
+Use Toxic Piranha Ivy at the start to get xp to upgrade Granite Foundation, then focus on upgrading things generally in the order of the Defensive modules, don't upgrade Toxic Piranha Ivy, or Universal Shield. Using Toxic Piranha Ivy more at the start can make things faster, though after a few waves it can put you in danger.
+
+Using Awareness and other xp boosts can make it faster. 
+
 `Import Code`
 ```
-
+YzgtNSBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5yZWN5Y2xpbmc7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2FsO2ZvdW5kYXRpb24uZ3Jhbml0ZTtzaGVsbC5lbGVjdHJpY2l0eTtzaGVsbC5lYXJ0aDtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZWxlY3RyaWNpdHk7c2hpZWxkLmJvc3M7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2V4Y2hhbmdlLmVsZWN0cmljaXR5O2V4Y2hhbmdlLmVhcnRoO2F1cmEubW9uc29vbjtmb3VuZGF0aW9uLmRpYW1vbmQ7c3BlbGwudG94aWNpdnk=
 ```
 **C6**
 
+Made By Yoshi128986
+
+Spam Toxic Piranha Ivy
+
 `Import Code`
 ```
-
+YzgtNiBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxsLnRveGljaXZ5O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVzaXN0YW5jZS5maXJlO3NoZWxsLmZpcmU7cmVzaXN0YW5jZS5lbGVjdHJpY2l0eTtzaGVsbC5lbGVjdHJpY2l0eTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtleGNoYW5nZS5maXJlO2V4Y2hhbmdlLmVsZWN0cmljaXR5O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtyZXNpc3RhbmNlLmRhcmtuZXNzO3NoZWxsLmRhcmtuZXNzO2V4Y2hhbmdlLmRhcmtuZXNzO3Jlc2lzdGFuY2UuZ2VuZXJpYzthdXJhLmhlYXJ0c3RvcHBlcg==
 ```
 
 
