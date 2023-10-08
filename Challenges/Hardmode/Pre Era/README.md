@@ -153,6 +153,8 @@ Needs improvement because of useage of WINCE
 
 Made By: Astronut#5518
 
+Post Era
+
 `Import Code`
 ```
 YzMtNCBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7ZXhjaGFuZ2Uud2F0ZXI7ZXhjaGFuZ2UuZGFya25lc3M7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3Jlc2lzdGFuY2Uud2F0ZXI7cmVzaXN0YW5jZS5kYXJrbmVzcztyZXNpc3RhbmNlLmVsZW1lbnRhbDtzaGVsbC53YXRlcjtzaGVsbC5kYXJrbmVzcztyZXNpc3RhbmNlLmdlbmVyaWM7ZGVmZW5zZS5idWx3YXJrO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9uO3JlZmxlY3Qud2luY2U7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247ZW5lcmd5LmZsb3c=
@@ -217,7 +219,7 @@ YzQtNSBoYXJkO2F1cmEudW5ob2x5O2F1cmEuaGVhcnRzdG9wcGVyO2F1cmEuZnJvc3Q7Zm91bmRhdGlv
 ```
 **C6**
 
-I Gave Up - Yoshi128986#6141
+Post Era
 
 `Import Code`
 ```
@@ -243,11 +245,13 @@ YzUtMiBoYXJkO2ZvY3VzLndhdGVyO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2ZvdW5k
 ```
 **C3**
 
-Slightly luck based, upgrade health first so that you don't die, then wince to kill faster. No accel until you get a bit of health. 
+Upgrade Granite Foundation mostly, once you get it up a bit you can run with accel
+
+Post Era
 
 `Import Code`
 ```
-YzUtMyBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3JlZmxlY3Qud2luY2U7c2hpZWxkLmRpdmlzaW9u
+YzUtMyBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3JlZmxlY3Qud2luY2U7c2hpZWxkLmRpdmlzaW9uO2RlZmVuc2UuYnVsd2Fyaw==
 ```
 **C4**
 
