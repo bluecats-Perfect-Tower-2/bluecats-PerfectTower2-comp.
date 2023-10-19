@@ -364,17 +364,15 @@ YzctMjtmb3VuZGF0aW9uLm1hZ21hO2dpZnQuZGVzZXJ0O2dpZnQudm9sY2FubztmaXJlLmluY2luZXJh
 ```
 **C3**
 
-Made By: fireball541, rimfire_
+Post Era
 
-Requires a bit of luck.
+Made By: nar31
 
-**Spam upgrade Granite Foundation at the start**, sometimes W.I.N.C.E will proc before you die giving you XP to upgrade Granite Foundation so you won't die on subsequent hits
-
-Max out in order: Granite Foundation -> W.I.N.C.E -> Everything else
+Upgrade in alternation: Granite Foundation <-> Division Shield then everything else
 
 `Import Code`
 ```
-YzctMztmb3VuZGF0aW9uLmdyYW5pdGU7cmVzaXN0YW5jZS5uYXR1cmU7c2hlbGwubmF0dXJlO2V4Y2hhbmdlLm5hdHVyZTtmb3VuZGF0aW9uLmRpYW1vbmQ7YmxvY2submF0dXJlO2V2YXNpb24uYmFzaWM7Z2lmdC5mb3Jlc3Q7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2Fs
+YzctMyBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtzaGVsbC5uYXR1cmU7ZXhjaGFuZ2UubmF0dXJlO2ZvdW5kYXRpb24uZGlhbW9uZDtnaWZ0LmZvcmVzdDtzaGllbGQuZGl2aXNpb247bmF0dXJlLmdyb3d0aDtkZWZlbnNlLmJ1bHdhcms7cmVmbGVjdC53aW5jZTtib251cy5kZWZlbnNpdmU=
 ```
 **C4**
 
@@ -440,21 +438,15 @@ YzgtMjthdHRhY2suZmlyZTtnaWZ0LnZvbGNhbm87ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJl
 ```
 **C3**
 
-Made By: Bertie690, rimfire_
+Post Era
 
-Enable AI and start it before the run (F4)
+Made By: nar31
 
-Requires a bit of luck, spam upgrade granite foundation and you should be fine, if for whatever reason you still die just try again.
+Upgrade in alternation: Granite Foundation <-> Division Shield then everything else
 
-Max out in order: Granite Foundation -> Shells -> Auras -> Energy & offensive stuff -> Everything else
-
-`Blueprint Import Code`
+`Import Code`
 ```
-YzgtMzthdHRhY2suY29tYnVzdGlvbjtzcGVsbC50b3hpY2l2eTtzdGFtcGVkZS5nb2F0cztmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5maXJlO3NoZWxsLmFpcjtzaGVsbC5lbGVjdHJpY2l0eTthdXJhLmhlYXJ0c3RvcHBlcjthdXJhLnVuaG9seTtyZWZsZWN0LndpbmNlO3NoaWVsZC51bml2ZXJzYWw7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247ZW5lcmd5LmZsb3c=
-```
-`Facility AI Import Code`
-```
-BGM4LTMCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nAwAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zcGVsbC50b3hpY2l2eQhjb25zdGFudAUAAAAAAAAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zdGFtcGVkZS5nb2F0cwhjb25zdGFudAUAAAAAAAAAAA5nZW5lcmljLmdvdG9pZghjb25zdGFudAIBAAAAEWNvbXBhcmlzb24uZG91YmxlDHRvd2VyLmhlYWx0aAhjb25zdGFudAEACGNvbnN0YW50BAE+CGNvbnN0YW50AwAAAAAAAAAA
+YzgtMztmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5maXJlO2V4Y2hhbmdlLmZpcmU7c2hlbGwuYWlyO2V4Y2hhbmdlLmFpcjtzaGVsbC5lbGVjdHJpY2l0eTtleGNoYW5nZS5lbGVjdHJpY2l0eTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmdlbmVyaWM7cmVmbGVjdC53aW5jZTtzaGllbGQuZGl2aXNpb247ZGVmZW5zZS5idWx3YXJrO2JvbnVzLmRlZmVuc2l2ZQ==
 ```
 **C4**
 
