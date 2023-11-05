@@ -598,9 +598,13 @@ YzgtNiBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxs
 ```
 **C5**
 
+By Google HQ
+
+Also useful for c11-4 and c11-6, though you want only autoskip and wave streaming in. c11-4
+
 `Import Code`
 ```
-
+YzExLTUgaGFyZDthdXJhLm1vbnNvb247ZGVmZW5zZS5kZWZpYW5jZTthdXJhLmZyb3N0O2F1cmEuc3Rvcm07Zm91bmRhdGlvbi5tYWdtYTtldmFzaW9uLmJhc2ljO2F0dGFjay5zcGVlZDthdHRhY2suYm91bmNlO2F0dGFjay5tdWx0aXNob3Q7c3BsYXNoLmFkdmFuY2VkO2F0dGFjay5yYXBpZGZpcmU7YXR0YWNrLmltcGV0dXM7YXR0YWNrLmRlYXRod2lzaDtjcml0LmJhc2ljO2ltcGV0dXMuZmlyZTtzcGxhc2guZWxlbWVudC5maXJlO2F0dGFjay5maXJlO2NyaXQuZmlyZURtZztmaXJlLmluY2luZXJhdGlvbjtnaWZ0LnZvbGNhbm8=
 ```
 **C6**
 
