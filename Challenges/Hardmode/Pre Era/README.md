@@ -500,15 +500,19 @@ YzgtNiBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxs
 ```
 **C2**
 
+By Yoshi128986
+
 `Import Code`
 ```
-
+YzktMiBIYXJkO2F1cmEuaGVhcnRzdG9wcGVyO3Jlc2lzdGFuY2UuZ2VuZXJpYztyZXNpc3RhbmNlLmZpcmU7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3NoZWxsLmZpcmU7c2hlbGwud2F0ZXI7c2hlbGwuZWFydGg7Zm91bmRhdGlvbi5ncmFuaXRlO2V4Y2hhbmdlLmVhcnRoO2ZvdW5kYXRpb24uZGlhbW9uZDtnaWZ0Lm9jZWFuO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGllbGQuZnJvc3Q=
 ```
 **C3**
 
+By Yoshi128986
+
 `Import Code`
 ```
-
+YzktMyBIYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxsLnRveGljaXZ5O2F1cmEuaGVhcnRzdG9wcGVyO3Jlc2lzdGFuY2UuZ2VuZXJpYztyZXNpc3RhbmNlLmZpcmU7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3NoZWxsLmZpcmU7c2hlbGwud2F0ZXI7c2hlbGwuZWFydGg7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24uZGlhbW9uZDtnaWZ0Lm9jZWFuO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGllbGQuZnJvc3Q7cmVzaXN0YW5jZS5haXI7c2hlbGwuYWly
 ```
 **C4**
 
@@ -598,9 +602,13 @@ YzgtNiBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxs
 ```
 **C5**
 
+By Google HQ
+
+Also useful for c11-4 and c11-6, though you want only autoskip and wave streaming in. c11-4
+
 `Import Code`
 ```
-
+YzExLTUgaGFyZDthdXJhLm1vbnNvb247ZGVmZW5zZS5kZWZpYW5jZTthdXJhLmZyb3N0O2F1cmEuc3Rvcm07Zm91bmRhdGlvbi5tYWdtYTtldmFzaW9uLmJhc2ljO2F0dGFjay5zcGVlZDthdHRhY2suYm91bmNlO2F0dGFjay5tdWx0aXNob3Q7c3BsYXNoLmFkdmFuY2VkO2F0dGFjay5yYXBpZGZpcmU7YXR0YWNrLmltcGV0dXM7YXR0YWNrLmRlYXRod2lzaDtjcml0LmJhc2ljO2ltcGV0dXMuZmlyZTtzcGxhc2guZWxlbWVudC5maXJlO2F0dGFjay5maXJlO2NyaXQuZmlyZURtZztmaXJlLmluY2luZXJhdGlvbjtnaWZ0LnZvbGNhbm8=
 ```
 **C6**
 
@@ -620,9 +628,11 @@ YzgtNiBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxs
 ```
 **C2**
 
+By Yoshi128986
+
 `Import Code`
 ```
-
+YzEyLTIgSGFyZDtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZGFya25lc3M7cmVzaXN0YW5jZS5nZW5lcmljO3Jlc2lzdGFuY2UuZWxlbWVudGFsO2V4Y2hhbmdlLmVhcnRoO2V4Y2hhbmdlLmRhcmtuZXNzO2V4Y2hhbmdlLnVuaXZlcnNhbDtmb3VuZGF0aW9uLm1hcmJsZTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2dpZnQub2NlYW47c2hpZWxkLmZyb3N0O2RlZmVuc2UuYnVsbGV0cHJvb2Y7c2hlbGwuZWFydGg7c2hlbGwuZGFya25lc3M7YXVyYS5oZWFydHN0b3BwZXI7ZXZhc2lvbi5iYXNpYztyZWdlbmVyYXRpb24ucmVsYXRpdmU7c2hpZWxkLnBoYXNpbmc7Zm91bmRhdGlvbi5zdGVlbA==
 ```
 **C3**
 
