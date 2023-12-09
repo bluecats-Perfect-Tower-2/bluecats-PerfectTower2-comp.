@@ -550,9 +550,12 @@ YzktMyBIYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxs
 
 **C1**
 
+By: by22dgb
+
+Turn off wave streaming around wave 250
 `Import Code`
 ```
-
+QzEwLTEgSGFyZDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZ2VuZXJpYztyZXNpc3RhbmNlLmVsZW1lbnRhbDtzaGVsbC53YXRlcjtmb3VuZGF0aW9uLmRpYW1vbmQ7YXVyYS5oZWFydHN0b3BwZXI7ZXhjaGFuZ2Uud2F0ZXI7YXR0YWNrLmxpZmVzdGVhbDthdHRhY2subXVsdGlzaG90O2F0dGFjay5zcGVlZDt0YXN0ZS5lbGVjdHJpY2l0eTthdHRhY2suZWxlY3RyaWNpdHk7Y3JpdC5lbGVjdHJpY2l0eURtZztidXJzdC5lbGVjdHJpY2l0eTtjb3JlLm1hZ25ldGlj
 ```
 **C2**
 
