@@ -528,21 +528,49 @@ YzktMyBIYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxs
 ```
 **C4**
 
+Made by: Evelyn6147s
+
+Post era
+
+Enable AI and start it before the run (F4)
+
+**Turn Off:** Wave streaming
+
 `Import Code`
 ```
-
+YzktNDthdHRhY2suZWxlY3RyaWNpdHk7c3BsYXNoLmFkdmFuY2VkO2F0dGFjay5ib3VuY2U7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suc3BlZWQ7YXR0YWNrLnJhcGlkZmlyZTtzYWNyaWZpY2UuZGFyaztjcml0LmVsZWN0cmljaXR5RG1nO2dpZnQubWV0YWxsaWNydWlucztidXJzdC5lbGVjdHJpY2l0eTt0YXN0ZS5lbGVjdHJpY2l0eTtpbXBldHVzLmVsZWN0cmljaXR5O211bHRpc2hvdC5mb2N1c2VkO2RlZmVuc2UuYnVsd2FyaztlbGVjdHJpY2l0eS5tam9lbG5pcjtmb3VuZGF0aW9uLmJhdHRlcnk7YXVyYS5mcm9zdDtlbmVyZ3kuYmFzaWM=
+```
+`Facility AI Import Code`
+```
+BGM5LTQBAAAADWdhbWUubmV3cm91bmQAAAAAAwAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDnNhY3JpZmljZS5kYXJrEWdlbmVyaWMud2FpdHVudGlsEWNvbXBhcmlzb24uZG91YmxlFXRvd2VyLm1vZHVsZS5jb29sZG93bhhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDnNhY3JpZmljZS5kYXJrCGNvbnN0YW50BAI9PQhjb25zdGFudAMAAAAAAAAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDnNhY3JpZmljZS5kYXJr
 ```
 **C5**
 
+Made by: Evelyn6147s (with help from ryan180322)
+
+Post era
+
+Enable AI and start it before the run (F4)
+
+**Turn Off:** Wave streaming
+
 `Import Code`
 ```
-
+YzktNTtyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9uO2RlZmVuc2UuYnVsd2FyaztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2dpZnQuZm9yZXN0O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYXJibGU7cmVnZW5lcmF0aW9uLnJlbGF0aXZl
+```
+`Facility AI Import Code`
+```
+BGM5LTUBAAAABndha2V1cAAAAAACAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAMZ2VuZXJpYy5nb3RvCGNvbnN0YW50AgEAAAA=
 ```
 **C6**
 
+Made by: Evelyn6147s
+
+**Turn Off:** Wave streaming (can be turned on if you add Universal shield to the blueprint)
+
 `Import Code`
 ```
-
+YzktNjtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC53YXRlcjtzaGVsbC5lYXJ0aDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZWFydGg7cmVzaXN0YW5jZS5lbGVtZW50YWw7ZXhjaGFuZ2Uud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7YXVyYS5oZWFydHN0b3BwZXI=
 ```
 
 
