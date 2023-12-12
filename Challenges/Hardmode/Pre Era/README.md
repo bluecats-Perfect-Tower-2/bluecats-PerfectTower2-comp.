@@ -528,21 +528,41 @@ YzktMyBIYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxs
 ```
 **C4**
 
+By: Yoshi128986
+
+No Accel
+
 `Import Code`
 ```
-
+YzktNjtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC53YXRlcjtzaGVsbC5lYXJ0aDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZWFydGg7cmVzaXN0YW5jZS5lbGVtZW50YWw7ZXhjaGFuZ2Uud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7YXVyYS5oZWFydHN0b3BwZXI=
 ```
 **C5**
 
+Made by: Evelyn6147s (with help from ryan180322)
+
+Post era
+
+Enable AI and start it before the run (F4)
+
+**Turn Off:** Wave streaming
+
 `Import Code`
 ```
-
+YzktNTtyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9uO2RlZmVuc2UuYnVsd2FyaztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2dpZnQuZm9yZXN0O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYXJibGU7cmVnZW5lcmF0aW9uLnJlbGF0aXZl
+```
+`Facility AI Import Code`
+```
+BGM5LTUBAAAABndha2V1cAAAAAACAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAMZ2VuZXJpYy5nb3RvCGNvbnN0YW50AgEAAAA=
 ```
 **C6**
 
+Made by: Evelyn6147s
+
+**Turn Off:** Wave streaming (can be turned on if you add Universal shield to the blueprint)
+
 `Import Code`
 ```
-
+YzktNjtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC53YXRlcjtzaGVsbC5lYXJ0aDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZWFydGg7cmVzaXN0YW5jZS5lbGVtZW50YWw7ZXhjaGFuZ2Uud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7YXVyYS5oZWFydHN0b3BwZXI=
 ```
 
 
