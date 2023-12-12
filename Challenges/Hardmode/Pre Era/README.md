@@ -316,13 +316,13 @@ YzYtNDthdHRhY2suc3BlZWQ7YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5tdWx0aXNo
 ```
 **C5**
 
-Made By: rimfire_, yoshi128986
+Made By: WootImNoob 
 
-Max out in order: Granite Foundation -> Shells -> Elemental Resistance -> Generic Resistance -> W.I.N.C.E -> Everything else
+granite to 100, div to 100, shells to 100, then 2 granites for 1 shell (rough estimate)
 
 `Import Code`
 ```
-YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7cmVzaXN0YW5jZS5lbGVtZW50YWw7cmVzaXN0YW5jZS5nZW5lcmljO3JlZmxlY3Qud2luY2U7c2hpZWxkLnVuaXZlcnNhbDthdHRhY2suY29tYnVzdGlvbjtmaXJlLmluY2luZXJhdGlvbg==
+YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5lYXJ0aDtzaGVsbC5haXI7c2hlbGwuZGFya25lc3M7Z2lmdC5vY2VhbjtyZWZsZWN0LndpbmNlO2RlZmVuc2UuYnVsd2FyaztzaGllbGQuZGl2aXNpb247bmF0dXJlLmdyb3d0aDthdHRhY2suY29tYnVzdGlvbg==
 ```
 **C6**
 
