@@ -528,9 +528,13 @@ YzktMyBIYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxs
 ```
 **C4**
 
+By: Yoshi128986
+
+No Accel
+
 `Import Code`
 ```
-
+YzktNjtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC53YXRlcjtzaGVsbC5lYXJ0aDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZWFydGg7cmVzaXN0YW5jZS5lbGVtZW50YWw7ZXhjaGFuZ2Uud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7YXVyYS5oZWFydHN0b3BwZXI=
 ```
 **C5**
 
