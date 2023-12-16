@@ -153,6 +153,8 @@ Needs improvement because of useage of WINCE
 
 Made By: Astronut#5518
 
+Post Era
+
 `Import Code`
 ```
 YzMtNCBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7ZXhjaGFuZ2Uud2F0ZXI7ZXhjaGFuZ2UuZGFya25lc3M7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3Jlc2lzdGFuY2Uud2F0ZXI7cmVzaXN0YW5jZS5kYXJrbmVzcztyZXNpc3RhbmNlLmVsZW1lbnRhbDtzaGVsbC53YXRlcjtzaGVsbC5kYXJrbmVzcztyZXNpc3RhbmNlLmdlbmVyaWM7ZGVmZW5zZS5idWx3YXJrO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9uO3JlZmxlY3Qud2luY2U7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247ZW5lcmd5LmZsb3c=
@@ -217,7 +219,7 @@ YzQtNSBoYXJkO2F1cmEudW5ob2x5O2F1cmEuaGVhcnRzdG9wcGVyO2F1cmEuZnJvc3Q7Zm91bmRhdGlv
 ```
 **C6**
 
-I Gave Up - Yoshi128986#6141
+Post Era
 
 `Import Code`
 ```
@@ -243,11 +245,13 @@ YzUtMiBoYXJkO2ZvY3VzLndhdGVyO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2ZvdW5k
 ```
 **C3**
 
-Slightly luck based, upgrade health first so that you don't die, then wince to kill faster. No accel until you get a bit of health. 
+Upgrade Granite Foundation mostly, once you get it up a bit you can run with accel
+
+Post Era
 
 `Import Code`
 ```
-YzUtMyBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3JlZmxlY3Qud2luY2U7c2hpZWxkLmRpdmlzaW9u
+YzUtMyBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3JlZmxlY3Qud2luY2U7c2hpZWxkLmRpdmlzaW9uO2RlZmVuc2UuYnVsd2Fyaw==
 ```
 **C4**
 
@@ -312,13 +316,15 @@ YzYtNDthdHRhY2suc3BlZWQ7YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5tdWx0aXNo
 ```
 **C5**
 
-Made By: rimfire_, yoshi128986
+Made By: WootImNoob 
 
-Max out in order: Granite Foundation -> Shells -> Elemental Resistance -> Generic Resistance -> W.I.N.C.E -> Everything else
+granite to 100, div to 100, shells to 100, then 2 granites for 1 shell (rough estimate)
+
+Post Era
 
 `Import Code`
 ```
-YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmFpcjtzaGVsbC5kYXJrbmVzcztzaGVsbC5lYXJ0aDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7cmVzaXN0YW5jZS5lbGVtZW50YWw7cmVzaXN0YW5jZS5nZW5lcmljO3JlZmxlY3Qud2luY2U7c2hpZWxkLnVuaXZlcnNhbDthdHRhY2suY29tYnVzdGlvbjtmaXJlLmluY2luZXJhdGlvbg==
+YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5lYXJ0aDtzaGVsbC5haXI7c2hlbGwuZGFya25lc3M7Z2lmdC5vY2VhbjtyZWZsZWN0LndpbmNlO2RlZmVuc2UuYnVsd2FyaztzaGllbGQuZGl2aXNpb247bmF0dXJlLmdyb3d0aDthdHRhY2suY29tYnVzdGlvbg==
 ```
 **C6**
 
@@ -360,17 +366,15 @@ YzctMjtmb3VuZGF0aW9uLm1hZ21hO2dpZnQuZGVzZXJ0O2dpZnQudm9sY2FubztmaXJlLmluY2luZXJh
 ```
 **C3**
 
-Made By: fireball541, rimfire_
+Post Era
 
-Requires a bit of luck.
+Made By: nar31
 
-**Spam upgrade Granite Foundation at the start**, sometimes W.I.N.C.E will proc before you die giving you XP to upgrade Granite Foundation so you won't die on subsequent hits
-
-Max out in order: Granite Foundation -> W.I.N.C.E -> Everything else
+Upgrade in alternation: Granite Foundation <-> Division Shield then everything else
 
 `Import Code`
 ```
-YzctMztmb3VuZGF0aW9uLmdyYW5pdGU7cmVzaXN0YW5jZS5uYXR1cmU7c2hlbGwubmF0dXJlO2V4Y2hhbmdlLm5hdHVyZTtmb3VuZGF0aW9uLmRpYW1vbmQ7YmxvY2submF0dXJlO2V2YXNpb24uYmFzaWM7Z2lmdC5mb3Jlc3Q7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2Fs
+YzctMyBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtzaGVsbC5uYXR1cmU7ZXhjaGFuZ2UubmF0dXJlO2ZvdW5kYXRpb24uZGlhbW9uZDtnaWZ0LmZvcmVzdDtzaGllbGQuZGl2aXNpb247bmF0dXJlLmdyb3d0aDtkZWZlbnNlLmJ1bHdhcms7cmVmbGVjdC53aW5jZTtib251cy5kZWZlbnNpdmU=
 ```
 **C4**
 
@@ -408,21 +412,15 @@ BGM3LTUCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nCQAAAA5n
 ```
 **C6**
 
-Made By: rimfire_
+Made By: Yoshi128986
 
-Enable AI and start it before the run (F4)
+Max out in order: Granite Foundation -> Shells
 
-**Turn Off:** Wave Streaming
-
-Max out in order: Granite Foundation -> Simple Evasion -> Energy Recycling -> Energy -> Energy Regeneration -> Everything else
+Post Era
 
 `Blueprint Import Code`
 ```
-YzctNjtyZWZsZWN0LndpbmNlO3NoaWVsZC51bml2ZXJzYWw7Y2F0LnBvd2VyO2V2YXNpb24uYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLm1hcmJsZTtmb3VuZGF0aW9uLnN0ZWVsO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtleGNoYW5nZS5uZXV0cmFsO2dpZnQuZm9yZXN0O2dpZnQuZGVzZXJ0O2F1cmEuZnJvc3Q7c3BlbGwuc2FuZHN0b3JtO3NwZWxsLnNub3dzdG9ybTthdXJhLnVuaG9seTtzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O2VuZXJneS5yZWN5Y2xpbmc7ZW5lcmd5LnN1bjtnaWZ0Lmp1bmdsZTtzcGVsbC5maXJlc3Rvcm07YXR0YWNrLmNvbWJ1c3Rpb24=
-```
-`Facility AI Import Code`
-```
-BGM3LTYCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nCQAAAA5nZW5lcmljLmdvdG9pZghjb25zdGFudAJjAAAAEWNvbXBhcmlzb24uc3RyaW5nEWdsb2JhbC5zdHJpbmcuZ2V0CGNvbnN0YW50BAo8c2l6ZT0wPnNLCGNvbnN0YW50BAI9PQhjb25zdGFudAQqPC9zaXplPjxjb2xvcj13aGl0ZT5Ta2lsbHMgcnVubmluZzwvY29sb3I+EWdsb2JhbC5zdHJpbmcuc2V0CGNvbnN0YW50BAo8c2l6ZT0wPnNLCGNvbnN0YW50BCo8L3NpemU+PGNvbG9yPXdoaXRlPlNraWxscyBydW5uaW5nPC9jb2xvcj4YdG93ZXIubW9kdWxlLnVzZXBvc2l0aW9uGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwuZmlyZXN0b3JtCGNvbnN0YW50BQAAAAAAAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50GGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQWc3BlbGwucmVzcG9uc2UubmV1dHJhbBd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQED3NwZWxsLnNhbmRzdG9ybQ5nZW5lcmljLmdvdG9pZghjb25zdGFudAIDAAAAD2NvbXBhcmlzb24uYm9vbBFjb21wYXJpc29uLmRvdWJsZRV0b3dlci5tb2R1bGUuY29vbGRvd24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5zYW5kc3Rvcm0IY29uc3RhbnQEAj49CGNvbnN0YW50AwAAAAAAgD1ACGNvbnN0YW50BAImJhFjb21wYXJpc29uLmRvdWJsZRB0b3dlci5oZWFsdGgubWF4CGNvbnN0YW50BAE+CGNvbnN0YW50AwAAAAAAAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50GGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwuc25vd3N0b3JtDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgMAAAARY29tcGFyaXNvbi5kb3VibGUQdG93ZXIuaGVhbHRoLm1heAhjb25zdGFudAQBPghjb25zdGFudAMAAAAAAAAAABFnbG9iYWwuc3RyaW5nLnNldAhjb25zdGFudAQKPHNpemU9MD5zSwhjb25zdGFudAQHPC9zaXplPg==
+YzctNiBIYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3NoZWxsLm5hdHVyZTtzaGVsbC5haXI7c2hlbGwud2F0ZXI7c2hlbGwuZWFydGg7cmVzaXN0YW5jZS5uYXR1cmU7cmVzaXN0YW5jZS5haXI7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYztnaWZ0Lm9jZWFuO2JvbnVzLmRlZmVuc2l2ZTtyZWZsZWN0LndpbmNlO3NoaWVsZC5kaXZpc2lvbjtzaGllbGQudW5pdmVyc2FsO2RlZmVuc2UuYnVsd2FyaztuYXR1cmUuZ3Jvd3Ro
 ```
 
 
@@ -448,21 +446,15 @@ YzgtMjthdHRhY2suZmlyZTtnaWZ0LnZvbGNhbm87ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJl
 ```
 **C3**
 
-Made By: Bertie690, rimfire_
+Post Era
 
-Enable AI and start it before the run (F4)
+Made By: nar31
 
-Requires a bit of luck, spam upgrade granite foundation and you should be fine, if for whatever reason you still die just try again.
+Upgrade in alternation: Granite Foundation <-> Division Shield then everything else
 
-Max out in order: Granite Foundation -> Shells -> Auras -> Energy & offensive stuff -> Everything else
-
-`Blueprint Import Code`
+`Import Code`
 ```
-YzgtMzthdHRhY2suY29tYnVzdGlvbjtzcGVsbC50b3hpY2l2eTtzdGFtcGVkZS5nb2F0cztmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5maXJlO3NoZWxsLmFpcjtzaGVsbC5lbGVjdHJpY2l0eTthdXJhLmhlYXJ0c3RvcHBlcjthdXJhLnVuaG9seTtyZWZsZWN0LndpbmNlO3NoaWVsZC51bml2ZXJzYWw7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247ZW5lcmd5LmZsb3c=
-```
-`Facility AI Import Code`
-```
-BGM4LTMCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nAwAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zcGVsbC50b3hpY2l2eQhjb25zdGFudAUAAAAAAAAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zdGFtcGVkZS5nb2F0cwhjb25zdGFudAUAAAAAAAAAAA5nZW5lcmljLmdvdG9pZghjb25zdGFudAIBAAAAEWNvbXBhcmlzb24uZG91YmxlDHRvd2VyLmhlYWx0aAhjb25zdGFudAEACGNvbnN0YW50BAE+CGNvbnN0YW50AwAAAAAAAAAA
+YzgtMztmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5maXJlO2V4Y2hhbmdlLmZpcmU7c2hlbGwuYWlyO2V4Y2hhbmdlLmFpcjtzaGVsbC5lbGVjdHJpY2l0eTtleGNoYW5nZS5lbGVjdHJpY2l0eTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmdlbmVyaWM7cmVmbGVjdC53aW5jZTtzaGllbGQuZGl2aXNpb247ZGVmZW5zZS5idWx3YXJrO2JvbnVzLmRlZmVuc2l2ZQ==
 ```
 **C4**
 
@@ -480,15 +472,13 @@ CWM4LTQ6c3BhbQAAAAAAAAAAAwAAABFnZW5lcmljLndhaXR1bnRpbBFjb21wYXJpc29uLmRvdWJsZRV0
 
 by yoshi128986
 
-No Wave Streaming until most of the Defensive modules are maxed
+No Wave Streaming until granite is maxed
 
-Use Toxic Piranha Ivy at the start to get xp to upgrade Granite Foundation, then focus on upgrading things generally in the order of the Defensive modules, don't upgrade Toxic Piranha Ivy, or Universal Shield. Using Toxic Piranha Ivy more at the start can make things faster, though after a few waves it can put you in danger.
-
-Using Awareness and other xp boosts can make it faster. 
+Max Granite -> Shells -> Exchanges/Resistance/Ocean Gift/Division Shield
 
 `Import Code`
 ```
-YzgtNSBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5yZWN5Y2xpbmc7cmVmbGVjdC53aW5jZTtzaGllbGQudW5pdmVyc2FsO2ZvdW5kYXRpb24uZ3Jhbml0ZTtzaGVsbC5lbGVjdHJpY2l0eTtzaGVsbC5lYXJ0aDtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZWxlY3RyaWNpdHk7c2hpZWxkLmJvc3M7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2V4Y2hhbmdlLmVsZWN0cmljaXR5O2V4Y2hhbmdlLmVhcnRoO2F1cmEubW9uc29vbjtmb3VuZGF0aW9uLmRpYW1vbmQ7c3BlbGwudG94aWNpdnk=
+YzgtNSBIYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYztnaWZ0Lm9jZWFuO3NoZWxsLmVsZWN0cmljaXR5O3NoZWxsLmVhcnRoO3Jlc2lzdGFuY2UuZWFydGg7cmVzaXN0YW5jZS5lbGVjdHJpY2l0eTtleGNoYW5nZS5lYXJ0aDtleGNoYW5nZS5lbGVjdHJpY2l0eTtib251cy5kZWZlbnNpdmU7cmVmbGVjdC53aW5jZTtzaGllbGQuZGl2aXNpb247c2hpZWxkLnVuaXZlcnNhbA==
 ```
 **C6**
 
