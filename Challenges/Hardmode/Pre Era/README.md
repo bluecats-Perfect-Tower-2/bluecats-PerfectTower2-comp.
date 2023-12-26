@@ -226,7 +226,11 @@ Post Era
 YzQtNiBoYXJkO3NoaWVsZC5kaXZpc2lvbjtkZWZlbnNlLmJ1bHdhcms7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c3BlbGwudG94aWNpdnk=
 ```
 
-Pre Era, this solution might be fixed in the future
+Pre Era
+
+This solution might be fixed in the future
+
+Enable AI and start it before the run (F4)
 
 `Blueprint Import Code`
 ```
