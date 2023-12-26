@@ -386,7 +386,7 @@ Enable AI and start it before the run (F4)
 
 **Turn Off:** Wave Streaming
 
-`Import Code`
+`Blueprint Import Code`
 ```
 YzctNDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2VuZXJneS5yZWN5Y2xpbmc7ZW5lcmd5Lm1vb247Z2lmdC5mb3Jlc3Q7Z2lmdC5kZXNlcnQ7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtleGNoYW5nZS5uZXV0cmFsO3Jlc2lzdGFuY2UubmV1dHJhbDtmb3VuZGF0aW9uLnN0ZWVsO2ZvdW5kYXRpb24ubWFyYmxlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtyZXNpc3RhbmNlLmdlbmVyaWM7cmVmbGVjdC53aW5jZTtjYXQucG93ZXI=
 ```
@@ -538,7 +538,7 @@ Enable AI and start it before the run (F4)
 
 **Turn Off:** Wave streaming
 
-`Import Code`
+`Blueprint Import Code`
 ```
 YzktNTtyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9uO2RlZmVuc2UuYnVsd2FyaztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2dpZnQuZm9yZXN0O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYXJibGU7cmVnZW5lcmF0aW9uLnJlbGF0aXZl
 ```
@@ -565,6 +565,7 @@ YzktNjtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxh
 By: by22dgb
 
 Turn off wave streaming around wave 250
+
 `Import Code`
 ```
 QzEwLTEgSGFyZDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZ2VuZXJpYztyZXNpc3RhbmNlLmVsZW1lbnRhbDtzaGVsbC53YXRlcjtmb3VuZGF0aW9uLmRpYW1vbmQ7YXVyYS5oZWFydHN0b3BwZXI7ZXhjaGFuZ2Uud2F0ZXI7YXR0YWNrLmxpZmVzdGVhbDthdHRhY2subXVsdGlzaG90O2F0dGFjay5zcGVlZDt0YXN0ZS5lbGVjdHJpY2l0eTthdHRhY2suZWxlY3RyaWNpdHk7Y3JpdC5lbGVjdHJpY2l0eURtZztidXJzdC5lbGVjdHJpY2l0eTtjb3JlLm1hZ25ldGlj
