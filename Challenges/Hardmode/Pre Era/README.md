@@ -307,6 +307,7 @@ YzYtMTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmFpcjtyZXNpc3RhbmNlLmVs
 **C2**
 
 Made By: rimfire_
+Note: If you are using this for Normal Mode, you will have to turn down your resistance in town stats
 
 `Import Code`
 ```
