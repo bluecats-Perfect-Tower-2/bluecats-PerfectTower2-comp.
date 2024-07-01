@@ -266,7 +266,7 @@ YzUtMiBoYXJkO2ZvY3VzLndhdGVyO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2ZvdW5k
 
 By Fireball
 
-AI should do everything
+AI should do everything, make sure modules menu is open
 
 `Import Code`
 ```
