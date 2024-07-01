@@ -266,7 +266,7 @@ YzUtMiBoYXJkO2ZvY3VzLndhdGVyO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2ZvdW5k
 
 By Fireball
 
-AI should do everything, make sure modules menu is open
+AI should do everything, make sure modules menu is open and that you are in 1x buy mode
 
 `Import Code`
 ```
