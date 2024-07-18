@@ -29,6 +29,7 @@ Nature + Universal inf perk helps also
 
 ### Credits:
 Woot (@wootimnoob) - Creating the BP that's the parent of this
+
 CL (@cl1694) - Creating the orginal Module Disabler
 
 <br>
@@ -50,10 +51,13 @@ If you want to *add modules*, add `Daigoparry`, `Power of the Cat`, `bluecat's H
 
 ### Credits: 
 Woot (@wootimnoob) - Creating the era shield AI
+
 Lux (@luxuriosity69) - Testing helper, and final BP and AI production
+
 The fake Matt (@bertie690) - Testing helper and module and ai suggestions
 
 ***Also*, if you are in #era-phase , you do not need Infinity Attack, its from mt12
+
 Add neutral response if you want to push regions with universal, you will need to add it to the AI**
 
 <br>
@@ -72,6 +76,7 @@ A blueprint that's made to get to Forest Easy wave 100b with **as little** stats
 The only hard-to-get modules are:
 Reboot  
 - NOT REQUIRED TO GET, but its the grey module in jumble, use the icons under the rows to match them up, if you're patient you'll get it eventually, get the perfect space artifact for it if you haven't
+
 Borf 
 - Is required. Its from Perfect Space and lot of later bps use it, go get it, it won't be easier later
 
@@ -119,20 +124,24 @@ Everything  <sprite=157>;air.hurricane;amplifier.neutral;armor.refined;attack.ai
 ## SpookyCat
 
 (meant for MT12+)
+
 Keep below Inf 1, because infinity slows down killspeed
 
 Halloween Cauldron **with this bp**: Range Up, Damage Down
 
-Dying?
+### Dying?
 Remove a #darkness module like `Darkness Splash`
+
 Replace with `Advanced Shield`
 
-No Damage? 
+### No Damage? 
 Remove 2 #darkness modules like `Darkness Subsistance` and `Anti-Darkness Crit`
+
 Replace them with `Daybloom` and `Nature's Touch`
 
 ### Credits:
 dbugz (@dbugz) -  Helping with an ai update
+
 rimfire (@rimfire_) - Making the alternate BORF BP
 
 <br>
