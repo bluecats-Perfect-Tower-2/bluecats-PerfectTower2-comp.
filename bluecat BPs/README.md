@@ -105,6 +105,8 @@ Yoshi (@yoshi128986) - Making the original everything BP, and discovering the or
 
 Don't import the one with normal words, import the one with scrambled text
 
+<br>
+
 Ping me (@blueturbo47) if you want this updated and I haven't, I will have the BP posted as soon as possible after the game updates
 
 <br>
