@@ -7,6 +7,7 @@ Here's a collection of my BP's with their Ai's
 - [AllBlue](#AllBlue)
 - [DeathCat](#DeathCat)
 - [EveryCat](#EveryCat)
+- [SpookyCat](#SpookyCat)
   
 <br><br><br>
 
