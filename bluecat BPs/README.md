@@ -103,9 +103,10 @@ Also no, it doesn't break the cap on 51 modules, that was fixed a while ago. Tho
 ### Credits:
 Yoshi (@yoshi128986) - Making the original everything BP, and discovering the original bug
 
-Don't import the one with normal words, import the one with scrambled text
 
 <br>
+
+Don't import the one with normal words, import the one with scrambled text
 
 Ping me (@blueturbo47) if you want this updated and I haven't, I will have the BP posted as soon as possible after the game updates
 
