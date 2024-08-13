@@ -402,21 +402,13 @@ YzctMyBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtzaGVsbC5uYXR1cmU7ZXhjaGFuZ2UubmF0dXJlO2Zv
 ```
 **C4**
 
-Made by: Lunaa.620
+Made by: fireball
 
-Can be done without Generic Resistance, but you will get very close to dying, and could maybe even die in some cases
+If you're using this for Normal Mode, you will need to disable Basic, Nature and Universal resistances in Town Stats.
 
-Enable AI and start it before the run (F4)
-
-**Turn Off:** Wave Streaming
-
-`Blueprint Import Code`
+`Import Code`
 ```
-YzctNDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2VuZXJneS5yZWN5Y2xpbmc7ZW5lcmd5Lm1vb247Z2lmdC5mb3Jlc3Q7Z2lmdC5kZXNlcnQ7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtleGNoYW5nZS5uZXV0cmFsO3Jlc2lzdGFuY2UubmV1dHJhbDtmb3VuZGF0aW9uLnN0ZWVsO2ZvdW5kYXRpb24ubWFyYmxlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtyZXNpc3RhbmNlLmdlbmVyaWM7cmVmbGVjdC53aW5jZTtjYXQucG93ZXI=
-```
-`Facility AI Import Code`
-```
-BGM3LTQBAAAABndha2V1cAAAAAACAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAMZ2VuZXJpYy5nb3RvCGNvbnN0YW50AgEAAAA=
+RclBCoAgEAXQq4T7XAVBXqA7RAvTXw4MQ4waRXT3aNX2vdssXLErSclmaCYT+rZrRq/RRayQDKtYGaE4nCF52WAFtajnH/C9UqByuZwIHG0VOqDZs5mfFw==
 ```
 **C5**
 
