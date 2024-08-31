@@ -2,6 +2,8 @@
 
 All Blueprints Made By Yoshi128986 unless otherwise specified.
 
+No Accel means no Wave Streaming
+
 #### Quick-Navigation
 - [Forest](#Forest)
 - [Desert](#Desert)
@@ -23,15 +25,37 @@ All Blueprints Made By Yoshi128986 unless otherwise specified.
 
 **C1**
 
+Early as possible
+
+No Accel
+
 `Import Code`
 ```
+PcoxDoAgDEDRqxB2TVh19hTGodQaiAikLYMx3t0Jx5f/H+tTo8oxq9jJrBbd4MwCnO4ZVAHP0YNE7JBKtHdcLWmUUPRfS8tIXQSsoSODNv7TEZns9n4=
+```
 
+Very Fast
+
+`Import Code`
+```
+LcmxCoAgEADQXwn3BNfc+4loOPWsg1PjVBqify+i7cG7lOOOh1BuVU3DorwZzTBDbbbuhBy0g0rextJzgEYl6wRbgneRWUcS/HlCQ7EORAjlC7XeDw==
 ```
 **C2**
 
+Early as possible
+
+No Accel
+
 `Import Code`
 ```
+q1ZKyilNLSjKzCspVrJSiFZKNtQ1UnBNLMqptE7LL81LSSzJzM/Ty01Mz020TiwpSUzO1isuSE1NgXFyS3NKMosz8ktgAmmZRanWIEIvMy85My+1CGyCUmwtAA==
+```
 
+Very Fast
+
+`Import Code`
+```
+DcoxDoAgDADAr5Dukugou58wDgWLNClgCkzGv+vN94CXQbdy6Q1Ws0OYp8Vs2LpriUlO67FxcLGOcmLnWmzGK6PzqMqkNrLSX0nEEmpPcLwf
 ```
 **C3**
 
