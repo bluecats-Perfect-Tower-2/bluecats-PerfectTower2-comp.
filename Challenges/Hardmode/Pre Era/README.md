@@ -418,6 +418,21 @@ YzctNDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtzcGVsbC5yZXNwb25zZS5uZXV0cmFs
 ```
 BGM3LTQBAAAABndha2V1cAAAAAACAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAMZ2VuZXJpYy5nb3RvCGNvbnN0YW50AgEAAAA=
 ```
+
+
+**Alternative solution**.
+
+Made by: fireball
+
+If you're using this for Normal Mode, you will need to disable Basic, Nature and Universal resistances in Town Stats.
+
+Might be fixed in the future.
+
+`Import Code`
+```
+RclBCoAgEAXQq4T7XAVBXqA7RAvTXw4MQ4waRXT3aNX2vdssXLErSclmaCYT+rZrRq/RRayQDKtYGaE4nCF52WAFtajnH/C9UqByuZwIHG0VOqDZs5mfFw==
+```
+
 **C5**
 
 Made By: rimfire_, gen1code
@@ -803,11 +818,13 @@ QzEzLTIgSE07ZGVmZW5zZS5kYWlnb3BhcnJ5O2dpZnQuY2hhb3M7Zm91bmRhdGlvbi5ncmFuaXRlO2Zv
 
 No Accel
 
-By: Yoshi128986 
+By: fireball
+
+If you're using this for Normal Mode, you will need to disable Basic, Water, Air and Light resistances in Town Stats.
 
 `Import Code`
 ```
-XZDBTgQhDIZfZTN3iSae5OrBdzAeOtAdmmUKaYvrxPjuYnaIjhfS/+On/cvnNOeGVYhNp6fT6xQe7u8eTy8g0WvqpzoK6MEMwsVpRYxDrC0baSo2wFwa/3pvytVUkOnjH12AYCBaK1rTIQUqxTMJejUkJhcSEGN0M+Tsg5D1SikMf0SwdO1BvJaWXc/8jmrEy82LGYMJBbLteV383EQP0Bv0OQeyN/6L9owHpjWDph+0Ih97zqX0KYzNBPKurmAoex1BLoyqHhll2cZCTcCdpRv8uX9TBKPC/c76w216+/oG
+NchBCgIxDAXQqwzdW5DZ2Qt4B3ER2982GDKSZpyFeHcH1N3jvcJNVjyM1Uc4TZeQj/Nhns5kJZE75XssIO8bj55Gh0gktp82cvwt3LqnuqxayHnR2IyUHcnQoLBvGmTHE6mgQgf2qILs4fr+AA==
 ```
 **C4**
 
@@ -935,11 +952,11 @@ MTUtMiBIYXJkO3NoaWVsZC51bml2ZXJzYWw7ZGVmZW5zZS5yZWZsZWN0
 
 No Accel
 
-By: Yoshi128986
+By: fireball
 
 `Import Code`
 ```
-XZDBTgQhDIZfZTN3iSae5OrBdzAeOtAdmmUKaYvrxPjuYnaIjhfS/+On/cvnNOeGVYhNp6fT6xQe7u8eTy8g0WvqpzoK6MEMwsVpRYxDrC0baSo2wFwa/3pvytVUkOnjH12AYCBaK1rTIQUqxTMJejUkJhcSEGN0M+Tsg5D1SikMf0SwdO1BvJaWXc/8jmrEy82LGYMJBbLteV383EQP0Bv0OQeyN/6L9owHpjWDph+0Ih97zqX0KYzNBPKurmAoex1BLoyqHhll2cZCTcCdpRv8uX9TBKPC/c76w216+/oG
+PY/BasMwDIZfpeQ+wxi7zNce+g5jB8VWYhFHMZLcUkbfvYKQHL9f+tCv/2GsHZsQmw4/l98hfX5/fF1uIDmCGaQljKCUDtCGeE4EGuWJBI9g7dVIy2anu3VOGLVV0BIg38Hx9GltaF0PzAhWHu5HNaEFg1vMvm6ghoGxm0CNScgOuK7zzntJXyOmkAqQex7WGrX4LxrIa8w0neYOnemOohgnL5rBaGO3zFCeEbpAmGRTi8go83M/Mvy93g==
 ```
 **C4**
 
@@ -963,7 +980,7 @@ XZA9bsMwDIWvEnivgA5ZqrVD71B0oCXaIqxIAn+cBkXvXjeGkqYLwe/xgXrU1zBmw8ZUVIaXw/sQno9P
 
 No Accel
 
-By: Yoshi128986
+By: fireball
 
 `Import Code`
 ```
