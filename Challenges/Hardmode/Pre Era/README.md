@@ -972,6 +972,8 @@ YzE1LTQgSGFyZDtyZWZsZWN0LndpbmNlO3Jlc2lzdGFuY2UubmV1dHJhbDtyZXNpc3RhbmNlLmZpcmU7
 
 No Accel
 
+You need to disable damage multipliers for normal mode
+
 By: fireball
 
 `Import Code`
