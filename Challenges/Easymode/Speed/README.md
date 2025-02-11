@@ -2,6 +2,8 @@
 
 All Blueprints made by Yoshi128986 unless otherwise specified
 
+Required stats indicated when necessary
+
 #### Quick-Navigation
 - [Forest](#Forest)
 - [Desert](#Desert)
@@ -37,25 +39,31 @@ DcoxDoAgDADAr5Dukugou58wDgWLNClgCkzGv+vN94CXQbdy6Q1Ws0OYp8Vs2LpriUlO67FxcLGOcmLn
 
 `Import Code`
 ```
-
+TckxDsMgDAXQq0TsQYq6haNUGT6xKZbAVAayVL17Ovat7+Nimfw20dHdvjzdua2PJaGPkNpUwpCmngS1KYWeuRSvGNP4/yteFSHCTNh8kt/2LFzIgy7oyeSO7w0=
 ```
 **C4**
 
 `Import Code`
 ```
-
+Incomplete
 ```
 **C5**
 
+Spam Toxic Piranha Ivy
+
+Will need to verify if this is faster than something with neutral amplifier and stuff.
+
 `Import Code`
 ```
-
+YzEtNTtzcGVsbC50b3hpY2l2eTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24ubWFyYmxlO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9u
 ```
 **C6**
 
+No resistance stats
+
 `Import Code`
 ```
-
+YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5hdHVyZQ==
 ```
 
 
