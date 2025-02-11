@@ -61,28 +61,44 @@ DcoxDoAgDADAr5Dukugou58wDgWLNClgCkzGv+vN94CXQbdy6Q1Ws0OYp8Vs2LpriUlO67FxcLGOcmLn
 
 `Import Code`
 ```
-
+TcoxCoAwDADAr0h3C+JmnyIOaRM1kKaStpP4dx0dD+52UTpdxtqqW4bVpWmcw166IjQu6pEhF8VQTxLxCq0bfWAS9BEqp3/OcGQIEcyYzO9s5LbnBQ==
 ```
 **C4**
 
+Air, Electricity, and Darkness should work, depending on what you've got.
+No Accel
+
 `Import Code`
 ```
-
+TckxDsMgDAXQq0TsQYq6haNUGT6xKZbAVAayVL17Ovat7+Nimfw20dHdvjzdua2PJaGPkNpUwpCmngS1KYWeuRSvGNP4/yteFSHCTNh8kt/2LFzIgy7oyeSO7w0=
 ```
 **C5**
 
+Spam Toxic Piranha Ivy
+
 `Import Code`
 ```
-
+YzEtNTtzcGVsbC50b3hpY2l2eTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24ubWFyYmxlO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9u
 ```
 **C6**
 
+Potentially luck based
+No stat disabling
+No Accel
+
 `Import Code`
 ```
-
+TYw9DsIwDIWvgrITiYWBHAUxuMlra+EkleOwoN6dCFSJ7Xu/bzdJx6ZcrLnb6e7i5XwNc+0lkXEtPtOSKbQVIh6ktv6HiSnXkoJiQYH+TIUMeGGMGJJ8L0NoIwlkRvHpZ1YcnLsYt7XaYUzjPSJw3mC9fbvusX8A
 ```
 
+Probably better one
 
+Requires disabling resistance stats
+
+`Import Code`
+```
+YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5hdHVyZQ==
+```
 ## Desert
 
 **C1**
