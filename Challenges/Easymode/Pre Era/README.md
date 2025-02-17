@@ -110,6 +110,7 @@ Works in mt0 but is luck based, becomes less luck based in higher military tiers
 
 `Import Code`
 ```
+VY5BDsIgFESv0nAADiBLPYB74+K3DPCT76cBajTGu9sGm+hu3izezMuMsmAurK2aw3AxJ1SUNhwTiUAjhjOxupogYoVjaq4gQlGocVZbIGu4w4W8qO9dLKTc/irPdMvqHR5TotX6VY1Zl2pzCNC6STp77LztxKcdqfK0w++8q3P/FSDAlMz1/QE=
 ```
 **C2**
 
