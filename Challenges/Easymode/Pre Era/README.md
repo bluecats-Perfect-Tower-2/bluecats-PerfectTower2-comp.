@@ -99,47 +99,65 @@ Requires disabling resistance stats
 ```
 YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5hdHVyZQ==
 ```
+
 ## Desert
 
 **C1**
 
+No Accel
+
+Works in mt0 but is luck based, becomes less luck based in higher military tiers.
+
 `Import Code`
 ```
-
 ```
 **C2**
 
-No Software
+No Accel
 
 `Import Code`
 ```
+YzItMjthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5ib3VuY2U7YXR0YWNrLmZpcmU7YXR0YWNrLmJvdW5jZS5nYWlhO2F0dGFjay5pbXBldHVzO2ltcGV0dXMuZmlyZQ==
+```
 
+Minimum 55x effective health
+
+`Import Code`
+```
+VckxEoMgEEbhqzj0UliGo2QsFlj1n6zIsEsax7unokj5vne7KJ1rQzF1r+nt0jIvgcwofbxW5jyiUUXe0HjA2cWgx2UD4tVL4v/yO4GCViE9PKGNK9hYjUlCFFZF2X3GF4Xd+vwA
 ```
 **C3**
 
+No Accel
+
 `Import Code`
 ```
-
+NYs7DoAgEAWvYuil0E6OYixWXHQjLASWynh3PwndvHmZS62+YsrEUtTUzcoO/WhABOypHWVsXBLi1kaoXqgcUZpYY2WL5gs0sSXGDEKRjXuP7UcdYA+glvsB
 ```
 **C4**
 
+No Accel
+
 `Import Code`
 ```
-
+NYs7DoAgEAWvYuilMFZyFGOx4qIbYSGwVMa7+0no5s3LXGr1FVMmlqKmblZ26EcDImBP7Shj45IQtzZC9ULliNLEGitbNF+giS0xZhCKbNx7bD/qAHsAtdwP
 ```
 **C5**
 
+Spam Toxic Piranha Ivy and Desperado
+
 `Import Code`
 ```
-
+YzItNSBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c3BlbGwudG94aWNpdnk7c3BlbGwuZGVzcGVyYWRvO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9u
 ```
 **C6**
 
+Spam Firestorm
+
 `Import Code`
 ```
-
+NccxDoAgDADAr5juMjg4yFOMA2DFJhVICybG+Hfj4HZ3g+eGRShVhambIQz9aHUn5NW0RCeKOraYUOJlvFMKfwTjJ1cpJ6sFmc1GglqzHLA8Lw==
 ```
-
 
 ## Winter
 
