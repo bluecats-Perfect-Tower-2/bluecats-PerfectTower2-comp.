@@ -162,23 +162,40 @@ NccxDoAgDADAr5juMjg4yFOMA2DFJhVICybG+Hfj4HZ3g+eGRShVhambIQz9aHUn5NW0RCeKOraYUOJl
 
 ## Winter
 
+No Accel
+
+Early
+
+Last 3 attacks can be replaced with any other 3 attacks
+
 **C1**
 
 `Import Code`
 ```
-
+VY07CsMwEESvYtTHENJFRwku1uu1tVg/pFERQu4eNxKkmxmG9z5m9U1y0YhqntPL8ON2n4SKf1sCiM951yI9a8iCVnsNzUOrS+jDmlrk8a5ZZLOgCvmjiBdGUVYMidfDDcqlh7P7xdoImuIc6Ahklu8P
 ```
+
 **C2**
+
+Early
 
 `Import Code`
 ```
+VY07DsIwEESvErknBXT4KIhiE0/CCn+i3TUpIu6OJRQUupk3eprNDbFiEc6m7trd3Hg5nTuNZfVkRuOzn1iw51SjsT6K7WAoNY+/WRcgeCM1/GmcFlhVL1BWo2b0iEjIRvEIieVYVzKIn9pFIOOS+0RzoiMITKnk0KQZGfKFgtjCC+7+/gA=
 
+```
+
+Fast
+
+`Import Code`
+```
+TY6xDsIwEEN/pcpOBtjIpyCGo3WbSNdLdLmAEOLfKZQhm209W365GzcUTWLVnYeLG0+H4zBTtUBNyUeQWrVcCjTMuclElrL4RUmSISgWCHQPFbyJO3pwSrRmmUKNYPaU9K8eZNuioqZqJCM8GCvEiPvwy3d2L/2ONYmZn+76/gA=
 ```
 **C3**
 
 `Import Code`
 ```
-
+RcjLCsJADEbhVymzdzbdOY8iLuLMPxca0pKkKkjfXUHB3XfOK9x4x6ZD3MJ5uoQ8n+apk5ZE7pSXaBtQknUwxwc59OdCugjMUkGFGKKiMrInPHMnaYh1KP7Fo3VPdd2lkI9VYlOS4UiKBoF+p4I/uCNcjzc=
 ```
 **C4**
 
