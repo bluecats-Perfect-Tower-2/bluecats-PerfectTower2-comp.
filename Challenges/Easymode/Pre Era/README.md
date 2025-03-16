@@ -4,6 +4,8 @@ All Blueprints Made By Yoshi128986 unless otherwise specified.
 
 No Accel means no Wave Streaming
 
+When asked to disable stats, you will need to go to town stats, click on the stat you are asked to disable, then click on each individual modifier
+
 #### Quick-Navigation
 - [Forest](#Forest)
 - [Desert](#Desert)
@@ -193,15 +195,19 @@ TY6xDsIwEEN/pcpOBtjIpyCGo3WbSNdLdLmAEOLfKZQhm209W365GzcUTWLVnYeLG0+H4zBTtUBNyUeQ
 ```
 **C3**
 
+Disable Resistance Stats
+
 `Import Code`
 ```
 RcjLCsJADEbhVymzdzbdOY8iLuLMPxca0pKkKkjfXUHB3XfOK9x4x6ZD3MJ5uoQ8n+apk5ZE7pSXaBtQknUwxwc59OdCugjMUkGFGKKiMrInPHMnaYh1KP7Fo3VPdd2lkI9VYlOS4UiKBoF+p4I/uCNcjzc=
 ```
 **C4**
 
+Needs at least 230x effective health
+
 `Import Code`
 ```
-
+TY7BCsIwEER/peRuEPVkPkU8rM3YBNNN2Wy0Iv67xUrtbXjMG+ZlLqlikMhazLE5mXa/OTS7/XZsAihpcCUgJfsghfyyJ7kxSnHXXNmTxsy2E+KocIIODJmhIE3hDoexDcQd/upC5mFBiUWJW1gk9GCltIaLt2KzufrgI/WZvaMqZKf3okXzMEylL6kccnqa8/sD
 ```
 **C5**
 
