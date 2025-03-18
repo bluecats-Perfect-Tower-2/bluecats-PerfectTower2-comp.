@@ -236,6 +236,15 @@ Post Era
 YzQtNiBoYXJkO3NoaWVsZC5kaXZpc2lvbjtkZWZlbnNlLmJ1bHdhcms7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c3BlbGwudG94aWNpdnk=
 ```
 
+W.I.N.C.E solution
+
+Pre Era
+
+`Import Code`
+```
+NYsxDgIxDMC+cupOJsRAn4IYcm2ORhdSlKQwIP5OB9gs2X6nVQY9jDU8nZdLKsfDaWloNXtjkgqVn+zcNRttQiXgxVpoWhIBQov244q2K7nnrQ+tGPOBm6FyUMYILDsoxjDy6KPMK4iVoTRkpQorivy7+5Bgbz3S9fMF
+```
+
 Pre Era
 
 This solution might be fixed in the future
