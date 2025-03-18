@@ -232,41 +232,52 @@ TYzBCsIwEER/RXI3F8GD+RTxsEnHsLDZlE1aLNJ/1yJCbjOPN/N2URbMxtqbu53uLl3O19BmiPheX5x4
 
 **C1**
 
+This one sucks at being early game
+
 `Import Code`
 ```
-
+TclNCgIxDEDhq0j3BgRX5iiDi0yascE2lTRdiXf3B4TZPd73TGud8nC1GOlyWBKfjyekCOI7bOryb6OYLiP65IJfADVWE6fQbjhC1BS40OdlWKlW3Pq0/GNodGuEo0itIORR9piVWrecrq83
 ```
 **C2**
 
+Spam Firestorm
+
 `Import Code`
 ```
-
+TY3BDgIhDER/xXCXg/Ekn2I8FOiyZKFs2mJijP+uRE24zXuZzDyNLx13zqRiLoerCefjycmKpdgIvBGK/BCBdXVL6xRBcyMbM9RGcVaJgbKiY0xIyF/JWD7hjnOxQqrgQBXCZkOrvsvwTvZxtWRG0cbVjZX0sB4khz/M4+b2egM=
 ```
 **C3**
 
-No Software
+No Accel
 
 `Import Code`
 ```
-
+Rc07DsIwEEXRrSD3uIEKLyVKMRlP5FEc25oPDWLvUGBRHunqvVfYqtMQbqbhcVkC3q+3BC4Qd+lqCcwAj7iBMk5kkKOR6jSBWJnQQZQnTq/GWvp/p3tDmuJzkLkmFLbfhY4KWiLkJ3zDHNb3Bw==
 ```
 **C4**
 
+No Accel
+
 `Import Code`
 ```
-
+NYw7DsMwDEOvUnivp0z1UYoOjsMkQuUPZLlL0bsnTeKFeKREfs3IDUUoaTWP29OE4T44r+rD284k6EyxQFvtthZg6iY2Vqpr1h6MuaUAd3XOnb9YSoESxCvl5Ob9azrQRr9E7wQL+tUKeIcPXF3BfGyY128D
 ```
 **C5**
 
+No Accel
+
 `Import Code`
 ```
-
+RY09DsIwDEavgrKTCRZyFMTgpm5jNX+yHSSEuDvQkrLYz5/s56cZYsPKlFXM5XA1/nQ8O1AFv9iJGDtLRRz7kFpUklC0B0Np2e+7lCpqE/frm+dbLGVPGRmUSv6bgZddBBI6M1Qa11spLdoAfEdRyrObPu/GVWITzAkcNAYbEFhFS63IW9JyKPGx8cRF1Nxebw==
 ```
 **C6**
 
+
+Spam Firestorm
+
 `Import Code`
 ```
-
+NcoxDoMwDEbhq6DsZKo6NEdBDAZ+gkXqINsMVcXdEajd3ie9bxjKjk1Z3MKr6cL4aJ/JNpQSZ1aYV30nWy6D1JdfT6SrwCzNdZeJnKvErCTsSBBo/sSBjMc/FPmqewz9cQI=
 ```
 
 
