@@ -4,7 +4,9 @@ All Blueprints Made By Yoshi128986 unless otherwise specified.
 
 No Accel means no Wave Streaming
 
-When asked to disable stats, you will need to go to town stats, click on the stat you are asked to disable, then click on each individual modifier
+When asked to disable stats, you will need to go to town stats, click on the stat you are asked to disable, then click on each individual modifier.
+
+Unless specified, assume actives are placed at (0,0)
 
 #### Quick-Navigation
 - [Forest](#Forest)
@@ -184,7 +186,6 @@ Early
 `Import Code`
 ```
 VY07DsIwEESvErknBXT4KIhiE0/CCn+i3TUpIu6OJRQUupk3eprNDbFiEc6m7trd3Hg5nTuNZfVkRuOzn1iw51SjsT6K7WAoNY+/WRcgeCM1/GmcFlhVL1BWo2b0iEjIRvEIieVYVzKIn9pFIOOS+0RzoiMITKnk0KQZGfKFgtjCC+7+/gA=
-
 ```
 
 Fast
@@ -211,15 +212,19 @@ TY7BCsIwEER/peRuEPVkPkU8rM3YBNNN2Wy0Iv67xUrtbXjMG+ZlLqlikMhazLE5mXa/OTS7/XZsAihp
 ```
 **C5**
 
+Spam Toxic Piranha Ivy at (0,6) until the last wave, then use it at (0,0) until everything is dead.
+
 `Import Code`
 ```
-
+TY1LDsIwDESvgrInG8SGHAWxcBM3tQhOZbs/Ie4OFa3U3ZvR6M3bNWXAXohN3e10d/Fyvoa2DpzAqLLPAkyGQTAjo/xLwfKDEYN2WIqfwFA2RhDrNk4gT0bVoy8RvCqnoP26sDpTpHEJqzsvvgGluIfj5d61pU7u8fkC
 ```
 **C6**
 
+Minimum 550x effective health
+
 `Import Code`
 ```
-
+TYzBCsIwEER/RXI3F8GD+RTxsEnHsLDZlE1aLNJ/1yJCbjOPN/N2URbMxtqbu53uLl3O19BmiPheX5x43cKzLjpR56p+YipVpxFlI+WOYMhQ2A8a5BtWjGIhi3J4jVsnTfAQFGgnCccybz5S4/Qv46F77B8=
 ```
 
 
