@@ -297,9 +297,15 @@ TYzNCsIwEIRfRXI3B8GLufoW4mGTTNvF/MhmYxHx3S3WgreP+WbmZXzquAsXbea0u5hw3B/cUHuJpFyL
 ```
 **C3**
 
+Ocean Gift can be replaced by 5x effective health
+
+Use Something at the top lane, then cycle all lanes (where the enemies clump up) and the tower until completion.
+
+Upgrade Granite Foudation only
+
 `Import Code`
 ```
-
+TY7BCsIwEER/RXI3F/FiPkU8pMk0Lmx3S7JVSvHfbZFibzPvMTCL63jCWEmsudvp7tL1fAltBLNvOsCeJCX0OkmORiq+1ChkOKJMcVDJoaJAUH+wgtfwQijUm9eEKGGzZfZdbJT2chztrGd9/32aE28njDL8atzj8wU=
 ```
 **C4**
 
@@ -311,15 +317,21 @@ TY5BDsIwDAS/gnKnJ7iQpyAOaeIGC8ep7LRQIf5OC2qb2+7YGu3btDRAL8hFzeVwNf58PNkuDxxcwcxN
 ```
 **C5**
 
+Spam Everything
+
+No Accel
+
 `Import Code`
 ```
-
+RY6xDsIwDER/BWUnWxf6KYjBTd3EIk0i26FUiH+nVQlsd+/s073MECsWpqRiLqercd2566Ey2ImzaC8FYzx0yg84ooDAKppLQe4xIfvVDiDkmmH0uwKlnP7MrS5S8g1MMS/f/kg+aNozUAV3t3ONShKyNjDkmhw2t33h+ItAQttJjNsunvsFFNniU7fSSvtBAB7FkkNze38A
 ```
 **C6**
 
+No Accel
+
 `Import Code`
 ```
-
+YzUtNiBoYXJkO2ZvdW5kYXRpb24uYmF0dGVyeTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS5mcm9zdDthdXJhLmhlYXJ0c3RvcHBlcjtnaWZ0LmZvcmVzdDtnaWZ0LmRlc2VydDthdXJhLnVuaG9seTtmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5zcGVlZDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTthdHRhY2suaW1wZXR1cztzdGVpbmkuY2hhaW5lZC5iYWxsO2F0dGFjay5iYXNoO2F0dGFjay5zcGFyaztzaGFyZHMuaWNlO3NvdWwuaGFydmVzdGluZzthdHRhY2suYm91bmNlLnBob2VuaXg7Y3JpdC5iYXNpYztjcml0LmVtZXJnZW5jeTthdHRhY2suZGVhdGh3aXNoO2F0dGFjay5maXJlO3Rhc3RlLmZpcmU7ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJlO2F0dGFjay5jb21idXN0aW9uO2NyaXQuZmlyZURtZztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbg==
 ```
 
 
