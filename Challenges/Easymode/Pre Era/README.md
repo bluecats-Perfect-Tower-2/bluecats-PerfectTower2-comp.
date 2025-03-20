@@ -341,31 +341,45 @@ YzUtNiBoYXJkO2ZvdW5kYXRpb24uYmF0dGVyeTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS5mcm9z
 
 `Import Code`
 ```
-
+Vc2xDsIwDATQX0HZicTCQD4FMTjNtVhyHGSnLIh/b1SWsln3dOdPyLLiZazdw+10D9P1fEmGBQqjzk2jQcbxRvInRCKxpbmtWn5aaak0Cs7eSSfsnsmMYXFmw59l3/0QQVChneQ4Wphq0zI+MqTETM5TeHw3
 ```
 **C2**
 
+Disable Resistance Stats
+
 `Import Code`
 ```
-
+LcgxCoAwDAXQq0h3Ozg42KOIQ62/WgippKkO4t0VdHu8y8xUsUtiLWZoRhP6tnMLIrjACiIhqCsbiOzpFfLbJ3ExV168psx2Fc9J4QQrGPKlgF4cMNP9AA==
 ```
 **C3**
 
 `Import Code`
 ```
-
+ZU5LCsIwEL2KZG82ggtzFHExTZ9NcDopMxM34t0takFw9/68Rxi4Y9EqbuG0O4d83B+SFTBHqpqurctIXpvESUmqIykmCPQjKngFd3wrIPWyJqyak2S8N37onw/GDHHiZK1zLKR3mFeZErlTvsW5s1crzTfBFmDcyLDeywiX5ws=
 ```
 **C4**
 
+No Software past Wave Surge
+
+Chained Ball can be replaced with a lot of fire damage.
+
 `Import Code`
 ```
-
+NY1BDgIhDEWvYtjLyriwRzEuClOcRiiElpXx7jPqsHzvv+S/XciDWmcxdbfT3cXr+QKpDlnQuIov+CwIODr61KsaJO7kWSIL9V8CaIbx5bURLRO+FXBpZEP/cAyHm1hGNta12hRhv44EasTCPq64/yw+YM7u8dkA
 ```
 **C5**
 
+No Software past Wave Streaming
+
+Tested at 743x effective health
+
+Place Something on one of the lanes, upgrade Granite Foundation to 25. Upgrade Energy and Energy Regeneration to 50. Upgrade Granite Foundation to 100. Upgrade Ocean Gift to 100. Upgrade Shells to 100. Upgrade Granite Foundation and Shells at a 2:1 ratio.
+
+Spam Something and Firestorm
+
 `Import Code`
 ```
-
+TY1BCsIwEEWvItmbnS7MUcTFtJkkg8mkzEwFEe9uKy10996Hz/u4oc44CbGpu53ubryeLwEZJb/9AErjLoJ5JTDqHHTCWn0iQbUuLWhZPYI8GVU3BZKNEMRKSH3m+P/7SNA6x+OUBZgMw7GzROsCLwyZkvk+Iuxt7Q2tEGf3+P4A
 ```
 **C6**
 
