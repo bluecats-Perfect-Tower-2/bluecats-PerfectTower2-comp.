@@ -383,9 +383,13 @@ TY1BCsIwEEWvItmbnS7MUcTFtJkkg8mkzEwFEe9uKy10996Hz/u4oc44CbGpu53ubryeLwEZJb/9AErj
 ```
 **C6**
 
+Tested at 743x effective health
+
+Spam Earthquake, Snowstorm, and Neutral Response
+
 `Import Code`
 ```
-
+TY7BbsMwDEN/Zch9PvYwf8qwg+IwrlBFziRlRVHs3+cWKZYb+QhRvA+jbFiNNXz4ePscyun9lKGweksjOZeXMdSHouCmLzZLu/7n5VaEtWZfIdK9r00dSbGFkewYZHH+3uiCHbi2q0ezJc9t0+nZn6qRcuCIJqal6ZT9/LiayC4K990S266e/fk4ti+RLn7QqbMHaUGCYIFGn1V5jtQKSI/fFrJRMHz9/gE=
 ```
 
 
