@@ -206,6 +206,8 @@ RcjLCsJADEbhVymzdzbdOY8iLuLMPxca0pKkKkjfXUHB3XfOK9x4x6ZD3MJ5uoQ8n+apk5ZE7pSXaBtQ
 
 Needs at least 230x effective health
 
+Keep wave streaming off until both shells reach 100 stacks.
+
 `Import Code`
 ```
 TY7BCsIwEER/peRuEPVkPkU8rM3YBNNN2Wy0Iv67xUrtbXjMG+ZlLqlikMhazLE5mXa/OTS7/XZsAihpcCUgJfsghfyyJ7kxSnHXXNmTxsy2E+KocIIODJmhIE3hDoexDcQd/upC5mFBiUWJW1gk9GCltIaLt2KzufrgI/WZvaMqZKf3okXzMEylL6kccnqa8/sD
