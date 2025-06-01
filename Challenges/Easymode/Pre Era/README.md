@@ -212,6 +212,19 @@ Keep wave streaming off until both shells reach 100 stacks.
 ```
 TY7BCsIwEER/peRuEPVkPkU8rM3YBNNN2Wy0Iv67xUrtbXjMG+ZlLqlikMhazLE5mXa/OTS7/XZsAihpcCUgJfsghfyyJ7kxSnHXXNmTxsy2E+KocIIODJmhIE3hDoexDcQd/upC5mFBiUWJW1gk9GCltIaLt2KzufrgI/WZvaMqZKf3okXzMEylL6kccnqa8/sD
 ```
+
+Slightly Faster
+
+Same as above
+
+Use the ai or spam lightning and toxic piranha ivy
+
+Improved by: Sad Poyo
+
+'Import Code'
+```
+rVGxTsMwEP2VKCtgpS0IRDY2JAYkRtrh4lycUx3bsp22UdV/x06aNoXCxHLyPb97fve8TwvZorGkvEufk8+UL+7uk/ki2yU1gvR17mqUkm3Boz2eS7Brhc7llW5VCZ60YsKCIo+5RYEK7QBalOGwwRx3vAYl8Dx6QgZhi46cB8WRocQGlQc5BU9zE2yYnHgoCRqtyhxaCyy4t955bcylPBTu55sRPFsL/kXHCnDEx2a61ohVUm9zZ2IiXu+I06Y7tpJE7RUpka5uk9RxS2ZId58CjxJD1Ms2y2ZPXm/RskaXrUTWOjTaUeQsCx6IwZ+PvGze11lfs4t6yXu4wvizpsFi7+TxuxM6yl4zMv8vocUvQlUfOHEmtNdXJ6/tEvMu2lKgDwlnoQlzJZ0ij9fUmFY6HL5gjR0r+ykFDQYofdfktHrddDdv4y9+GGiiJwN8DaJnxTYs9jI+VUGQPKwOXw==
+```
 **C5**
 
 Spam Toxic Piranha Ivy at (0,6) until the last wave, then use it at (0,0) until everything is dead.
