@@ -217,13 +217,15 @@ Slightly Faster
 
 Same as above
 
-Use the ai or spam lightning and toxic piranha ivy
+Use the ai or spam Lightning, Toxic Piranha Ivy, and Frost Nova
+
+Hard modules: Power of the Cat (Jumble), Frost Nova (Water Experiment)
 
 Improved by: Sad Poyo
 
 'Import Code'
 ```
-rVGxTsMwEP2VKCtgpS0IRDY2JAYkRtrh4lycUx3bsp22UdV/x06aNoXCxHLyPb97fve8TwvZorGkvEufk8+UL+7uk/ki2yU1gvR17mqUkm3Boz2eS7Brhc7llW5VCZ60YsKCIo+5RYEK7QBalOGwwRx3vAYl8Dx6QgZhi46cB8WRocQGlQc5BU9zE2yYnHgoCRqtyhxaCyy4t955bcylPBTu55sRPFsL/kXHCnDEx2a61ohVUm9zZ2IiXu+I06Y7tpJE7RUpka5uk9RxS2ZId58CjxJD1Ms2y2ZPXm/RskaXrUTWOjTaUeQsCx6IwZ+PvGze11lfs4t6yXu4wvizpsFi7+TxuxM6yl4zMv8vocUvQlUfOHEmtNdXJ6/tEvMu2lKgDwlnoQlzJZ0ij9fUmFY6HL5gjR0r+ykFDQYofdfktHrddDdv4y9+GGiiJwN8DaJnxTYs9jI+VUGQPKwOXw==
+rVJBTsMwEPxKlDNYoQWByI1v0B62zsZZ1bEte920qvp37CQtLSqcuKy8k5nx7MbHcqMjOk+GQ/lefJZy+fhcLJbVvugQNHd16FBrMQCjn88N+K3BEOrWRtMAkzVCeTDEWHtUaNBPoEedDjuscS87MAq/pRdkMvYYKDAYiQI19mgY9DV40V1hk/IqQ0PQW9PUED2IlN5zYOtczu1y7tbbwMbuoM4R1UFsIJA8N9fJz1ir7TCL2e5J0u4wt5pUx4aMqiWwcHZAX64fijJIT25a5bEEmc2mva5iVT29cSaK3jZRo4gBnQ2UOauNTMQ0F2detRjr01irm3rLe7nD+LOWKeKY5PVnEppt7wVZ/JfR8hejdlw9SaEs27vKe7PkfW9io5DThqvUJF1Dl5Xnz9S7qANOv2CALUaXL1TQozA4+Px4Rh+TkEQan39mOJBbUCOU2zTXx/mmFpLjaX36Ag==
 ```
 **C5**
 
@@ -412,27 +414,62 @@ TY7BbsMwDEN/Zch9PvYwf8qwg+IwrlBFziRlRVHs3+cWKZYb+QhRvA+jbFiNNXz4ePscyun9lKGweksj
 
 **C1**
 
+Turn off Wave Streaming until you have 100 stacks of shells
+
+Hardest Modules: Heartstopper Aura (Darkness Experiment), Diamond Foundation (Metallic Ruins)
+
 `Import Code`
 ```
-
+VY7BCsIwEER/RXI34EmwnyIe1nRsAnETNhsViv9uJLXY25vhzbKzucaKLIG1mNPubNxxfxgEExhCGhJbQWzwQGtLKErsYJm0yqZ5kkL+C5CoH4pHjBvuYuflDF7OE0+/zRq7usbFpipk/VctmnJuxi1VHvuzY6B74tFc3h8=
 ```
 **C2**
 
+No Accel
+
+Hardest Modules: Steni's Chained Ball (Metallic Ruins), Volcano Gift (c5-6)
+
 `Import Code`
 ```
-
+PY47DgIxDESvgtLjggYJt9wCUXidZNciPyUODeLuLPtrLM94/DQfM4TuSpWkzdxOD8PX8wV97smSSk4QaYyE1CuBr7kpkirxC7xUh0pN3bpudivO2V3EHlTalI+nYebykZVYnPa2y0pF7MLaDiv4P0ASS3J1qYSjeIV3DkwpI1fRJXiPI85tJAnwRHPawkAhmOf3Bw==
 ```
 **C3**
 
+Spam Something on groups of enemies
+
+Max Granite Foundation before turning on accel
+
+Hardest Module: Something (c15-5)
+
 `Import Code`
 ```
-
+TYzBCsIwEER/RXI3Fw+C+RTxsE3GZCHdlN1EFPHftUiht3lvmHm7qQ4sytLNXQ5XF8/HU7i3IYk6N/FZSbhjrxLT3CQFRYZA/1JRf+GBYAW1eqE+FAHPWEgyNrZlLa3N6IUlh3WfX34i47jB/tbdPl8=
 ```
 **C4**
 
+Slower Solution
+
+Spam Firestorm
+
+Hard Modules: Diamond Foundation (r8), Marble Foundation (r11)
+
 `Import Code`
 ```
+TY3BCsIwEER/RXI3J0FwP0U8bJtturDZlE1SLMV/twpibm+G4c3uBmm0GGst7na6u/F6vgApWdz8gIXHXzCKH8LKWWHKTcMXfTRUrtRXgTFlDX2V0AYhoOc4o0byTXklKyjQe48TOWAlwGZ4jOYsG5SFRPzERqVmS1BmJgl/hXu83g==
+```
 
+Tested at 2750x health
+
+Disable resistance stats
+
+Resistance stats can factor into health, but the challenge will take longer
+
+Hardest Module: Ocean Gift (c10-6)
+
+Faster solution
+
+`Import Code`
+```
+JcpBCoAgEAXQq4j7XAVBHiVamP4RQcYYxzbR3QvavcW77VEHTims3a5ms3GZZkOhq6c2OAUtjV2WwEXhEwjc4QRUEdXnQupaRGAvyGDI/wX1wwW7Py8=
 ```
 **C5**
 
