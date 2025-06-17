@@ -811,6 +811,17 @@ By: Yoshi128986
 ```
 YzEyLTEgSGFyZDtzaGllbGQuZGl2aXNpb247cmVmbGVjdC53aW5jZTtkZWZlbnNlLmJ1bHdhcms7c2hlbGwuZWFydGg7c2hlbGwuZGFya25lc3M7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtleGNoYW5nZS5kYXJrbmVzczt0b3dlci51bml2ZXJzYWw=
 ```
+
+Slower No WINCE solution
+
+Post Era
+
+By: Yoshi128986
+
+`Import Code`
+```
+TU5LDsIgEL1Kw16SupSjGBdTGOik/DKApjHeXWzEuJv3nfcUi2+YmWIt4jJdhZ7Pp3lagc0U0/SgqFHZ1KKBSinKBWpF3v+pAC6A6jzoTVLIWFsZMDRfqaypDmLpud74tUlLjEM6bke2ynvyGmJSH0b2BRSRj1/DypDJHP4CmsmSRmmAt6GXjGgU9pjb++RCegBGh782gxZjQbk0/+hpcXu9AQ==
+```
 ---
 **C2**
 
