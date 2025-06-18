@@ -74,6 +74,7 @@ TcoxCoAwDADAr0h3C+JmnyIOaRM1kKaStpP4dx0dD+52UTpdxtqqW4bVpWmcw166IjQu6pEhF8VQTxLx
 **C4**
 
 Air, Electricity, and Darkness should work, depending on what you've got.
+
 No Accel
 
 `Import Code`
@@ -93,7 +94,9 @@ YzEtNTtzcGVsbC50b3hpY2l2eTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2Zv
 **C6**
 
 Potentially luck based
+
 No stat disabling
+
 No Accel
 
 `Import Code`
@@ -505,7 +508,7 @@ Resistance stats can factor into health, but the challenge will take longer
 
 Hardest Module: Ocean Gift (c10-6)
 
-Faster solution
+Faster Solution
 
 `Import Code`
 ```
