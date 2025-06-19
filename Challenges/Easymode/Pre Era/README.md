@@ -555,44 +555,83 @@ TZDNDoIwEIRfxXC3VxP7KMbDUoaySdmSdhGN8d0FBOztm9nN7M+7qsOIIbForq6nW+Uu54FYLATJv0xN
 
 **C1**
 
+Minimum reccomended stats are 55x effective health and 100x fire damage
+
+With 9290x effective health it will be possible to replace a shell with Incineration to reduce the fire damage requirement or make the challenge faster.
+
+Spam Dispel
+
 `Import Code`
 ```
-
+TY3RCsMgDEV/Zfg+YW9jfsrYQ6qphsVYNB2Usn+fDgp9yr0H7sluJl5xqSTazOPyNP5+vTkUrHGzEzTyR6kYRwKlIg5Uwb/tTBVdUyQh6xOQYOgjZtcWZLaBxnVzWSX8d51ALhLOKEPM4M72/op7+HR1Ghpk9FrJk24HgarJvL4/
 ```
 ---
 **C2**
 
+Early
+
+Hardest Module: Diamond Foundation (r8)
+
 `Import Code`
 ```
+bc7BCsIwDAbgV5Hd3cGT2EcRD1n3uxaydKSpOMR3dzKmFbwlH/zJ/2g6Lpg0iuXmtDs3/rg/uGsq0pPFJO2gJNFQUx9pTNI7xQCBrqjgZbjB5QDmFgxvGn20eRNSC0smx2wkHn+gyvzyCDHiusNI2jEcFaU2vC9lS9MEXaVISDw73H0gGbZX37V69MEiS3vNxM3l+QI=
+```
 
+Faster?
+
+Spam Toxic Piranha Ivy
+
+Hardest Modules: Diamond Foundation (r8), Toxic Piranha Ivy (boss 2)
+
+`Import Code`
+```
+TY1BDsIwDAS/gnKnB06IPAVxcFM3teQ6leMWKsTfSRGF3HZH9uzTtTzjpCSW3eVwdeF8PPk8IXNj6UGBltWjoMa1aSFT2Iti3BIYJdlZz+nu+zRL98FNVBAyrFFHMCbpfP1eXFzCgj4P2y4yBtMybetOQG2oNSNoy+jxEQaQiN+Df60MPzhLmdAM7G6vNw==
 ```
 ---
 **C3**
 
+Use Something on one of the lanes, then use it when a boss spawns
+
+Upgrade Granite to 100, then upgrade all shells and exchanges to 50, keep Granite foundation and the shells at 2:1, so every 2 levels in Granite is one level in shells.
+
+Acceletation should be limited to ~3 waves per interval if possible
+
+Hardest Module: Something (c15-5)
+
 `Import Code`
 ```
-
+VY7BDsIwDEN/BfVOL1wQ/RTEIevSNlKXVmkGTIh/ZwOGxs1+tiw/TJdHrEKszZx2Z+OP+4NDRomT7aCRX41gXBQoFV5ZyOXmWsWcbSsDaiKOLpSR+3fNRgEmRdfSUsGMXoU86fQlgWQNgcTh3SfgiB/+c3/RdgRGAZsQRJuWWlHc9uT8OM/iittHPcFQuDeX5ws=
 ```
 ---
 **C4**
 
+Hardest Modules: Diamond Foundation (r8), Neutral Reponse (Jumble)
+
 `Import Code`
 ```
-
+TY3NCsJADIRfRXp3Tx7EfRTxkG6nNZAmSzYVivjuKir2NvMxP/eulwXVWaN1p925K8f9IY+26EDBpmlyUg5s0cA0mw5bNJP3guyYoPAPc8hL3JDbFSIJghLOhWP9kpEdmRandAV5tLBa4bmYI80mAc3vtWlNPTUuP7M9ya2+lxytmjYkxRJO8ovOZvqvlbUI69RdHk8=
 ```
 ---
 **C5**
 
+Spam Something and Firestorm
+
+Upgrade Granite to 100, shells and exchanges to 50, the first 4 energy modules to 100, then upgrade granite and shells 2:1 until granite is maxed, upgrade first 4 energy modules to 200, then upgrade shells with ocean gift and exchanges 2 : 1 : 1 until shells are maxed, then upgrade first 4 energy modules to 250, then continue upgrading ocean gift and exchanges
+
+Hardest Modules: Something (c15-5), Ocean Gift (c10-6)
+
 `Import Code`
 ```
-
+ZU9BasNADPxK8b17C4TsU0IP8lreFciS0cpJTOnfuy4xNvQ2MxoxM99dzwvORuK1u33cu3T9vMQ6I3MYybC62hRR0PIaeqiUdmKYNwROKoeW1sQkeRcmPY4j6zOOusjw9xOygZBjrGULQ8bkRol83RUwLxFfqYBk/EdP/kyjB00IEs+tWh1u4IHn1IFgUhkiLAZhkaK85RHy0FjzWgV+7686oZe2pvv6+QU=
 ```
 ---
 **C6**
 
+Spam Firestorm
+
 `Import Code`
 ```
-
+ZZDBDoJADER/xXCXozHupxgPdSlLY+mStqjE+O8CEcV460zaN5M+ijP32CmJW3HYHIu43+6Cdchc1qRonrUNKKhpKM9gFBehmKYJnLJ8vThEJkmLUXO+hTr3Us17ZVIQcgzWTAHIGF0pkg8B77EBSfhjrjNGOI/DFde8iqDNUgXoFcpemszDmz2VH++NzEEi/ukK9CJotvZ+o9d2i+LA35Iz7aM+rLlGg6A+/q3rUN9lloXi9HwB
 ```
 
 ---
