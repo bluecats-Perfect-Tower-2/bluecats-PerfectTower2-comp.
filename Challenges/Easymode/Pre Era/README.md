@@ -640,44 +640,64 @@ ZZDBDoJADER/xXCXozHupxgPdSlLY+mStqjE+O8CEcV460zaN5M+ijP32CmJW3HYHIu43+6Cdchc1qRo
 
 **C1**
 
+Hardest Modules: Heartstopper Aura (Darkness Experiment), Unholy Aura (Darkness Experiment)
+
+Tested at 5.5x effective health
+
 `Import Code`
 ```
-
+VY5LDsIwDESvgrKnEkvoURALk06bSK4TOQ4fIe5OaYtUdk/PnrFf7soVWaNYcafd2fnj/tCWAObmTgZdGaQWVu6jolWUWIzEY51txBLciDmBhw8kw2+/T1U6spikGZQkGraqizQm6aaSAQJdpIInuKGlqtSEb0+xlPN0bDZVQuLn32uMEWLE7vL+AA==
 ```
 ---
 **C2**
 
 `Import Code`
 ```
-
+VY5LDsIwDESvgrKnC3bQoyAWJp02kVwnchw+Qtyd0hap7J6ePWO/3JUrskax4k67s/PH/aEtAczNnQy6MkgtrNxHRasosRiJxzrbiCW4EXMCDx9Iht9+n6p0ZDFJMyhJNGxVF2lM0k0lAwS6SAVPcENLVakJ355iKefp2GyqhMTPv9cYI8SI3eX9AQ==
 ```
 ---
 **C3**
 
+Spam Toxic Piranha Ivy
+
+Hardest Module: Toxic Piranha Ivy (Boss 2)
+
 `Import Code`
 ```
-
+TY5LDoMwDESvUmXfbLpqc5SqCxMMWDIOcgwUVb17oYCU3cyT5vNxFY84KIll97g8XbxfbyEPyOwtvSnStIQmjVKDURLfKggZlqgm6JPUQbFFQd2hIq9iwpVmygYS0SNjj2LAIXdbv4CNiocB0kPNYHhqBLWu7DgyBdmChd3T5eq/YnvWLr6CTPE05eGTNZxm9/r+AA==
 ```
 ---
 **C4**
 
+No Accel
+
+Hardest Modules: Volcano Gift (c5-6), Battery Foundation (c8-5), Metallic Ruins Gift (c8-6)
+
 `Import Code`
 ```
-
+TU/NDsIwCH4Vs7s9edE+ivHAGFuJHV0oNVmM727drPFCvh/4gGfXx0KLsljuLodrh+fjyZOQTqvrITN6MAO8u5GV/Kc4FuTaAMZJmpsXoqGRuUTjHJI1oU9FkBpTWHjY4gyy0Z5cAQs7DFCzh7o6xt805NAwRUJTRrb1O/2vTDyae6SIIGknM1lNYtTCkj0UBVckpLj6sd40bD+4GaYZdnPUlO3f6+ti0rW7vd4=
 ```
 ---
 **C5**
 
+Tested at 21154x effective health
+
+Spam Toxic Piranha Ivy
+
 `Import Code`
 ```
-
+TYxBDsIwDAS/gnInNw6QpyAObuIES65TxW6hqvg7AalSb7urmd3cwDNOjcTU3U53F6/nS0DBVlY/gFLcS8PyS2BUZd8y11fQCZm91TdFWtaQ6yzpT/lEMFZJ4aj2H+5hwSNYGggZdlBJDSSiR8YRxYBDoWy+RgQJ+iTk5GfpflNg9/h8AQ==
 ```
 ---
 **C6**
 
+Spam Toxic Piranha Ivy
+
+Tested at 5.5x effective health
+
 `Import Code`
 ```
-
+TY7RCsIwDEV/RfpuHwXtp4gPWZttgSwdTTYd4r+7TQd9Ozece8nbNTzhWEhM3e10d/F6vgQULN3iG1CKRyjYbQRGWY5by/kZdERmb/lFkeYltHmStFs+EQxZUqir6w6vMGMtdgWEDFdRSQ0kokfGAcWAg/bbPlD50xMMD0Yo1te1Taviz61n94L2hJz8JOsfRYHd4/MF
 ```
 
 ---
