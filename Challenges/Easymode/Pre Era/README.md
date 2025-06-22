@@ -706,44 +706,72 @@ TY7RCsIwDEV/RfpuHwXtp4gPWZttgSwdTTYd4r+7TQd9Ozece8nbNTzhWEhM3e10d/F6vgQULN3iG1CK
 
 **C1**
 
+Hardest Module: Heartstopper Aura (Darkness Experiment)
+
 `Import Code`
 ```
-
+Zc5BSgRBDAXQq0jvLZyttfUW4iJT9ac7mE41qd84It7dAqdhxE0gL+QnX9PZdmyhzj49P7xO5fT0eMpCSnlP627UvjQe0DegHg0MhaFF+ZkpnfgjJZT38LLOv/YhRBwZpheMTbE8qrqmsog6ajqLWb603atQm6c5xJW4p6qyNq+5LzC7xQa6dooX3ADXkegz/s/Hbyuc47TsIWmBBDvbtiGmt+8f
 ```
 ---
 **C2**
 
+Use Something on one lane
+
+Max Granite Foundation, Max Shells, Max Heartstopper Aura
+
+Spam Something
+
+Only Wave Streaming
+
+Tested at 5.5x effective health
+
+Hardest Module: Something (c15-5)
+
 `Import Code`
 ```
-
+TY7BCsIwEER/RXI3qEfzKeJh26xJMN2E3a1VxH83lVp6ewMzvHmbLo9YOZGKOe8upj8e9ieHhBxetgNJ/T8whplAUyF3KyP5H9rAQEnRScSc7QSKvLAHvhOKOBgZbERgFS21tgI++wgUcOmvcZ1sBD7BUMi77YH2Jjd4NG2dVVIG1JgomOvnCw==
 ```
 ---
 **C3**
 
+No Accel
+
+Hardest Module: Steni's Chained Ball (r8)
+
 `Import Code`
 ```
-
+NY1BDgIhDEWvYthLNO7kKMZFgY7TCIXQsjLeXZwZdv0v7/d/jE8dayNWMffTw4Tr5XxzoArhbRdq6BREcT8pV9Quezicg7k/s8SBGBsoFZ6CVMQ4Q+5JSdaiE/jSOaAbE8RkwwqjH62HlKbRoFLcFpfhxu23zfDKYJ7fHw==
 ```
 ---
 **C4**
 
+No Accel
+
+Hardest Module: Steni's Chained Ball (r8)
+
 `Import Code`
 ```
-
+NY1BDgIhDEWvYthLNHElRzEuCnScRiiElpXx7uLMsOt/eb//Y3zqWBuxirmfHiZcL+ebA1UIb7tQQ6cgivtJuaJ22cPhHMz9mSUOxNhAqfAUpCLGGXJPSrIWncCXzgHdmCAmG1YY/Wg9pDSNBpXitrgMN26/bYZXBvP8/gA=
 ```
 ---
 **C5**
 
+No Accel
+
+Hardest Module: Neutral Gift (c11-6)
+
 `Import Code`
 ```
-
+PY07DsIwEAWvgtxjQUGDj4Io/HlJVph15N1FihB3xxShnNHTvLdL1bB2YhV3PdxcPp+OlwBGnzefolAOUzMuUanxEKroW5hpUs8w7bEGWQi1eGN6ocsQYxTzw8sKlB2eVpVkabqLNKoZf/o9ufvnCw==
 ```
 ---
 **C6**
 
+No Accel
+
 `Import Code`
 ```
-
+RY2xDsIwDER/BWUngoUBr/wFYnATt7VInCpxhgrx74SGisXW3fmdX2YIlZbMosVcD3fjzqfjBcZUxaNyEhtxighYM9oqcworeBpJCtm2GcURoCq6py0Lkd9FrEG5zEl3Y2iV/9uRMwHHhbSWLr7DsjgWyttnUCxKPfxRPwBcZt2CW5xgqLl01X2KlCcSt0LDWdi6GVuptwOGYB7vDw==
 ```
 
 ---
