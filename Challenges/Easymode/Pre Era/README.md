@@ -780,44 +780,67 @@ RY2xDsIwDER/BWUngoUBr/wFYnATt7VInCpxhgrx74SGisXW3fmdX2YIlZbMosVcD3fjzqfjBcZUxaNy
 
 **C1**
 
+550000x Health, Disable Resistance
+
+More resistance means less health requirement, but also a longer challenge
+
 `Import Code`
 ```
+JcpBCoAgEEbhq4T7BLd5lGhh+isDMsY4tonuntDu8fEec9aBS4i1m23ZTXRudV5QwJCg1NgK6owbPiGDOybkiqg+t8Hpf4oEJoUvlNW2iMDmeD8=
+```
 
+17490x effective Neutral Damage
+
+No Software
+
+`Import Code`
+```
+PY1LDsIwDESvgrInUrbkKIiF6xrVIk2ieLxC3J0Kke7mjebzDktx6UMrLNwu98ApXVMmgPgVFzLlbBCtGnkjrbIeZikzYF1knbB7gdrWcNabV5ZJuneBW+ah+C//ZBXHoJJBx9FJ5IPiczRDeHy+
 ```
 ---
 **C2**
 
+No Software
+
 `Import Code`
 ```
-
+NY1BDgIhDEWvYthLMi7lKBMXBarTCIXQsjLefdAZNk3ey3/px/jUsTZiFXO/rCYsy/XmQBXC2+aelGQrOoUvnQNOolxRu0x8UkN3ugN+xxIHYmygVNiJIjHZsMFw0XpIaeZSEaNTGJOzHs/iP7MZXhnM47sD
 ```
 ---
 **C3**
 
+No Accel
+
 `Import Code`
 ```
-
+PY3LCgIxDEV/Rbq3MLiznyIu0jTjBNu0NOlK/HfHR91cOAcO9+FiHtQ6i6k7Hy4Ol+V4CmAGePdlZGPdqk0R6xCkSVwa2dCJK3cKP/eF93gWZKEOxlWCGrGwxw12l3yEnGeujSj9j0AZw7rfpU/oC9wKuOvzBQ==
 ```
 ---
 **C4**
 
+No Accel
+
 `Import Code`
 ```
-
+NY5LDsIwDESvUmUNkSoBC7LlFoiFk7itRX5KnBXi7qQN2Xj8RuPPR2hXMWUKXMR9egozz+fLadrl2uWmgBnMW/rqmMoWeRg61mBwEPmEXMvAhTKqv9dhL5KCoYAZmGJQhZECSbNB86zU4NwYLwnRKoYW6dMmEx/dw68dNBQyI58hke1n2lf22C89rB4U1AxyybGweH1/
 ```
 ---
 **C5**
 
+No Accel
+
 `Import Code`
 ```
-
+NY5LDsIwDESvUmUNkSoBC7LlFoiFk7itRX5KnBXi7qQN2Xj8RuPPR2hXMWUKXMR9egozz+fLadrl2uWmgBnMW/rqmMoWeRg61mBwEPmEXMvAhTKqv9dhL5KCoYAZmGJQhZECSbNB86zU4NwYLwnRKoYW6dMmEx/dw68dNBQyI58hke1n2lf22C89rB4U1AxyybGweH1/
 ```
 ---
 **C6**
 
+No Accel
+
 `Import Code`
 ```
-
+NY5LDsIwDESvUmUNkSoBC7LlFoiFk7itRX5KnBXi7qQN2Xj8RuPPR2hXMWUKXMR9egozz+fLadrl2uWmgBnMW/rqmMoWeRg61mBwEPmEXMvAhTKqv9dhL5KCoYAZmGJQhZECSbNB86zU4NwYLwnRKoYW6dMmEx/dw68dNBQyI58hke1n2lf22C89rB4U1AxyybGweH1/
 ```
 
 ---
