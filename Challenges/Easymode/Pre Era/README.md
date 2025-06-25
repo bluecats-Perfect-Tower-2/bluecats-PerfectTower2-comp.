@@ -849,9 +849,15 @@ NY5LDsIwDESvUmUNkSoBC7LlFoiFk7itRX5KnBXi7qQN2Xj8RuPPR2hXMWUKXMR9egozz+fLadrl2uWm
 
 **C1**
 
+Tested at 3.4x effective Fire damage
+
+No Accel
+
+Hardest Modules: Battery Foundation (c8-5), Volcano Gift (c5-6)
+
 `Import Code`
 ```
-
+TU9BDsIwDPsK6p1K40iv/AJxyLK0RKzp1KZIE+LvdBtDnOLEdpy8TD9WmjKLFnM+XA12p2PnPGeyLMhCGZSTOFAFfNiF2HGso3K5J90HfaqCP5rjRFqL+9bNGtirfaYRQZLDzGopUg4kODuForTJVmZBlxj2fWUiGpxvGcN6ko0QIriBPEkh2yrDEv+n6JuV8uyovRHm1hZGc3t/AA==
 ```
 ---
 **C2**
