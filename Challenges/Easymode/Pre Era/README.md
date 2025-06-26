@@ -862,37 +862,51 @@ TU9BDsIwDPsK6p1K40iv/AJxyLK0RKzp1KZIE+LvdBtDnOLEdpy8TD9WmjKLFnM+XA12p2PnPGeyLMhC
 ---
 **C2**
 
+Can replace Ocean Gift with 3x effective health
+
+No Accel for like a minute
+
 `Import Code`
 ```
-
+bY7BTsMwEER/BeWOJXrEn1Jx2NjjxOpmHe2uEVLFv2NoKTlwmxnNPM11mrlj1ypu0+vTeUovp+dTLK1LJq9NwqIk1XGMcqWtSY6KBQK9hQoe4h3RVjAHkPp615n0IjA7MjbSmRHxkVaSBaHL2KoR/0U3xMM+KAqr5iRpVBgbxMfqEP5b/GFRVwrrtzZv+w6NGQViGO8LI3lcavHQEkjG9wrOoWgzj+RO6RJmspp+zdbZq63Np7fPLw==
 ```
 ---
 **C3**
 
+Spam Toxic Piranha Ivy
+
 `Import Code`
 ```
-
+TY3BCsIwEER/RXI3oN7Mp4iHbbJNFuOmbNLSUvx3I6mltzfDG2ZVXRxxEOKS1f30UPZyPd9Mn0Z2UCix9gJMBY+VI3gndiYHjFH3JLghgpSwsQN5MeZscLYB2GMT99TcPe66oEdGaU+CscJUZ7Xyi+4gk/2Ho2ny8DstaSZL06Keny8=
 ```
 ---
 **C4**
 
+No Accel
+
+Spam Neutral Response
+
+Hardest Modules: Heaven Gift (c13-6), Neutral Gift (c11-6), Universe Gift (c14-6)
+
 `Import Code`
 ```
-
+RY/BjsIwDER/BfVOJBAn8imrPYR0mloEp7IdpArx76Tblr15Rs8ez6u75YpJiE276+Gni6fz8eKDWYh3dwtKcRePmo10LLYbOgH9Fy2VI3yiwRyjmoTsF9jlGu/z6lemJ0Thhwb3wahwizCDbMBQBGrr3EMhLatKcI/CWgqvYpDSGDAkzduHmxCkZfo7/O/FOWbitBta2Rv1cCOlcY0aEZ5g3/rk3BZ0anHYW3S/7w8=
 ```
 ---
 **C5**
 
+Spam Toxic Piranha Ivy
+
 `Import Code`
 ```
-
+TYzBCsIwEER/RXI3oODFfIp42CbbdnHdlN2ktYj/bosteHtvmJm3a7jioCTF3PVwc/F0Pl6C9YScfBUaUQ04tLlKgkJZfCJ4ZklLB5l9An0Imm06QUHdGEFLHxQ7FNTfVpEXGDGsUTf7BoziLv/NPWs5T8GG9a7kF0UaZ3f/fAE=
 ```
 ---
 **C6**
 
 `Import Code`
 ```
-
+XY+xDsIwDER/BXUnEgwM5FMQg0mvqUVqkOMCFeLfSdVSVWx37+xL/K4uqcddWSxXx82pCrv99uCbWy81Gd/EXcgMOqxRR7GjNYhKwgafW6TkatKrIOfZClmvv+xJpWzWILXW4xVakoh/O00udildyNyriBDo9BFFKuIB37DCsQT+Rb6cQeHqxsAbZcMkZ5zvQO0LZWFXHih7dTk9JT+Wx6HozKE6f74=
 ```
 
 ---
