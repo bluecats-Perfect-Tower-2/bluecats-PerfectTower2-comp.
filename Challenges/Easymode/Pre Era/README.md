@@ -915,44 +915,62 @@ XY+xDsIwDER/BXUnEgwM5FMQg0mvqUVqkOMCFeLfSdVSVWx37+xL/K4uqcddWSxXx82pCrv99uCbWy81
 
 **C1**
 
+Tested at 55x effective health
+
+Hardest Modules: Heartstopper Aura (darkness experiment), Unholy Aura (darkness experiment), Immolation (perfect space, not required), Universal Shield (Universal experiment)
+
 `Import Code`
 ```
-
+TY9LTsQwDIavgron0ogdOQpi4Uk8iSXHqWx3RIW4O+lMC935f9j6/D1decFZSdym95ePKV3eXi/RKiHnsAjdUQ042ozMgVrrDE5d4q0vkh9jKApCjmcrE7QuedzZ1phK9X0G0qhYUFCfVcXt4h0jfqUKUnCv/8nnhpE5SDrSk7HlO+9Nu3mERWGg187ruYeMDcXHM49CRVA37/OMGjecsoYrGKVDnCn/vbQmJimH0foInTKGOrimz59f
 ```
 ---
 **C2**
 
+Tested at 5.5x effective health
+
+Hardest Modules: Volcano Gift (c5-6)
+
 `Import Code`
 ```
-
+TY+xbsMwDER/pfBeAWm3au1fBBlo6SwToShDotyh6L/XjSOgC3l3eCTI72mWjq2yWps+Xq5TuLy/vvm2MiS6rryjNhK/lK6RjIu6yJSLxoOBiBNOqz31Fxmqr0hQ1BOukEPs+L8gU8rkyYzC3bUNiMPkLsZtLTaC+ZgK8M3Ayi6sxIroZhIZxMIV3uggTvlXHGvgccIAOW+w3vyzn3TixdxeJJAWHyrbI/7M6TSPh6bbzy8=
 ```
 ---
 **C3**
 
+No Accel
+
+Hardest Module: Battery Foundation (c8-5)
+
 `Import Code`
 ```
-
+XY9BCsIwEEWvItkbkO7MUcTFNJnaoWkaJhOkiHc32qSoq/z3efMhD9X7jJEpSFLnw0XZU3fszLDk4EBoCboHEeTVYEC+rQUTWVM6sJNOEdE1mLMXSuMirejLiEWTBCmQtiNQQFcGvG8GzRElJ1NfjcAyGoFyUnMVf4AhkhuIcb9zwFPAlJqx8zb1h0DcxHdsI1/1HcqXq73lJn1IXZ8v
 ```
 ---
 **C4**
 
+Hardest Modules: Volcano Gift (c5-6), Battery Foundation (c8-5)
+
 `Import Code`
 ```
-
+TY7NCgIxDIRfRfZuQfRkr76FeMhm091g/0hTYRHf3bpswUvIzHwM8x5GXykLRy3D9XAf8HQ+XqxLNU6gnKIZQZVk/bcCzAEsVAHjJBW1FEnmtaGF0TYe8GlKJpq6CNUrlyVpN8bWhmSLEkc2uABHmlqB953gkElr6VIg8+RYyO6B2cSebv/vGI7YqmQbamd2al7JI8RkUVg38Bbm4fH5Ag==
 ```
 ---
 **C5**
 
+No Accel
+
 `Import Code`
 ```
-
+VU7LCsIwEPyVkrsBET2Yq38hHrbJtlnMi2QDBfHfbWMjeBl2ZnZ25yVGVzFlClzEdbgLfTwdzsOGFzXFGgwwxSA9zB4UMIN+ypIQTSe+OqZiI3dhXFMaVWGkQFJboIBGjuBc3yCfkGvpNEMiM1FGtRuykd1t8waSgl5P5VZI6UzcvJufFcP67S/1LSGTjRho+alQrHi8Pw==
 ```
 ---
 **C6**
 
+No Accel
+
 `Import Code`
 ```
-
+VU7LCsIwEPyVkrsBET2Yq38hHrbJtlnMi2QDBfHfbWMjeBl2ZnZ25yVGVzFlClzEdbgLfTwdzsOGFzXFGgwwxSA9zB4UMIN+ypIQTSe+OqZiI3dhXFMaVWGkQFJboIBGjuBc3yCfkGvpNEMiM1FGtRuykd1t8waSgl5P5VZI6UzcvJufFcP67S/1LSGTjRho+alQrHi8Pw==
 ```
 
 ---
