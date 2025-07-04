@@ -979,44 +979,73 @@ VU7LCsIwEPyVkrsBET2Yq38hHrbJtlnMi2QDBfHfbWMjeBl2ZnZ25yVGVzFlClzEdbgLfTwdzsOGFzXF
 
 **C1**
 
+Tested at 220x neutral damage
+
+Can do with less damage, but will be more luck based
+
+Slightly luck based
+
+No Software
+
+Hardest Modules: Neutral Gift (c11-6), Universe Gift (c14-6), Forest Gift (c1-6), Desert Gift (c2-6), Planned Strike (c1-4), Anti-Universe Crit (c14-2), Anti-Neutral Crit (c11-2), Neutral Crit (c11-2), Battery Foundation (c8-5)
+
 `Import Code`
 ```
-
+TZBBTsQwDEWvgron0kisyJZbIBZu4rRWUzeynZEqxN0xU1pYJd9O/vP35zDWjk2ITYfXp/ch3V6eb3GiYoGxm0A9RGe6oyhGZJRpDyMopVi2zhmMNvaCGcoeoQuEIptazFiQFYOfBJzwcCqboDcf94yKYtG/QlqCNsR8irVXI523qzs6yz3UkJhCmoEYs2NrPV/Q2tC6nlKgUS4keDk8Zk5CV7a3dYraKugcIN9/ZsxHH1dPiZz2qDNI1kCONnD4tZb/Pof43dEpD5ya0ILBIcx/6bSBLMPH1zc=
 ```
 ---
 **C2**
 
+Hardest Modules: Ocean Gift (c10-6), Heatwave (c5-4)
 `Import Code`
 ```
-
+bY9BTsUwDESvgronEogVOQpi4SbT1MJ1qtgFKsTdSfl8/S7YjZ/tGftrGGXD2ljdhue7lyE9PN0/Riha2cNIxulaNJRDkXPVG0t7EtZyBUu9NW3T6JwRZi5znOqm+Xc5ZKalao42QyRI7/qfztTeFGbn6YXaKIjn+J4rXbwf1NicNCFAsECd5Awv5ifwX0JppOyI+EwzaUHYtHs361aFJw81gTRmTFDr34D8g3q2rcfJxssq6FAibY367lxlv+hOm5vXdUUbXr9/AA==
 ```
 ---
 **C3**
 
+No Accel
+
+Hardest Modules: Battery Foundation (c8-5), Volcano Gift (c5-6)
+
 `Import Code`
 ```
-
+VY7BTsQwDER/BfVOJAQncuUvEAc3cVKLxIkcZ0WF+PfNthsBp5mxPJr3vaypYxVibcvrw/vinl4en61CUzSBBC2ogvs8PeWK2tsZnJAe7i1He1ND7IhRQKnw7N0rM7aK6GfIPSm1reg8rKWzw//J1K0g05cdRMRk3AZjxJsVUpqfApX8L9QKjdxpMaNEZLfbSEHNpSQHXCwOzLjfH8PY8Qe0yRAz/D2sYwFltx4DckMzlOBg7AImSGlq20aYvOlMF5QGafn4uQI=
 ```
 ---
 **C4**
 
+No Accel
+
+Hardest Modules: Battery Foundation (c8-5), Volcano Gift (c5-6)
+
 `Import Code`
 ```
-
+TY3NCgIxDIRfRXq3IOzJPop4SNt0N9ifpUkXFvHdra4FLyHfZDLzVDY2XCtlYXU93ZS7TOfJCLCgDlTRgAi4x7FTWlEaH/AZmrKjjBWESh7Wn2sgr4h+QGpRiJciQ7ClZYem11Em7RbocV5biNHMFERvJTrIxWBvmfd+YHIm9Cf/7dQJ5gT/gu3BWHcDrYIOtbAYXgij1y3ThpUhqvvrDQ==
 ```
 ---
 **C5**
 
+No wave skipping
+
+Hardest Module: Something (c14-5)
+
+Place Something on a lane, then max Granite Foundation, then Adaptive Regernation, then whatever else or turn on wave skips
+
+Spam Firestorm
+
 `Import Code`
 ```
-
+TU5LCsIwEL2KZG9A0I05irhIk0k6MJmUmbRSine3FYvdvT9vMR2NMAhyU3M/PUy4XM83pwMQWa0FWo+cnfYIFO3IOIGoJwcMkmfbecWwE4G8Id+w8q4lqq+/H+ZA21yqI8dvzmbxjA2OUkRfKkd33FvLtIIJftcSCmirUszz/QE=
 ```
 ---
 **C6**
 
+No Accel
+
 `Import Code`
 ```
-
+TY7NCsJADIRfRXp3QRAP5upbiIfsbtoG96dssoUivrtra8FLyAzDfPPqbKg0FU4q3fVw79zpfLyAoiiZngsBqqJ7bj/HibTKJr7HcHKcqKByTnv0l9qlTER+F7EGZRmz7obNNTmChuPExo3Y6ryxGAIM3KuZc3CYMrjCunJvcQBqyGFpKWEHfWvw6wATcYj4b9hGobIA1oKmL1kUZGQK3tTEMxXB0D3eHw==
 ```
 
 ---
