@@ -1054,43 +1054,68 @@ TY7NCsJADIRfRXp3QRAP5upbiIfsbtoG96dssoUivrtra8FLyAzDfPPqbKg0FU4q3fVw79zpfLyAoiiZ
 
 **C1**
 
+Tested at 1e4x Fire damage, likely possible with less, fire damage increases could help along with filling the rest with offensive modules.
+
+No Accel
+
+No 2x/3x speed
+
+Possibly luck based, less luck based with range increases.
+
+Hardest Modules: Battery Foundation (c8-5), Volcano Gift (c5-6), Forest Gift (c1-6), Desert Gift (c2-6), Universe Gift (c14-6), Aboslute 0 (Water Experiment, absolutely required)
+
 `Import Code`
 ```
-
+XU/LTsQwDPwV1DuWOHAhV/4CcXATp7VonMh2dlkQ/07oUvG4JGNnZjLzPs1bp6YsbtPDzdMU7+5vG7IE7IqQtZqHXLskdK4CM7qTXn6vCi4FQ6JMYgTjZpRIYeHskKvSMNhxIiP1QEK6XIaRcQxez6SAs9WtO8EbaQ3WNrQVkDXYipoMeNiNfzG+gDWidAxcGnm3Y5xHpkjQ1krCr8e29M3Z1up/aeFbDJmVwtcBLJFHuL3VQd5fHW2E22FU9h09luVa61S3iFIPgWLj9EOlMtqSxMu/kAsyXvVd+ERqND1/fAI=
 ```
 ---
 **C2**
 
+Invented By BudEBoy (MeganekkoGekiLove on discord)
+
 `Import Code`
 ```
-
+q1ZKyilNLSjKzCspVrJSiFZyKk1xrSjIyc8ssS7OyEzNSdErzcssSy0qTsyxTklNS80rTtUrSk3LSU0uUYqtBQA=
 ```
 ---
 **C3**
 
+No Accel
+
+Hardest Modules: Battery Foundation (c8-5), Volcano Gift (c5-6)
+
 `Import Code`
 ```
-
+VY7JDsIwDER/BfVOJIS44Ct/gTi4idtaZJPjsAjx74SlCE4ez1jPc+t6XykLRy3ddrHv7GqzXANFkvFqeixsYUg1OlRO0QQcA/4aPaqSXAGroBkkFQXFomQGFoIWoj2+tRXWl9qFEZ7TcLTc/rxA82nf0JZMnhJFvsyuYGb3SyyZyM1LqF65TEn/IdBqcGRjJ2xvXKvq/XzBIZPWAp/519YR6nRuQBh5UHNK3mJMXza24NsC5dgd7g8=
 ```
 ---
 **C4**
 
+Spam Something
+
+Hardest Module: Something (c15-5)
 `Import Code`
 ```
-
+bZFBTsQwDEWvgrqnEhJsyFEQCzdxU4vUGdnOjEYj7k5D0yEgdt9P/vl2fBumVPAkxKbD68Pb4J9eHp8dMkq8jhMo+aMQjFWBUeaDzSlfnFHAsQo9YUqj5hVtIY5uzoXDd/8YBZgMexQI1szB6VJdMwk2eQFDaRpBbGk6UVysaQYrdwPQ0R5APhhVD3dCb0Ke7OoEldSAPe5ZXb0HdmBP7UBN6MqW3jv+T7rP07F9jQ4UpjOKQvrz4IpsvyFjMdlQ94sryJTqKD/H2S6VNnHG4f3zCw==
 ```
 ---
 **C5**
 
+No Accel
+
+Disable damage boosts
+
 `Import Code`
 ```
-
+VU7NDsIgDH4Vw10SD17kUYyHrnTSjAGBEjXGdxd16Lz1++9dDb5SyhykqMPmqHC33+7NGGuwIByDnuE8g4GaQY85FjEgAjjpkTMZgSL0ORd6aEkknVykwFfzkjQH5ED53dd9JRHZ/9AXQWHsgDyhZEaWW6fm6oWLi7IKuF8v5Mm0rziwRgdt2DaD993AcyKppUNLIO7S6swirBfV6fEE
 ```
 ---
 **C6**
 
+No Accel
+
 `Import Code`
 ```
-
+VY65DgIxDER/BW1PJAoocMtfIApv4t21yCXH4RDi3wnHIqg8nrGe59b1vlIWjlq67WLf2dV6uQGKJOPV9FjYwpBqdKicogk4Bvw1elQluQJWQTNIKgqKRckMLAQtRHt8ayusL7ULIzyn4Wi5/XmB5tO+oS2ZPCWKfJldwczul1gykZuXUL1ymZL+Q6DV4MjGTtjeuFbV+/mCQyatBT7zr60j1OncgDDyoOaUvMWYvmxswbcFyrE73B8=
 ```
 
