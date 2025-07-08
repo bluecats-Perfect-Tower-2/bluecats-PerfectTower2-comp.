@@ -4,6 +4,8 @@ All Blueprints Made By Yoshi128986 unless otherwise specified.
 
 No Accel means no Wave Streaming
 
+Low Accel means no software past Wave Streaming
+
 When asked to disable stats, you will need to go to town stats, click on the stat you are asked to disable, then click on each individual modifier.
 
 Unless specified, assume actives are placed at (0,0)
@@ -252,6 +254,8 @@ rVJBTsMwEPxKlDNYoQWByI1v0B62zsZZ1bEte920qvp37CQtLSqcuKy8k5nx7MbHcqMjOk+GQ/lefJZy
 
 Spam Toxic Piranha Ivy at (0,6) until the last wave, then use it at (0,0) until everything is dead.
 
+Low Accel until 100 stacks
+
 `Import Code`
 ```
 TY1LDsIwDESvgrInG8SGHAWxcBM3tQhOZbs/Ie4OFa3U3ZvR6M3bNWXAXohN3e10d/Fyvoa2DpzAqLLPAkyGQTAjo/xLwfKDEYN2WIqfwFA2RhDrNk4gT0bVoy8RvCqnoP26sDpTpHEJqzsvvgGluIfj5d61pU7u8fkC
@@ -319,6 +323,8 @@ RY09DsIwDEavgrKTCRZyFMTgpm5jNX+yHSSEuDvQkrLYz5/s56cZYsPKlFXM5XA1/nQ8O1AFv9iJGDtL
 
 Spam Firestorm
 
+Low Accel until 100 stacks
+
 `Import Code`
 ```
 NcoxDoMwDEbhq6DsZKo6NEdBDAZ+gkXqINsMVcXdEajd3ie9bxjKjk1Z3MKr6cL4aJ/JNpQSZ1aYV30nWy6D1JdfT6SrwCzNdZeJnKvErCTsSBBo/sSBjMc/FPmqewz9cQI=
@@ -348,7 +354,7 @@ Ocean Gift can be replaced by 5x effective health
 
 Use Something at the top lane, then cycle all lanes (where the enemies clump up) and the tower until completion.
 
-Upgrade Granite Foudation only
+Upgrade Granite Foundation only
 
 `Import Code`
 ```
@@ -381,7 +387,7 @@ No Accel
 
 `Import Code`
 ```
-YzUtNiBoYXJkO2ZvdW5kYXRpb24uYmF0dGVyeTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS5mcm9zdDthdXJhLmhlYXJ0c3RvcHBlcjtnaWZ0LmZvcmVzdDtnaWZ0LmRlc2VydDthdXJhLnVuaG9seTtmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5zcGVlZDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTthdHRhY2suaW1wZXR1cztzdGVpbmkuY2hhaW5lZC5iYWxsO2F0dGFjay5iYXNoO2F0dGFjay5zcGFyaztzaGFyZHMuaWNlO3NvdWwuaGFydmVzdGluZzthdHRhY2suYm91bmNlLnBob2VuaXg7Y3JpdC5iYXNpYztjcml0LmVtZXJnZW5jeTthdHRhY2suZGVhdGh3aXNoO2F0dGFjay5maXJlO3Rhc3RlLmZpcmU7ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJlO2F0dGFjay5jb21idXN0aW9uO2NyaXQuZmlyZURtZztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbg==
+VVDLTsQwDPwV1Du5wYFc9y8QBzdxG2vzku0srBD/vmlDd+ESjWfiGdvf0xwbVqasMr09vU/u5fnVMq6YkUGpZMMYO7ighcZgFi6iAwYEVtFSK/JgWg4lXu1SWvajOcGawIIquLORiuiPgqGSX4jxIFKLShKKHsTcbdxdplRRm1hRpEzGBaCM3swQ470BJDyygM9WArAXQ91GSoumlxcUpbz+DzE1FMz0ZR2Tbj7kBsSE3G/hrsd/j6Dhkx5B+woKfawBt8dQdnQc0P5Obv4u60qam+zynrNpp7ROHz83
 ```
 
 ---
