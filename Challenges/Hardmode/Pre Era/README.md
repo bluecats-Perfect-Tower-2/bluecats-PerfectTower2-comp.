@@ -35,9 +35,19 @@ YzEtMTtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5tYWdtYTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5k
 ```
 **C2**
 
+c5-6 required
+
+No Accel
+
 `Import Code`
 ```
-YzEtMjtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5tYWdtYTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmVhcnRo
+Ncg7DoAgDADQqxB2iTjKUYxD5aONQAkUF+Pdndhe3iuP2H2pmLnJVWzS6mkRF1QntJoNMIO9VeqRsV3EIwJWP9yK986cGFg9FC1kMoF6dsBIWSU4E8j9+wE=
+```
+
+Slower
+
+```
+JchBDgIhDAXQqxD2EselPYpxUYfPQNIUUoob493VuHt5r/iQhWFNfcZruMV9O11CZcthS2fKKNCJZCiC3an0pZm9dU2HsTYHGQ4o7J8G+eIJmhUiCWxeiZdxqj9P72PA4v39AQ==
 ```
 **C3**
 
