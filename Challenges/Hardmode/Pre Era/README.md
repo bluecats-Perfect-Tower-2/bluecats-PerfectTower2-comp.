@@ -35,15 +35,25 @@ YzEtMTtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5tYWdtYTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5k
 ```
 **C2**
 
+c5-6 required
+
+No Accel
+
 `Import Code`
 ```
-YzEtMjtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5tYWdtYTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmVhcnRo
+Ncg7DoAgDADQqxB2iTjKUYxD5aONQAkUF+Pdndhe3iuP2H2pmLnJVWzS6mkRF1QntJoNMIO9VeqRsV3EIwJWP9yK986cGFg9FC1kMoF6dsBIWSU4E8j9+wE=
+```
+
+Slower
+
+```
+JchBDgIhDAXQqxD2EselPYpxUYfPQNIUUoob493VuHt5r/iQhWFNfcZruMV9O11CZcthS2fKKNCJZCiC3an0pZm9dU2HsTYHGQ4o7J8G+eIJmhUiCWxeiZdxqj9P72PA4v39AQ==
 ```
 **C3**
 
 `Import Code`
 ```
-YzEtMzthdXJhLmhlYXJ0c3RvcHBlcjtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLm5hdHVyZTthdXJhLnVuaG9seQ==
+JchBCoAgEAXQq4j7pGiXR4kWll8ThinGsU1094J2j3fblRpOKazVTma229CNZg8SzeB6X3cQOQ7aBD4igSucIBE29eloHIOWg12WwEXhBRkM+VNAHy7Y5XkB
 ```
 **C4**
 
@@ -63,9 +73,11 @@ YzEtNTtzcGVsbC50b3hpY2l2eTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2Zv
 ```
 **C6**
 
+c8-5 required
+
 `Import Code`
 ```
-YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5hdHVyZQ==
+TYq7CsMwDAB/xXivaZYO9aeUDootx6J+BEkeQui/10ug08HdnXYtA3empmKf5mXDcnuYDBzN4u4+9dEiKPXmKmwVPAwGl7iL/rcVVJEPPwHh4xIxelGkRi5koIZxLqVcvY6iJLnrJWRHjB4b8nbMUyjY9/cH
 ```
 
 
@@ -95,7 +107,7 @@ Made By dazmaticx
 
 `Import Code`
 ```
-YzItNSBoYXJkIERhek1hdGljeC1FZGl0O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWxlY3RyaWNpdHk7Z2lmdC52b2xjYW5vO2F0dGFjay5maXJlYnJlYXRoO2F0dGFjay5zcGVlZA==
+Ncg9DgIhEAbQqxD6pdBOWi09gbGYhY9lIsJmmN34E+/uJsbu5b3tWBbMwlW7PZiLDbthbzJJNEd6nUk5PIZTZPWCCRWyTatOUDas8KktNf4uMt1bjb5nlOJQEFQ4sD79xEnd2kqg2jypUri5xIJRQJr/02cg2uvnCw==
 ```
 **C4**
 
@@ -147,7 +159,7 @@ Spam Fire Focus
 
 `Import Code`
 ```
-YzMtMiBoYXJkO2ZvY3VzLmZpcmU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC53YXRlcjtzaGVsbC5haXI7Zm91bmRhdGlvbi5tYWdtYTtiYXJyaWVyLmZpcmU7c2hpZWxkLmJhc2ljO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2Uud2F0ZXI7cmVzaXN0YW5jZS5haXI7ZW5lcmd5LmJhc2lj
+TY5LDgIhEESvMmEv8bOToxgXPVBCJ9BjGsZPjHd3FGPcveqkXvXDjHnGWVlaNfvhYPxutR0SaRg2du1Ok5+rPbFiwVkCNZ7EBqYySXCKCIH2oyIvcIGrCTnbKzXol4n1v14oFnIjqTK0y2ti5GBHquwXbeXaSDwsMgqkUXa4+UQS8ZH9Ql95PxHvvW2Ozxc=
 ```
 **C3**
 
