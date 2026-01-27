@@ -1,6 +1,6 @@
 # Pre-Era Challenge BP's
 
-All BP's here are made by Yoshi128986 unless stated otherwise. Any challenge not listed does not have a known pre era solution.
+All BP's here are made by Yoshi128986 unless stated otherwise. Any challenge not listed does not have a known pre era solution. Due to this, many module may be incredibly difficult to obtain in mt7, so I will indicate where the post era solution is likely easier to obtain and use. - Yoshi128986
 
 No Accel = No Wave Streaming
 
