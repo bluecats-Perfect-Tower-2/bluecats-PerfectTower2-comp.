@@ -163,19 +163,25 @@ TY5LDgIhEESvMmEv8bOToxgXPVBCJ9BjGsZPjHd3FGPcveqkXvXDjHnGWVlaNfvhYPxutR0SaRg2du1O
 ```
 **C3**
 
-`Import Code`
-```
-RcjLCsJADEbhVymzdzbdOY8iLuLMPxca0pKkKkjfXUHB3XfOK9x4x6ZD3MJ5uoQ8n+apk5ZE7pSXaBtQknUwxwc59OdCugjMUkGFGKKiMrInPHMnaYh1KP7Fo3VPdd2lkI9VYlOS4UiKBoF+p4I/uCNcjzc=
-```
-**C4**
-
-Made By: Lunaa.620
-
 Post Era
 
 `Import Code`
 ```
-ZZBfT8IwFMW/CtmzLjDkQfvEMA4TIEHNiBgebtvLWum6pe02wfjd7fjnEs9Dc+/J/d3c0++AqgpLI7WzwUPvI2DD27ueAMPJtqg0BycLHWYGtHTYtbiEvNCc4BcToDMMG3Bo/loOZqfRWmIwQ43mRBlUvqjRu1ZaB5pdwI7RQa8eKsxRO1DEClTqDJ3q6zxUBkKBYJx1RVn6AY5b1BZDWqnGTxENrjLo8xSNEx6XqLiPUkvrryO2bNfZIkcnpM5Ie3e2DylYyS5NNw4B54DtQlbktLKtE2xueoFlRpbn74yT+WH2tozHXrHmAqJ0wMZHTdonmb7UPEr3s3xQr6epXb+OBixKGzpclDxRNc3EJ41GB548VXz8fNwzSRY11Yv++2rUj5fjqx4Trmie7mE1r9bRfZ82/9lg8/ML
+TYvLCsIwEEV/pWRvNt2ZTxEX0+TmgcNUJhMrSP/dgiLuzj3c83ILD9y1iXV3ni4uzqd5qqQpJGRIh18Gb6S30CuY/UYG/XI6tKD331WRGdFCXocksraKL0rSDAHPWEkKfG76t7iVakFRINBPoeADHnDX/Q0=
+```
+**C4**
+
+Post Era
+
+Spam Fracture
+
+Use Dark Sacrifice once, wait until wave 300 to use Neutral Focus, then at 400 use Dark Sacrifice again.
+
+Requires c11-2, c11-6, and Bluecat's Harmonizer (maybe replacable with battery foundation, though fracture will go down)
+
+`Import Code`
+```
+RVAxTgQxDPzKaXvcQEVafoEovImzsc5JVrZzJ0D8nazELZ09nvGM/b2sMmhXbm7L6+V9ic9PL5eCmsLG2aHRcEUJVpgkwWh8I7UJJMrUjGAdcke9Bqy7cGbSU5Kw4kbQ66kxJ24MsSA3SrCiSIjKp8tb3YLtglYA0w1bpBQMJyNzJEiHTe5x2H+qnUQgK0YfSgHdMV6hDnG20v0BTNrc5Dj9T+nfaO1j2gRqpNvnTGQcH43SdlTo3FuYH6m98de873hYRF8+fn4B
 ```
 **C5**
 
