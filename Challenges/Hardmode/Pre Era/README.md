@@ -1,10 +1,10 @@
 # Pre-Era Challenge BP's
 
-All BP's here are made from Yoshi128986 unless stated otherwise (not all are pre-era, but they are as close as possible - Yoshi128986)
+All BP's here are made by Yoshi128986 unless stated otherwise. Any challenge not listed does not have a known pre era solution.
 
 No Accel = No Wave Streaming
 
-**AI**
+**AI for basic skill spam**
 
 ```DmNoYWxsZW5nZSBzcGFtAQAAAAZ3YWtldXAAAAAACgAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24IY29uc3RhbnQCAQAAAAhjb25zdGFudAUAAAAAAAAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24IY29uc3RhbnQCAgAAAAhjb25zdGFudAUAAAAAAAAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24IY29uc3RhbnQCBAAAAAhjb25zdGFudAUAAAAAAAAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudAhjb25zdGFudAICAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQIY29uc3RhbnQCAwAAAAxnZW5lcmljLmdvdG8IY29uc3RhbnQCAAAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudAhjb25zdGFudAIEAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgUAAAAXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQIY29uc3RhbnQCBgAAAA==```
 
