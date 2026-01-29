@@ -1,4 +1,4 @@
-# Pre-Era Challenge BP's
+# Pre-Infinity Hardmode Challenge BP's
 
 All BP's here are made by Yoshi128986 unless stated otherwise. This currently contains the easiest solutions to gather for hardmode purposes, eventually the pre era challenges may be made into speed challenges using era modules. - Yoshi128986
 
