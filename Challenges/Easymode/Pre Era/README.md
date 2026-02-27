@@ -10,6 +10,8 @@ When asked to disable stats, you will need to go to town stats, click on the sta
 
 Unless specified, assume actives are placed at (0,0)
 
+Note: Challenges with "Shell" Modules may require more health ir resistances than requested. Also all shells cap at 50 stacks, so use that number instead of 100 when requested. 
+
 #### Quick-Navigation
 - [Forest](#Forest)
 - [Desert](#Desert)
@@ -548,7 +550,7 @@ Granite Foundation and Earth+Air Shell should be kept at a 2:1 ratio, Keep Natur
 
 Example: Granite Foundation at 150, Earth and Air at 75, Nature and Water at 25
 
-If you have Bluecat's Harmonizer, please add it to the blueprint, if you don't, go to c10-4 and get it, this will relieve some pain.
+If you have Bluecat's Harmonizer, please add it to the blueprint, if you don't, go to c10-4/c14-2 and get it, this will relieve some pain.
 
 `Import Code`
 ```
@@ -1037,7 +1039,7 @@ TY3NCgIxDIRfRXq3IOzJPop4SNt0N9ifpUkXFvHdra4FLyHfZDLzVDY2XCtlYXU93ZS7TOfJCLCgDlTR
 
 No wave skipping
 
-Hardest Module: Something (c14-5)
+Hardest Module: Something (c15-5)
 
 Place Something on a lane, then max Granite Foundation, then Adaptive Regernation, then whatever else or turn on wave skips
 
@@ -1103,6 +1105,7 @@ VY7JDsIwDER/BfVOJIS44Ct/gTi4idtaZJPjsAjx74SlCE4ez1jPc+t6XykLRy3ddrHv7GqzXANFkvFq
 Spam Something
 
 Hardest Module: Something (c15-5)
+
 `Import Code`
 ```
 bZFBTsQwDEWvgrqnEhJsyFEQCzdxU4vUGdnOjEYj7k5D0yEgdt9P/vl2fBumVPAkxKbD68Pb4J9eHp8dMkq8jhMo+aMQjFWBUeaDzSlfnFHAsQo9YUqj5hVtIY5uzoXDd/8YBZgMexQI1szB6VJdMwk2eQFDaRpBbGk6UVysaQYrdwPQ0R5APhhVD3dCb0Ke7OoEldSAPe5ZXb0HdmBP7UBN6MqW3jv+T7rP07F9jQ4UpjOKQvrz4IpsvyFjMdlQ94sryJTqKD/H2S6VNnHG4f3zCw==
