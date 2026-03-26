@@ -35,25 +35,20 @@ YzEtMTtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5tYWdtYTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5k
 ```
 **C2**
 
-c5-6 required
-
-No Accel
+**Made By:** Amanita
 
 `Import Code`
 ```
-Ncg7DoAgDADQqxB2iTjKUYxD5aONQAkUF+Pdndhe3iuP2H2pmLnJVWzS6mkRF1QntJoNMIO9VeqRsV3EIwJWP9yK986cGFg9FC1kMoF6dsBIWSU4E8j9+wE=
+JczBDcIwDAXQVaoMkAGaURCHn/pDLBmnchNAQuxOJW7v9D6p2uQe6uNI63JJLy4VZuVoSpMMecI3SqmIUEZ2jBkstz5dMLR7FsWjuxS+twa/MxMx2hnQ7O90/f4A
 ```
 
-Slower
-
-```
-JchBDgIhDAXQqxD2EselPYpxUYfPQNIUUoob493VuHt5r/iQhWFNfcZruMV9O11CZcthS2fKKNCJZCiC3an0pZm9dU2HsTYHGQ4o7J8G+eIJmhUiCWxeiZdxqj9P72PA4v39AQ==
-```
 **C3**
 
+**Made By:** Amanita
+
 `Import Code`
 ```
-JchBCoAgEAXQq4j7pGiXR4kWll8ThinGsU1094J2j3fblRpOKazVTma229CNZg8SzeB6X3cQOQ7aBD4igSucIBE29eloHIOWg12WwEXhBRkM+VNAHy7Y5XkB
+TcjBDYAgDADAVQgDMICMYnwUKdCkFlMgaoy7+/Hh8+62gQfuStKbncxsDzQBmD0MBZcI9fKpDonQqYrLCkId/xUJtirR47kWkIxOoA9F3woyf7DL8wI=
 ```
 **C4**
 
@@ -85,13 +80,13 @@ TYq7CsMwDAB/xXivaZYO9aeUDootx6J+BEkeQui/10ug08HdnXYtA3empmKf5mXDcnuYDBzN4u4+9dEi
 
 **C1**
 
-**Made By:** catasleep, dfirestorm, rimfire_
+**Made By:** Amanita
 
-Spam Firestorm
+Works Even With T5 Modules
 
 `Import Code`
 ```
-YzItMTtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtib251cy5vZmZlbnNpdmU7Ym9udXMuZGVmZW5zaXZlO2JvcmY7c3BlbGwuZmlyZXN0b3JtO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwubGlnaHQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZl
+Tcu7DcMwDEXRVQwNoAGiUYIUlPkkEaCoQB8nQJDd48JFunuK+3FRF55dbA532+7uhS2SahhFoOyJD7IdHFJbxjSlmWeh2owD3nshy/AquczzgOrVkXoXdJ+k43+tlCuF2GwNz0iwIQcut3TZPb4/
 ```
 **C2**
 
@@ -111,19 +106,21 @@ Ncg9DgIhEAbQqxD6pdBOWi09gbGYhY9lIsJmmN34E+/uJsbu5b3tWBbMwlW7PZiLDbthbzJJNEd6nUk5
 ```
 **C4**
 
-Made By: yoshi128986, rimfire_
+**Made By:** Amanita
 
 `Import Code`
 ```
-YzItNDtzcGxhc2guZWxlbWVudC5maXJlO2dpZnQudm9sY2FubzthdHRhY2suc3BlZWQ7Zm91bmRhdGlvbi5tYWdtYTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRl
+PYqxCsMwDAV/pXivoUOX+lNCBsWS2weOZGS7S+m/J1Om47j7ha1OaQ4dPbxuS8iP570RNPUPpHIk/pJm4cv3VlEgnjZyPxkJnopNZRowjQzaTa9/arHK0HdiKaJdYj7rzMM8rP8D
 ```
 **C5**
 
-Spam Toxic Ivy and Desperado
+**Made By:** Amanita
+
+Spam Toxic Ivy and Fire Bomb
 
 `Import Code`
 ```
-YzItNSBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c3BlbGwudG94aWNpdnk7c3BlbGwuZGVzcGVyYWRvO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9u
+NYxBCgIxDEWvIt1bcOHGHEVcpJ1MDda0pKkzRby7o+juPXj/P13InaqyWHOn3dnFw3FfkQVapZy9lZUjP8ZPZ1YK5R5gLl0mNC7ik6KwEWBX3ALSASSkafiAjeNflNKHvhuYaCZp5EPPC+oNBK0rbVdlsau7vN4=
 ```
 **C6**
 
