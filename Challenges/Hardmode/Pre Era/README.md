@@ -1,10 +1,10 @@
 # Pre-Era Challenge BP's
 
-All BP's here are made from Yoshi128986 unless stated otherwise (not all are pre-era, but they are as close as possible - Yoshi128986)
+All BP's here are made by Yoshi128986 unless stated otherwise. Any challenge not listed does not have a known pre era solution. Due to this, many module may be incredibly difficult to obtain in mt7, so I will indicate where the post era solution is likely easier to obtain and use. - Yoshi128986
 
 No Accel = No Wave Streaming
 
-**AI**
+**AI for basic skill spam**
 
 ```DmNoYWxsZW5nZSBzcGFtAQAAAAZ3YWtldXAAAAAACgAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24IY29uc3RhbnQCAQAAAAhjb25zdGFudAUAAAAAAAAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24IY29uc3RhbnQCAgAAAAhjb25zdGFudAUAAAAAAAAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24IY29uc3RhbnQCBAAAAAhjb25zdGFudAUAAAAAAAAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudAhjb25zdGFudAICAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQIY29uc3RhbnQCAwAAAAxnZW5lcmljLmdvdG8IY29uc3RhbnQCAAAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudAhjb25zdGFudAIEAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgUAAAAXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQIY29uc3RhbnQCBgAAAA==```
 
@@ -35,15 +35,25 @@ YzEtMTtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5tYWdtYTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5k
 ```
 **C2**
 
+c5-6 required
+
+No Accel
+
 `Import Code`
 ```
-YzEtMjtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5tYWdtYTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmVhcnRo
+Ncg7DoAgDADQqxB2iTjKUYxD5aONQAkUF+Pdndhe3iuP2H2pmLnJVWzS6mkRF1QntJoNMIO9VeqRsV3EIwJWP9yK986cGFg9FC1kMoF6dsBIWSU4E8j9+wE=
+```
+
+Slower
+
+```
+JchBDgIhDAXQqxD2EselPYpxUYfPQNIUUoob493VuHt5r/iQhWFNfcZruMV9O11CZcthS2fKKNCJZCiC3an0pZm9dU2HsTYHGQ4o7J8G+eIJmhUiCWxeiZdxqj9P72PA4v39AQ==
 ```
 **C3**
 
 `Import Code`
 ```
-YzEtMzthdXJhLmhlYXJ0c3RvcHBlcjtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLm5hdHVyZTthdXJhLnVuaG9seQ==
+JchBCoAgEAXQq4j7pGiXR4kWll8ThinGsU1094J2j3fblRpOKazVTma229CNZg8SzeB6X3cQOQ7aBD4igSucIBE29eloHIOWg12WwEXhBRkM+VNAHy7Y5XkB
 ```
 **C4**
 
@@ -63,9 +73,11 @@ YzEtNTtzcGVsbC50b3hpY2l2eTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2Zv
 ```
 **C6**
 
+c8-5 required
+
 `Import Code`
 ```
-YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5hdHVyZQ==
+TYq7CsMwDAB/xXivaZYO9aeUDootx6J+BEkeQui/10ug08HdnXYtA3empmKf5mXDcnuYDBzN4u4+9dEiKPXmKmwVPAwGl7iL/rcVVJEPPwHh4xIxelGkRi5koIZxLqVcvY6iJLnrJWRHjB4b8nbMUyjY9/cH
 ```
 
 
@@ -95,7 +107,7 @@ Made By dazmaticx
 
 `Import Code`
 ```
-YzItNSBoYXJkIERhek1hdGljeC1FZGl0O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWxlY3RyaWNpdHk7Z2lmdC52b2xjYW5vO2F0dGFjay5maXJlYnJlYXRoO2F0dGFjay5zcGVlZA==
+Ncg9DgIhEAbQqxD6pdBOWi09gbGYhY9lIsJmmN34E+/uJsbu5b3tWBbMwlW7PZiLDbthbzJJNEd6nUk5PIZTZPWCCRWyTatOUDas8KktNf4uMt1bjb5nlOJQEFQ4sD79xEnd2kqg2jypUri5xIJRQJr/02cg2uvnCw==
 ```
 **C4**
 
@@ -147,7 +159,7 @@ Spam Fire Focus
 
 `Import Code`
 ```
-YzMtMiBoYXJkO2ZvY3VzLmZpcmU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC53YXRlcjtzaGVsbC5haXI7Zm91bmRhdGlvbi5tYWdtYTtiYXJyaWVyLmZpcmU7c2hpZWxkLmJhc2ljO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2Uud2F0ZXI7cmVzaXN0YW5jZS5haXI7ZW5lcmd5LmJhc2lj
+TY5LDgIhEESvMmEv8bOToxgXPVBCJ9BjGsZPjHd3FGPcveqkXvXDjHnGWVlaNfvhYPxutR0SaRg2du1Ok5+rPbFiwVkCNZ7EBqYySXCKCIH2oyIvcIGrCTnbKzXol4n1v14oFnIjqTK0y2ti5GBHquwXbeXaSDwsMgqkUXa4+UQS8ZH9Ql95PxHvvW2Ozxc=
 ```
 **C3**
 
@@ -157,33 +169,28 @@ RcjLCsJADEbhVymzdzbdOY8iLuLMPxca0pKkKkjfXUHB3XfOK9x4x6ZD3MJ5uoQ8n+apk5ZE7pSXaBtQ
 ```
 **C4**
 
-Made By: Lunaa.620
-
-Post Era
+Needs Pre Era Solution
 
 `Import Code`
 ```
-ZZBfT8IwFMW/CtmzLjDkQfvEMA4TIEHNiBgebtvLWum6pe02wfjd7fjnEs9Dc+/J/d3c0++AqgpLI7WzwUPvI2DD27ueAMPJtqg0BycLHWYGtHTYtbiEvNCc4BcToDMMG3Bo/loOZqfRWmIwQ43mRBlUvqjRu1ZaB5pdwI7RQa8eKsxRO1DEClTqDJ3q6zxUBkKBYJx1RVn6AY5b1BZDWqnGTxENrjLo8xSNEx6XqLiPUkvrryO2bNfZIkcnpM5Ie3e2DylYyS5NNw4B54DtQlbktLKtE2xueoFlRpbn74yT+WH2tozHXrHmAqJ0wMZHTdonmb7UPEr3s3xQr6epXb+OBixKGzpclDxRNc3EJ41GB548VXz8fNwzSRY11Yv++2rUj5fjqx4Trmie7mE1r9bRfZ82/9lg8/ML
+
 ```
 **C5**
 
-Use IVY only to kill Olaf, don't use it after
-
-Post Era
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzMtNSBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtzaGVsbC5lYXJ0aDtzaGVsbC53YXRlcjtzaGVsbC5kYXJrbmVzcztmb3VuZGF0aW9uLmdyYW5pdGU7cmVzaXN0YW5jZS5lbGVtZW50YWw7ZGVmZW5zZS5idWx3YXJrO3JlZmxlY3Qud2luY2U7ZW5lcmd5LmJhc2ljO3NwZWxsLnRveGljaXZ5
+
 ```
 **C6**
 
-Post Era
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzMtNiBoYXJkO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24ubWFyYmxlO2RlZmVuc2UuYnVsd2FyaztyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9u
-```
 
+```
 
 ## Underground
 
@@ -229,12 +236,7 @@ YzQtNSBoYXJkO2F1cmEudW5ob2x5O2F1cmEuaGVhcnRzdG9wcGVyO2F1cmEuZnJvc3Q7Zm91bmRhdGlv
 ```
 **C6**
 
-Post Era
-
-`Import Code`
-```
-YzQtNiBoYXJkO3NoaWVsZC5kaXZpc2lvbjtkZWZlbnNlLmJ1bHdhcms7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c3BlbGwudG94aWNpdnk=
-```
+**Post era solution may be easier to gather for**
 
 W.I.N.C.E solution
 
@@ -353,15 +355,11 @@ YzYtNDthdHRhY2suc3BlZWQ7YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5tdWx0aXNo
 ```
 **C5**
 
-Made By: WootImNoob 
-
-granite to 100, div to 100, shells to 100, then 2 granites for 1 shell (rough estimate)
-
-Post Era
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5lYXJ0aDtzaGVsbC5haXI7c2hlbGwuZGFya25lc3M7Z2lmdC5vY2VhbjtyZWZsZWN0LndpbmNlO2RlZmVuc2UuYnVsd2FyaztzaGllbGQuZGl2aXNpb247bmF0dXJlLmdyb3d0aDthdHRhY2suY29tYnVzdGlvbg==
+
 ```
 **C6**
 
@@ -400,15 +398,11 @@ YzctMjtmb3VuZGF0aW9uLm1hZ21hO2dpZnQuZGVzZXJ0O2dpZnQudm9sY2FubztmaXJlLmluY2luZXJh
 ```
 **C3**
 
-Post Era
-
-Made By: nar31
-
-Upgrade in alternation: Granite Foundation <-> Division Shield then everything else
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzctMyBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtzaGVsbC5uYXR1cmU7ZXhjaGFuZ2UubmF0dXJlO2ZvdW5kYXRpb24uZGlhbW9uZDtnaWZ0LmZvcmVzdDtzaGllbGQuZGl2aXNpb247bmF0dXJlLmdyb3d0aDtkZWZlbnNlLmJ1bHdhcms7cmVmbGVjdC53aW5jZTtib251cy5kZWZlbnNpdmU=
+
 ```
 **C4**
 
@@ -461,15 +455,11 @@ BGM3LTUCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nCQAAAA5n
 ```
 **C6**
 
-Made By: Yoshi128986
+Needs Pre Era Solution
 
-Max out in order: Granite Foundation -> Shells
-
-Post Era
-
-`Blueprint Import Code`
+`Import Code`
 ```
-YzctNiBIYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3NoZWxsLm5hdHVyZTtzaGVsbC5haXI7c2hlbGwud2F0ZXI7c2hlbGwuZWFydGg7cmVzaXN0YW5jZS5uYXR1cmU7cmVzaXN0YW5jZS5haXI7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYztnaWZ0Lm9jZWFuO2JvbnVzLmRlZmVuc2l2ZTtyZWZsZWN0LndpbmNlO3NoaWVsZC5kaXZpc2lvbjtzaGllbGQudW5pdmVyc2FsO2RlZmVuc2UuYnVsd2FyaztuYXR1cmUuZ3Jvd3Ro
+
 ```
 
 
@@ -495,15 +485,11 @@ YzgtMjthdHRhY2suZmlyZTtnaWZ0LnZvbGNhbm87ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJl
 ```
 **C3**
 
-Post Era
-
-Made By: nar31
-
-Upgrade in alternation: Granite Foundation <-> Division Shield then everything else
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzgtMztmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5maXJlO2V4Y2hhbmdlLmZpcmU7c2hlbGwuYWlyO2V4Y2hhbmdlLmFpcjtzaGVsbC5lbGVjdHJpY2l0eTtleGNoYW5nZS5lbGVjdHJpY2l0eTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmdlbmVyaWM7cmVmbGVjdC53aW5jZTtzaGllbGQuZGl2aXNpb247ZGVmZW5zZS5idWx3YXJrO2JvbnVzLmRlZmVuc2l2ZQ==
+
 ```
 **C4**
 
@@ -591,21 +577,11 @@ YzktNCBIYXJkO3NoYXJkcy5pY2U7YXR0YWNrLnNwZWVkO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJv
 ```
 **C5**
 
-Made by: Lunaa.620 (with help from ryan180322)
+Needs Pre Era Solution
 
-Post era
-
-Enable AI and start it before the run (F4)
-
-**Turn Off:** Wave streaming
-
-`Blueprint Import Code`
+`Import Code`
 ```
-YzktNTtyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9uO2RlZmVuc2UuYnVsd2FyaztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2dpZnQuZm9yZXN0O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYXJibGU7cmVnZW5lcmF0aW9uLnJlbGF0aXZl
-```
-`Facility AI Import Code`
-```
-BGM5LTUBAAAABndha2V1cAAAAAACAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAMZ2VuZXJpYy5nb3RvCGNvbnN0YW50AgEAAAA=
+
 ```
 **C6**
 
@@ -633,16 +609,11 @@ QzEwLTEgSGFyZDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZ2VuZXJpYztyZXNpc3RhbmNlLmVs
 ```
 **C2**
 
-- Energy Flow and Low Tide are not required.
-- Wait for AI to upgrade Granite Foundation, after that you upgrade granite foundation and shells manually.
-
-By: Fireball
-
-Post Era
+Needs Pre Era Solution
 
 `Import Code`
 ```
-7RpNj9tE9K8sOfRQWivOLmi1oWwFJ05cKnEgPYztZ3vY8YyZj82mVSVu9AJn4ITaEzeOHJAqJX+MN544sR17cbIrCMWy5Nhv3nsz7/vNxC9HATOQS8q1Gl2cfD0K/fHjyVTlwJinRAY6pTyZRhADV+AFhs2JvJoCB5ksvIAoGpYvEhL7RDQVvITFTMynmkbg2YdYGB4V414iCacapiq1E0XIk4NS69c50SCnxEjipUCkVlrkeQkxPBVsMYWbMCU8gS3tBuLIJSiqNOFhBaUCK5G2a0YBGD5cQ3WdESWZ4NHo+aOTkQolzZ2aXo5IaMedzmZxwYWGyJXqWRDiAM6iZ2Y8Hp8uf1n+vLl+uxwhpxlPSAZeToyC4t0ixkrEGrULnhZJwmCmlQmURtMkDZZnyzfud0NBjBbqiubTDWROrgGJgWTWfnWwkQlsQSiVpiFhX+HQNyZr8MjQB7g2WZOzkA0QGsgqF1C59QFqVx5QRvWiPnAtpIabOiwkmrCF0nUo8AhNX+PMYR5YM6nGcgkaM0UHrHMVWY62V7Q6gGZvaAIhgZHVyS3OnEpWZ5cKSV9UWXHRXIv1KcM5sB3tB2iTMK3DMEyErBHvQnYmtYQolMYA2QIpjykG1qLEdi4YTWjx8DGqYuItimdgAo3uFZAEml57Vtw/+oJHcOPQCbpJivkAvZyukcB5J74j1pfx4KWDlx7opW3O59+P87ayfnx/cWGthrGhsFjYuKijT1bv3NXKZvLJE7cOhevozvZn4+n+V5uAN/9Q4B+24P4+sLcc/X3gjqwnxX28e99U+Spr1UP7iOjFUmSfY6RFyi2ZTqL32zQftqrV71DuXfQx1KihRh1pjeodBNvcUm5DEqEFbfq6oz9tDyLfr9SxdRka9h9D1Az7j8FL/wde+t/cf7TuKT540gp3VSIuzp0Mr508+edazEF6mYgMw1EFuVDUHm/t1YY1W9XGMVhXZ1y9P3p6CNX46UYSv3oQZ7imrECJK8UtEILtVLxImMCeuBXqsS7TbrZPD1leMdm4KdnaWg8eFMOnxcRUPbOGeIbuigHRt6yHXW0xF/p25i2nkP6knEyFUjAmIdRdGxHfr+TktQY7wNz9ephm15k7lJivvDmNdOpFXWQt2vbD1fffbh5Wf162W+qhs/t6mhRokmqc5xZcEHlx4muop+iLDgd4eIgDLP+43FNdPbW4I15/Nf7dmldvblVs037/il5r944WulvBvZ3jEO392tReP7Lfl82Dop507l8F6UoHtkedRwu+KzjNbqpC2VVzkPJ+tin1JB1LzEFu9SU4ZDS8GpLOHV3wuyHp7KvX5U/LH1Zvz5c/rt6uXu+EYjWn7Gih9x487hC+rUXZOVwuVmmbRp0zssCW7SbvalQOj+iyJ2npj2LXKKZAmE4bxGXE32/jVEseR9693jV9H5kwB5aw90mW5btjFOZQL9tK0+ek0O+Q4cjygv0wIzAR5rjRxcnkfOzjO7KM6ObzDItBs9wwBe5zjSKLcJhLexpRMOC2B7k4cR+/WCXlJLwiSQGzr2juz8o5tDTw6vmrvwA=
+
 ```
 **C3**
 
@@ -688,15 +659,11 @@ YzEwLTYgSGFyZDthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYm91bmNlO2F0dGFj
 
 **C1**
 
-No Accel
-
-By: Yoshi128986
-
-Post Era
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzExLTEgSGFyZDt3YXRlci5leHRpbmd1aXNoO29ic2lkaWFuLmduYXJseTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24ubWFyYmxlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtleGNoYW5nZS5uZXV0cmFsO2dpZnQub2NlYW47cmVzaXN0YW5jZS5uZXV0cmFsO2F1cmEuaGVhcnRzdG9wcGVy
+
 ```
 **C2**
 
@@ -748,33 +715,29 @@ YzExLTUgaGFyZDthdXJhLm1vbnNvb247ZGVmZW5zZS5kZWZpYW5jZTthdXJhLmZyb3N0O2F1cmEuc3Rv
 
 **C1**
 
-Post Era
-
-By: Yoshi128986
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzEyLTEgSGFyZDtzaGllbGQuZGl2aXNpb247cmVmbGVjdC53aW5jZTtkZWZlbnNlLmJ1bHdhcms7c2hlbGwuZWFydGg7c2hlbGwuZGFya25lc3M7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtleGNoYW5nZS5kYXJrbmVzczt0b3dlci51bml2ZXJzYWw=
+
 ```
-
-Slower No WINCE solution
-
-Post Era
-
-By: Yoshi128986
-
-`Import Code`
-```
-TU5LDsIgEL1Kw16SupSjGBdTGOik/DKApjHeXWzEuJv3nfcUi2+YmWIt4jJdhZ7Pp3lagc0U0/SgqFHZ1KKBSinKBWpF3v+pAC6A6jzoTVLIWFsZMDRfqaypDmLpud74tUlLjEM6bke2ynvyGmJSH0b2BRSRj1/DypDJHP4CmsmSRmmAt6GXjGgU9pjb++RCegBGh782gxZjQbk0/+hpcXu9AQ==
-```
-
 **C2**
+
+Use provided AI
+
+Slow, will need many attempts before a good run
+
+Requires Rak's Curse
 
 By Yoshi128986
 
 `Import Code`
 ```
-YzEyLTIgSGFyZDtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZGFya25lc3M7cmVzaXN0YW5jZS5nZW5lcmljO3Jlc2lzdGFuY2UuZWxlbWVudGFsO2V4Y2hhbmdlLmVhcnRoO2V4Y2hhbmdlLmRhcmtuZXNzO2V4Y2hhbmdlLnVuaXZlcnNhbDtmb3VuZGF0aW9uLm1hcmJsZTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2dpZnQub2NlYW47c2hpZWxkLmZyb3N0O2RlZmVuc2UuYnVsbGV0cHJvb2Y7c2hlbGwuZWFydGg7c2hlbGwuZGFya25lc3M7YXVyYS5oZWFydHN0b3BwZXI7ZXZhc2lvbi5iYXNpYztyZWdlbmVyYXRpb24ucmVsYXRpdmU7cmVzaXN0YW5jZS51bml2ZXJzYWw7Zm91bmRhdGlvbi5zdGVlbA==
+ZY+xbsMwDER/pfBeAc1YjfmMogMtXSQhMmWQVNCg6L/XjocI7Xb3cOAdv6e5dqxS2HR6f/mYwtvp9eTxFTJxgutcbhCl+kQgsfy0keTKUPWaUetfe4QFWtSIwxAf2L8QKhawba0DTGBICf7SOkey0tglIS6GEcVCS+M4ooVkrthOPS4cTFA3cYNP5WKuBRAfMkIh5qkLubwPU2vrCjlI59zq3YcmcPv3dduj6/6o0FXPXRR+L0l3N5OWMH3+/AI===
+```
+`AI Import`
+```
+jVFdSsQwEL5KybPUVAVBBNFr2H2YptM0tElKfujDskfYA+gtvML2Yk5TI1L2QQJD5u/7vpk5Mi+cmoJnT8X7kYEIyprksNoFO6MrHfoALrCbgtWR8+pxC2vbxhHL6FEZKjChboT9+VEZv0u2Spb/tQmok2jQKVHOoFJ9VYFTodcYKNja2Iy4A7y/fF4+8lu+Xnbph43vtjZBaSy9gBGzZo6ZTtpgVfdfqZswYfVE4rw1WVi3raBHGEO/A8swV9U972e6zkmCl/NyfmUHGqCJrcRAJ+HkUHerfm+0ppWe4uhxu9kMA8YptRnQSDHmYCikU9Rm5LqPCcQAMqVWl+73lgk6IKDT4fQN
 ```
 **C3**
 
@@ -884,19 +847,11 @@ XZDBTgQhDIZfZTN3iSae5OrBdzAeOtAdmmUKaYvrxPjuYnaIjhfS/+On/cvnNOeGVYhNp6fT6xQe7u8e
 
 **C1**
 
-Use Dark Sacrifice twice
-
-No Accel
-
-Probably luck based
-
-By: Yoshi128986
-
-Post Era
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzE0LTEgSGFyZDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtmb3VuZGF0aW9uLmJhdHRlcnk7YXVyYS5mcm9zdDtnaWZ0LmZvcmVzdDthbXBsaWZpZXIubmV1dHJhbDtkZWZlbnNlLmJ1bHdhcms7Z2lmdC51bml2ZXJzZTthdHRhY2suYmFzaWM7Y3JpdC5uZXV0cmFsRG1nO2J1cnN0Lm5ldXRyYWw7c3BsYXNoLmFkdmFuY2VkO3NhY3JpZmljZS5kYXJrO2F0dGFjay5zcGVlZDthdHRhY2subXVsdGlzaG90O2F0dGFjay5ib3VuY2U7c2hhcmRzLmljZTtjcml0LmJhc2ljO2F0dGFjay5pbXBldHVzO2F0dGFjay5zcGFyazthdHRhY2suYmFzaDtzdHJpa2UucGxhbm5lZDthdHRhY2sucmFwaWRmaXJlO3Rhc3RlLm5ldXRyYWw7Y3JpdC51bml2ZXJzYWw=
+
 ```
 **C2**
 
@@ -910,15 +865,11 @@ YzE0LTIgSGFyZCBBZ2FpbjtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxv
 ```
 **C3**
 
-No Accel
-
-By: Yoshi128986 
-
-Post Era
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzE0LTMgSGFyZDtzaGFyZHMuaWNlO2F0dGFjay5pY2VicmVhdGg7YXR0YWNrLnNwZWVkO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTthdHRhY2suYm91bmNlLnBob2VuaXg7YXR0YWNrLmJvdW5jZS5nYWlhO2F0dGFjay5pbXBldHVzO2F0dGFjay5yYXBpZGZpcmU7ZWxlY3RyaWNpdHkucmVsYXk7c3RlaW5pLmNoYWluZWQuYmFsbDtjcml0LmJhc2ljO3NwbGFzaC5mcm9zdDthdHRhY2suZGVhdGh3aXNoO3NvdWwuaGFydmVzdGluZztjcml0Lm5ldXRyYWxEbWc7YnVyc3QubmV1dHJhbDt0YXN0ZS5uZXV0cmFsO2F0dGFjay5iYXNpYztzcGxhc2guYmFzaWM7c3BsYXNoLmFkdmFuY2VkO2F0dGFjay5zcGFyazthdHRhY2suYmFzaDtnaWZ0Lm5ldXRyYWw7a25pZ2h0LnBvd2VyO2VuZXJneS5iYXNpYzthdXJhLmZyb3N0O2ZvdW5kYXRpb24uYmF0dGVyeTthdXJhLnN0b3JtO2RlZmVuc2UuZGVmaWFuY2U=
+
 ```
 **C4**
 
@@ -956,15 +907,11 @@ XZBBSgQxEEWvMvTegCAuzNaFdxAX1Ul1UnQ6CVWVVhHvbpyezKCbUO/z+TzyNc2pYWXKKtPT6XVy9w93
 
 **C1**
 
-No Accel or 3x speed
-
-Post Infinity
-
-Don't spam dark sacrifice
+Needs Pre Era Solution
 
 `Import Code`
 ```
-YzE1LTEgSGFyZCBXaHk7YXR0YWNrLnNwZWVkO2F0dGFjay5yYXBpZGZpcmU7aW5maW5pdHkuYXR0YWNrLnNwZWVkO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTthdHRhY2suaW5maW5pdHk7aW5maW5pdHkuaW1wZXR1czthdHRhY2suaW1wZXR1cztjcml0LmJhc2ljO2F0dGFjay5iYXNoO2F0dGFjay5zcGFyazthdHRhY2suYm91bmNlLnBob2VuaXg7YXR0YWNrLmJvdW5jZS5nYWlhO3NhY3JpZmljZS5kYXJrO2ltcGV0dXMuZmlyZTthdHRhY2suZmlyZTtzeW5lcmd5LnN1bjtlbGVjdHJpY2l0eS5yZWxheTtmaXJlLmluY2luZXJhdGlvbjtpbXBldHVzLmVsZWN0cmljaXR5O2dpZnQudm9sY2FubztnaWZ0Lm1ldGFsbGljcnVpbnM7ZGVmZW5zZS5idWx3YXJrO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2ZvdW5kYXRpb24uYmF0dGVyeTthdXJhLmZyb3N0O2ZvdW5kYXRpb24ubWFnbWE7Z2lmdC5mb3Jlc3Q7dG93ZXIuYWJzb2x1dGUuemVybw==
+
 ```
 **C2**
 
