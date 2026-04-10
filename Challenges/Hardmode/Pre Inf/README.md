@@ -1,8 +1,10 @@
 # Pre-Infinity Hardmode Challenge BP's
 
-All BP's here are made by Yoshi128986 unless stated otherwise. This currently contains the easiest solutions to gather for hardmode purposes, eventually the pre era challenges may be made into speed challenges using era modules. - Yoshi128986
+This currently contains the easiest solutions to gather for hardmode purposes, eventually the pre era challenges may be made into speed challenges using era modules. - Yoshi128986
 
 No Accel = No Wave Streaming
+
+Low Accel = Turn off Wave Surge, Wave Vortex, Wave Horizon, Wave Breach and Infinity Horizon
 
 **AI for basic skill spam**
 
@@ -25,45 +27,51 @@ No Accel = No Wave Streaming
 - [Universe](#Universe)
 - [Chaos](#Chaos)
 
+---
+
 ## Forest
 
 **C1**
+
+**Made By:** yoshi128986
 
 `Import Code`
 ```
 YzEtMTtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5tYWdtYTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25k
 ```
+
 **C2**
 
-c5-6 required
+**Made By:** moohomor
+
+`Import Code`
+```
+JczBDcIwDAXQVaoMkAGaURCHn/pDLBmnchNAQuxOJW7v9D6p2uQe6uNI63JJLy4VZuVoSpMMecI3SqmIUEZ2jBkstz5dMLR7FsWjuxS+twa/MxMx2hnQ7O90/f4A
+```
+
+**C3**
+
+**Made By:** moohomor
+
+`Import Code`
+```
+TcjBDYAgDADAVQgDMICMYnwUKdCkFlMgaoy7+/Hh8+62gQfuStKbncxsDzQBmD0MBZcI9fKpDonQqYrLCkId/xUJtirR47kWkIxOoA9F3woyf7DL8wI=
+```
+
+**C4**
+
+**Made By:** yoshi128986
 
 No Accel
 
 `Import Code`
 ```
-Ncg7DoAgDADQqxB2iTjKUYxD5aONQAkUF+Pdndhe3iuP2H2pmLnJVWzS6mkRF1QntJoNMIO9VeqRsV3EIwJWP9yK986cGFg9FC1kMoF6dsBIWSU4E8j9+wE=
-```
-
-Slower
-
-```
-JchBDgIhDAXQqxD2EselPYpxUYfPQNIUUoob493VuHt5r/iQhWFNfcZruMV9O11CZcthS2fKKNCJZCiC3an0pZm9dU2HsTYHGQ4o7J8G+eIJmhUiCWxeiZdxqj9P72PA4v39AQ==
-```
-**C3**
-
-`Import Code`
-```
-JchBCoAgEAXQq4j7pGiXR4kWll8ThinGsU1094J2j3fblRpOKazVTma229CNZg8SzeB6X3cQOQ7aBD4igSucIBE29eloHIOWg12WwEXhBRkM+VNAHy7Y5XkB
-```
-**C4**
-
-No Software
-
-`Import Code`
-```
 YzEtNDthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDtpbXBldHVzLmFpcjthdHRhY2suYWlyO3N0ZWluaS5jaGFpbmVkLmJhbGw=
 ```
+
 **C5**
+
+**Made By:** yoshi128986
 
 Spam Toxic Ivy
 
@@ -71,29 +79,34 @@ Spam Toxic Ivy
 ```
 YzEtNTtzcGVsbC50b3hpY2l2eTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24ubWFyYmxlO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9u
 ```
+
 **C6**
 
-c8-5 required
+**Made By:** cl1694
 
 `Import Code`
 ```
-TYq7CsMwDAB/xXivaZYO9aeUDootx6J+BEkeQui/10ug08HdnXYtA3empmKf5mXDcnuYDBzN4u4+9dEiKPXmKmwVPAwGl7iL/rcVVJEPPwHh4xIxelGkRi5koIZxLqVcvY6iJLnrJWRHjB4b8nbMUyjY9/cH
+RcoxCoAwDAXQq0h3Cy4O9ijiEPXXFkOUNMVBvLuL4PaGd7uZK07NYsUNzei6tg/xqLKS5UP8piTZEFZESIFXRMZioSQwe5Ba+ixkVf84V75Idzc9Lw==
 ```
 
+---
 
 ## Desert
 
 **C1**
 
-**Made By:** catasleep, dfirestorm, rimfire_
+**Made By:** moohomor
 
-Spam Firestorm
+Higher module tiers make it easier, but works even with T5. All you need is to get a roll on Advanced Shield.
 
 `Import Code`
 ```
-YzItMTtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtib251cy5vZmZlbnNpdmU7Ym9udXMuZGVmZW5zaXZlO2JvcmY7c3BlbGwuZmlyZXN0b3JtO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwubGlnaHQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZl
+Tcu7DcMwDEXRVQwNoAGiUYIUlPkkEaCoQB8nQJDd48JFunuK+3FRF55dbA532+7uhS2SahhFoOyJD7IdHFJbxjSlmWeh2owD3nshy/AquczzgOrVkXoXdJ+k43+tlCuF2GwNz0iwIQcut3TZPb4/
 ```
+
 **C2**
+
+**Made By:** yoshi128986
 
 No Software
 
@@ -101,51 +114,54 @@ No Software
 ```
 YzItMjthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5ib3VuY2U7YXR0YWNrLmZpcmU7YXR0YWNrLmJvdW5jZS5nYWlhO2F0dGFjay5pbXBldHVzO2ltcGV0dXMuZmlyZQ==
 ```
+
 **C3**
 
-Made By dazmaticx
+**Made By:** cl1694
 
 `Import Code`
 ```
-Ncg9DgIhEAbQqxD6pdBOWi09gbGYhY9lIsJmmN34E+/uJsbu5b3tWBbMwlW7PZiLDbthbzJJNEd6nUk5PIZTZPWCCRWyTatOUDas8KktNf4uMt1bjb5nlOJQEFQ4sD79xEnd2kqg2jypUri5xIJRQJr/02cg2uvnCw==
+NYuxDsIwDAV/BWUnA2zkUxCDm7xQC8epagcJof47WdhOp7tvWGRg21ndwu10D5fzNdU+tJBz11iYWteSbIVIhCD7zpn9kwoq1BAbnGSTmeszLQKzCfN7syKRO+VXFK4wB8lftCHOtnYPj+MH
 ```
+
 **C4**
 
-Made By: yoshi128986, rimfire_
+**Made By:** moohomor
 
 `Import Code`
 ```
-YzItNDtzcGxhc2guZWxlbWVudC5maXJlO2dpZnQudm9sY2FubzthdHRhY2suc3BlZWQ7Zm91bmRhdGlvbi5tYWdtYTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRl
+PYqxCsMwDAV/pXivoUOX+lNCBsWS2weOZGS7S+m/J1Om47j7ha1OaQ4dPbxuS8iP570RNPUPpHIk/pJm4cv3VlEgnjZyPxkJnopNZRowjQzaTa9/arHK0HdiKaJdYj7rzMM8rP8D
 ```
+
 **C5**
 
-Spam Toxic Ivy and Desperado
+**Made By:** moohomor
+
+Spam Fire Bomb and Toxic Piranha Ivy
 
 `Import Code`
 ```
-YzItNSBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7c3BlbGwudG94aWNpdnk7c3BlbGwuZGVzcGVyYWRvO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9u
+NYxBCgIxDEWvIt1bcOHGHEVcpJ1MDda0pKkzRby7o+juPXj/P13InaqyWHOn3dnFw3FfkQVapZy9lZUjP8ZPZ1YK5R5gLl0mNC7ik6KwEWBX3ALSASSkafiAjeNflNKHvhuYaCZp5EPPC+oNBK0rbVdlsau7vN4=
 ```
+
 **C6**
 
-Made from an unknown person
+**Made By:** blueturbo47
 
-Can swap Power of the Cat for Daigoparry
-
-`Import Code`
-```
-YzItNjthdHRhY2suY29tYnVzdGlvbjtyZWZsZWN0LndpbmNlO3NoaWVsZC51bml2ZXJzYWw7Y2F0LnBvd2Vy
-```
-
-Non WINCE solution by Luna
+No Accel
 
 `Import Code`
 ```
-vVVdc6JIFP0rUz7vWtiErWGteQAU1FEnkoSP3poHupsI2t1SAiJu7X/fS6IbSJyqZGt2ebDspvvec8859/Jnj/AyzvapLPLe75/+6FH062/DPIs57z+m+zgvdnsxzJM05qxfyvQQ7/OID2lU9LNdFe+H+/iRx7To0ygrolSerx52KRvGMt6v6z6J8pReFo98V13+7+N18y8q0p182aM15alcnwPR3a61AjzZTuZxX8ZlsY947/svn3o53afZGb3pLOr5fWga8Ix8lhD/oSTCU6nQB0SsjKf9dfOrnwjCCkN2je80hSAmifMwDZFeUtVNiFyNbbk8YOmqYTDjc8kSJrwTm8x46A8yImj7rGm4iUJUxmmqFQS5A4hVsmDJqaOfosDNCLoJMbILyPXP+9BfKlGA+VzwEjvejeUsD0QuldDXFBPwUcfLiaWJCPJDngMVyjfAsJkLXBM0GBGk13iyaOMYGS/Pj/YXGHklDmZZWGuSQFxLdTkVWkLltowg99gHHIGZUMGBoxvApg9CceSjiXtgyKvnIgEOjkpkJBuCtBNz7JIZY6OLf6rfrtrvFy0I7f3Zptl5g2HS4l54wNUsx/7qI/rMmePVRNh1fKdlcN6FuwV17DoKAGeqbYnqpaDD7KwLxMG8W8P4c3ttVGf441mnVmM9fc239WRAo1CA5xLwaY3GzLSh7kEF64zC2bkAPpu6VlwC5nMNXQ8a99UVHS3D3XbzGevXvE6dJ6+rbY7cA0YM8rXPrXzAItiEgd7gWWQjHCwVKjzoHfBl1dV45DAO/VRH/qLESFdI5/3U+g9ymrZ68d3ggCdeDloNKPKyC/+Oc+5zX98y/wh+sTfM4Qg3uguXxx1eVreQRxDH2zBL24SBCTF4+bau92p3vPT9Dvt2zpx1dy50c1u398p7+tUKq5/kn3SsX/dw8srD6zcYrGZcmuzqXIMefa7JTJ5zv2iThKqbAY6mj7c46PAxHgXLCvvHfC4gNzo2fRowR1dxMH3RT3onDJqc73x0btbYxzArlgrkSOjETSL/xm3NPBX0Vhicjfzq9tVMSGGm5v/v/FtZj5PqX8ymH8U3ZyvjKLGvwTzlm8YTUQCzD2pnTlJg+BYBB5f41704Nroeuvv8FfqpwXEKkZ1j9+d6Aub4sydk850zmxrhrsZZ4NahX4VX/RGYB4o4aKiXH+z/r5CDE6cqmdAzbGgINz0vZwfyAPyqsy2t3qNbe//Ll973v/4G
+fVLLbsMgEPyVyOcG2WnVVrHUQ3+jzgHDGq/KS7AkjaL8e8GuG9WKelmxM+wwDFyqXifwAS3Far/5qHbb55YTcfHJogeQLVgI6sx6HlEsTQBVVpzQ2RsmzkKjVQtgXCZN0oRxdMQGJ1LMehwDG1MIKLiFVnLDFTBnLB4hRK5bbrzGASEwC4lCRj4tqpGYdycIrcKBFqY6PGyqKAL62fyl4qJYmm/SpbpuXqhMZS8yaWDZANpI3NJEvipuYOHK6BEYWglfXS/cbV/91IU/rqt87CTQTDGgYCeONISstlA1LJRy5HBYKe6mWt+vTSOc8TxgdJZJl3oN3TDfYwSuaVyJNT+ja9MT97aCH/87+V6dQu6TVEA51m2Tuywo8TfowqPxSUeYg59StXAKLlk5jduSzH5TPlcJyOfflV+9IKXNr/K+6FNIcD1cvwE=
 ```
+
+---
 
 ## Winter
 
 **C1**
+
+**Made By:** yoshi128986
 
 Only Autoskip software
 
@@ -153,7 +169,10 @@ Only Autoskip software
 ```
 YzMtMSBoYXJkO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLnNwZWVkO2F0dGFjay5maXJlO2F0dGFjay5ib3VuY2U7aW1wZXR1cy5maXJlO2F0dGFjay5pbXBldHVzO2F0dGFjay5yYXBpZGZpcmU7c3BsYXNoLmFkdmFuY2VkO2ZpcmUuaW5jaW5lcmF0aW9uO2ZvdW5kYXRpb24ubWFnbWE=
 ```
+
 **C2**
+
+**Made By:** yoshi128986
 
 Spam Fire Focus
 
@@ -161,39 +180,41 @@ Spam Fire Focus
 ```
 TY5LDgIhEESvMmEv8bOToxgXPVBCJ9BjGsZPjHd3FGPcveqkXvXDjHnGWVlaNfvhYPxutR0SaRg2du1Ok5+rPbFiwVkCNZ7EBqYySXCKCIH2oyIvcIGrCTnbKzXol4n1v14oFnIjqTK0y2ti5GBHquwXbeXaSDwsMgqkUXa4+UQS8ZH9Ql95PxHvvW2Ozxc=
 ```
+
 **C3**
 
-Post Era
+**Made By:** cl1694
 
 `Import Code`
 ```
-TYvLCsIwEEV/pWRvNt2ZTxEX0+TmgcNUJhMrSP/dgiLuzj3c83ILD9y1iXV3ni4uzqd5qqQpJGRIh18Gb6S30CuY/UYG/XI6tKD331WRGdFCXocksraKL0rSDAHPWEkKfG76t7iVakFRINBPoeADHnDX/Q0=
+RYzLCsIwEEV/RbI3m+7Mp4iLtLl54DCVmYkVxH83oLS7cw+c+3YzdTyksam7nK5uOk8hr51TtLayLxK5GYKggCE/KaABT4SEDFYMkQmLBa0g8ls0yJ9TlDtDNeC11MgFPjfBsaiVavvP3Gkbgbt9vg==
 ```
+
 **C4**
 
-Post Era
+**Made By:** cl1694
 
-Spam Fracture
-
-Use Dark Sacrifice once, wait until wave 300 to use Neutral Focus, then at 400 use Dark Sacrifice again.
-
-Requires c11-2, c11-6, and Bluecat's Harmonizer (maybe replacable with battery foundation, though fracture will go down)
+~70% to survive the last wave (either darkness boss spawn or red ivy is needed to survive)
 
 `Import Code`
 ```
-RVAxTgQxDPzKaXvcQEVafoEovImzsc5JVrZzJ0D8nazELZ09nvGM/b2sMmhXbm7L6+V9ic9PL5eCmsLG2aHRcEUJVpgkwWh8I7UJJMrUjGAdcke9Bqy7cGbSU5Kw4kbQ66kxJ24MsSA3SrCiSIjKp8tb3YLtglYA0w1bpBQMJyNzJEiHTe5x2H+qnUQgK0YfSgHdMV6hDnG20v0BTNrc5Dj9T+nfaO1j2gRqpNvnTGQcH43SdlTo3FuYH6m98de873hYRF8+fn4B
+1VdLctswDL1K6kU2bTSWnd/ETdvpGbKrs6ApSMKEIjUkZcWTpGfpXXqxQmTk+EPFivOZ6YYSQRB4+BAg7wYzUUGpUVozuDj4NRgfHU8SSEEaiIzVeAMzxm8mrNIsqmSuxML/58C0NVaVJWhPqXPUokaZTEwJQkRW3SLH+eJxmqIG4tfFxDCuMUUOUcI0ibaWNETEBUk70azEpNnREopKWDS5si1hpirJgWQLZvKIoV4u0HxicgSREGCcgzZMTJb7o1TxypAmkKCzRcOOvJ1oyJo/ZlHJJxpfcIEyG1x/ORgYgl56V90NGG8Yvd+m1XA4BKE4E4RNiciAnc44LVsmrVs9dmPMNsixHwck3f2lRqW2ZhrIg1kmICQlPl0y1WxOftXACsLoBXBVlEyjUdJB2YKW9YXmyaP7+2fkrhApiaba66HfbjUYJn/bII/ceOrG4doYRHl4GATkaDS3eQEW+ZI2TkY4tRkrvAuDMseFSrZAyb6ALi+39trtvcu4+9wjhJmyCtOgM04CurtCE8crxERVM0qlhnxiVQ06ItMqAREn7kTVzqj43LnjcaXJ7jmQvxK4DRoI6we5X1DHHRZ0j8+kZMjE1JtH9UnYPHzUwki/7oP075/vbQDjszXHUpHBJ2mvc+2LcuQsjPUD0mGt7L9TOiy9fb7p7VIZbOrxm0PvOnQ7Me4MV6AcfEio0o2W/D/Fagf2vYMVD33n8v7ubt/1StNwe1c6XucmH7+R20gpUSAYil8l7VJ73KZKzdCmmhh7C0f3mVnQkulF2+BCSbSj3Y0+XQY80dnG62D56XL0Jr5Qow55qCs3+1w0wCva6P6vuKJ8DpocB0zupeRFdb3LvX17/+7GGO6179XC/X1tjzTdr1P//vF2N+x+l2n3YJhVCXHQE+EophnxJbj+aIjHzlo0V014rkhT+9bAoqyEAc9asxuoysYExy6h1nQ6Escom2pxcdC83RqGkp5BLHOUZkrl9mcLwuoKHq4f/gE=
 ```
+
 **C5**
 
-Use IVY only to kill Olaf, don't use it after
+**Made By:** cl1694
 
-Post Era
+No Accel
 
 `Import Code`
 ```
-YzMtNSBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtzaGVsbC5lYXJ0aDtzaGVsbC53YXRlcjtzaGVsbC5kYXJrbmVzcztmb3VuZGF0aW9uLmdyYW5pdGU7cmVzaXN0YW5jZS5lbGVtZW50YWw7ZGVmZW5zZS5idWx3YXJrO3JlZmxlY3Qud2luY2U7ZW5lcmd5LmJhc2ljO3NwZWxsLnRveGljaXZ5
+rVPLasMwEPyV4HMr7KaBUkMP/YbcmhxkeS0vlSWxkuKYkH+vZNWUmhxayGXZx2iYfehSNCqAJdTeFa+bj2L7uKt5IM46Ms5nd+yR1Ii6zWHQvVFT9nvg5J031gLVzoJSrEOCmKHhO/bmjAJPU+16BNXG53gCclzVoIHkxBruUCwBgUwe92j0T05MQqGWxfFhUzhBaLPaS8FFAmbph1CW1Ys3IxAbTBsUsODAGocJk6uSD7AU09sTsNgXnA+NiDSea59w5fNsu1VDK9ButuXfbRHV310k/J7yvTSWeQ8omDTeYLfifZptdZulqoQZLCd0RrPWhEbBocstx3tRvl+RLTS32qveVuntvztKR9OEVoKPZ1LGIPK1uLqb7Tx0dPskcx/3vZwbDjYoBxk68k8INs1ohmsYyQTdzkAdMxGUflACWC4+uZwzKYxLfl80dDwSXo/XLw==
 ```
+
 **C6**
+
+**Made By:** yoshi128986
 
 Post Era
 
@@ -202,26 +223,44 @@ Post Era
 YzMtNiBoYXJkO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24ubWFyYmxlO2RlZmVuc2UuYnVsd2FyaztyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9u
 ```
 
+**Alternative solution**
+
+**Made By:** cl1694
+
+No Accel
+
+`Import Code`
+```
+TYsxCoUwEAWvIulNI/zCHEUsYnwxC8sim+SjiHcXq1jOMHOZhSt2JSnZjN1khv7nVkRIhlVERigOR0heNthIikaetAHeUilQOZtk2tJnF9Sinl1OBF5tFfpDs2cz3w8=
+```
+
+---
 
 ## Underground
 
 **C1**
 
-Takes a slightly shorter time
+**Made By:** yoshi128986
 
-By: rimfire_
+No Accel
 
 `Import Code`
 ```
-YzQtMTtzdGVpbmkuY2hhaW5lZC5iYWxsO3NwbGFzaC5lbGVtZW50LmZpcmU7YXR0YWNrLm5hdHVyZXN0b3VjaDtnaWZ0LnZvbGNhbm87Zm91bmRhdGlvbi5tYWdtYTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWFydGg=
+NYwxCsMwDEWvEjy1QwyFTPWQg5QOqi0norZkbLlLyd1LGrL9x3v8r3mljqUSazP34WH8NN6Gywo1zFcXqaIl9sRYQUnYgSr4t93FuVtBDCfknpTaKuooF9TejnShqPYjyQOLi9I5/O9shiWDeW4/
 ```
+
 **C2**
 
+**Made By:** microwave4
+
 `Import Code`
 ```
-YzQtMiBoYXJkO2ZvdW5kYXRpb24ubWFnbWE7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5lYXJ0aDtzaGVsbC5kYXJrbmVzczthdXJhLnVuaG9seTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZ2VuZXJpYzthdXJhLmhlYXJ0c3RvcHBlcg==
+TYzNDYMwDIVXiTJABmhGqXow5EGsGgc5SStUdXeo6IHb934/fpCO1Vhb9Td39+wyNbhkbuwDjyRxKl0TNS4aZiPlhquVmJaiKRpmKOw0DXLAC5G6Ueiai2wnZ5C12sq6wq43C80LnZWJYVusGSIhkT0Vtf7lb5xjwgStCEOX95H7x3cH
 ```
+
 **C3**
+
+**Made By:** yoshi128986
 
 No Software
 
@@ -229,32 +268,43 @@ No Software
 ```
 YzQtMyBoYXJkO2F0dGFjay5zcGVlZDthdHRhY2suYmFzaWM7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suaW1wZXR1cztzdGVpbmkuY2hhaW5lZC5iYWxsO2F0dGFjay5kYXJrbmVzczthdHRhY2suZWFydGg7YXR0YWNrLmJvdW5jZTthdHRhY2sucmFwaWRmaXJlO2NyaXQuYmFzaWM=
 ```
+
 **C4**
 
-No Wave Acceleration softwares
+**Made By:** yoshi128986
+
+No Accel
 
 `Import Code`
 ```
 YzQtNCBoYXJkO2ZvdW5kYXRpb24ubWFnbWE7YXR0YWNrLm11bHRpc2hvdDtzdGVpbmkuY2hhaW5lZC5iYWxsO2ZpcmUuaW5jaW5lcmF0aW9uO2F0dGFjay5pbXBldHVzO2ltcGV0dXMuZmlyZTthdHRhY2suc3BlZWQ7YXR0YWNrLnJhcGlkZmlyZTthdHRhY2suYm91bmNlO2F0dGFjay5maXJl
 ```
+
+**Made By:** yoshi128986
+
 **C5**
 
-No Wave Acceleration softwares
+No Accel
 
 `Import Code`
 ```
 YzQtNSBoYXJkO2F1cmEudW5ob2x5O2F1cmEuaGVhcnRzdG9wcGVyO2F1cmEuZnJvc3Q7Zm91bmRhdGlvbi5tYWdtYTthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYmFzaDthdHRhY2suc3Bhcms7c291bC5oYXJ2ZXN0aW5nO2F0dGFjay5pbXBldHVzO2ltcGV0dXMuZmlyZTtmaXJlLmluY2luZXJhdGlvbjthdHRhY2suYm91bmNlO2F0dGFjay5maXJlO2F0dGFjay5yYXBpZGZpcmU=
 ```
+
 **C6**
 
-Post Era
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzQtNiBoYXJkO3NoaWVsZC5kaXZpc2lvbjtkZWZlbnNlLmJ1bHdhcms7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c3BlbGwudG94aWNpdnk=
+nVTbbtswDP2VwM+rYDddMNTDMOwb8rb0gbYpRYguhkTFG4oC/bbtxybJjdsZDuotD0REHlGHh6Qfi0YF7J005Iv7zffi7mZXcxtMByStYcKBkYRvXZ0EbU1XOxRo0I1Ohyr+OWPte1SKcenQk3W67pCj8ciaoAZwp9oABYcxrx3oWKcE4idrwMv2cnibt3j4sCl862Q/0nssoE3+keshlGVVKtuCYp0NjULmkQ5NGwEEhlK8vMu22s/c22zL921V/n4uIovs4d5yinUgIyuEwqW3qt0EGuAcZXAIWhqRY1VrdQ9O+iRkpnwgAXqELjP//G/Mfz3D14nvKKVsmbBkJZ9lus12d6XuBarZHV101Egx618VkNRXKrhZaJRY26hrKvD8OzRTsdUnsgM6pm0X4gPBY2+9TNMyRjPJl2CaojMyaTr8sfgen83xDPRx7fRc7ERy9bi+ijrdrS7dHEASd/AaWtXo2/WN5qOURwRFx1my6uXqIu8v/7tmk1Bp45vQxfmIO74ty3iMGTs5W/ttlkf6fSK6j02KG5bvSt0H5XGEDnDC0CeVMtzg4NKHLANN0u9+k754CdBDewKRPekYx+fbhQW5gE8PT38A
 ```
 
-W.I.N.C.E solution
+**Alternative solution.**
+
+**Made By:** yoshi128986
+
+Uses W.I.N.C.E.
 
 Pre Era
 
@@ -262,6 +312,8 @@ Pre Era
 ```
 NYsxDgIxDMC+cupOJsRAn4IYcm2ORhdSlKQwIP5OB9gs2X6nVQY9jDU8nZdLKsfDaWloNXtjkgqVn+zcNRttQiXgxVpoWhIBQov244q2K7nnrQ+tGPOBm6FyUMYILDsoxjDy6KPMK4iVoTRkpQorivy7+5Bgbz3S9fMF
 ```
+
+**Alternative solution.**
 
 Pre Era
 
@@ -278,16 +330,22 @@ YzQtNjtzaGllbGQudW5pdmVyc2FsO2VuZXJneS5iYXNpYztzcGVsbC5yZWNoYXJnZTtlbmVyZ3kucmVj
 BGM0LTYBAAAADWdhbWUubmV3cm91bmQAAAAABAAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDXNwaGVyZS5lbmVyZ3kRZ2VuZXJpYy53YWl0dW50aWwRY29tcGFyaXNvbi5kb3VibGUMdG93ZXIuZW5lcmd5CGNvbnN0YW50AQEIY29uc3RhbnQEATwIY29uc3RhbnQDexSuR+F6lD8XdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zcGVsbC5yZWNoYXJnZQ5nZW5lcmljLmdvdG9pZghjb25zdGFudAICAAAAEWNvbXBhcmlzb24uZG91YmxlDHRvd2VyLmhlYWx0aAhjb25zdGFudAEACGNvbnN0YW50BAIhPQhjb25zdGFudAMAAAAAAAAAAA==
 ```
 
+---
 
 ## Volcano
 
 **C1**
 
+**Made By:** yoshi128986
+
 `Import Code`
 ```
 YzUtMSBoYXJkO2ZvdW5kYXRpb24uZGlhbW9uZDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7Zm91bmRhdGlvbi5ncmFuaXRlO2F1cmEuaGVhcnRzdG9wcGVyO3NoZWxsLmZpcmU7cmVzaXN0YW5jZS5maXJlO2V4Y2hhbmdlLmZpcmU=
 ```
+
 **C2**
+
+**Made By:** yoshi128986
 
 Spam Water Focus
 
@@ -295,17 +353,21 @@ Spam Water Focus
 ```
 YzUtMiBoYXJkO2ZvY3VzLndhdGVyO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2ZvdW5kYXRpb24uZGlhbW9uZDtyZXNpc3RhbmNlLmVsZW1lbnRhbDtleGNoYW5nZS5maXJlO2V4Y2hhbmdlLmVhcnRoO2V4Y2hhbmdlLnVuaXZlcnNhbDtmb3VuZGF0aW9uLm1hcmJsZTthdXJhLmRyeW5lc3M7YmFycmllci53YXRlcjtzaGllbGQuYmFzaWM=
 ```
+
 **C3**
 
-By fireball
+**Made By:** cl1694
 
-AI should do everything, make sure modules menu is open and that you are in 1x buy mode
+Upgrade order: granite 20 -> wince max
 
 `Import Code`
 ```
-7VrNb+NEFP9XQg57YHet2O1Caei2ggPixAlxoHsY22N76HjGzEfT7IdUISS4wA2JCwh2z6w4ckBCiv8x3thJajt21k6ybOi6lRz7ed6b9968+b03M34ydKnGiSBMyeHx4Muh9+D+wSBCwh8HXDMfKcKZFQrEiMJjgUPMsMiJAlO4ucTjkATK4h5GrMjjExRz5o9lgim1JI+xiggLQUZAsaesCWEeHhtx4dRykSTe4qHYy/DRvcFQeoIkuX5Phsgz9FzZcz0a2UeKT7CwYu5rii0tccIlMW3OXQ8aKsSUaTdysqudXUcrV3yJPSsQPP6Yc+HLCu9BA1fp+sHZZlxDMPFcZDYTz/Io8S5qVTLG2kgQFYEvoaXPtUtxRzLLf62YsLwTcC7GDIbDV5HlN7HVGGZ76XdfL2/Sv08rjQ5zf7+b/QTzbiJMwkhBP2vaYp5kEaSJJcnjat/LphWVZteZLoezl5+kvz+efTv7p57xbhezt/PtitHtnfuqqEmfr3V31bw37O2qI7KIz1/wQE2QwJbiYQiuUFK7UgEchVV5s+f575IDacXlBUnGS8oEXWJgxig2QFMma5hgNyQAFPA/ol/Aq690XJERA1gxpeOqZC4qpAQLSaTCBslKL4jR3CWUqGn5xSUXCl+VaR5SiE6lKlMx8zXAblEywxPXAKysqIsAKyPOKlJ5nAgsJSm+AFSteAIorhbFzk2bCRG0LC7igjwuimK8qouBbM0Ypived2FMvKhMCyigWol5lbLSqWEEoxQSBYUJCwikp+midR6hvkOym/fAFY41zWOdchh0K6OEWNWG7INPmY+v8uaFqUrmjXAenfAMrT4L+ijto3TDKK3Fy90Eb63o+7ubF2bUYG5ISBtmXrSts+rEOh+e5HpJ0KsZ/Q/tsT0edfyvM/jqPwKCzRRuHxOd7WgfE1uKdppqlmXWL4qWLby/WgePDojj3+6hudtp+bKNP/qc1eesPc1ZrSfBDbYs1tEhV5xUY91Zt8Ky7UJem6ehfj3Sz5p+PdJH6VsQpf/P9UjtmuKdk1r6qN9p7Xda386d1v05Jcmt2eioZM66rzal17fQqC0GKr3eT6Ma9qM682fWBcX1Rq0179dwmlNNV/uQ24bHA+doZMMzsPpkebZpWpA40VTi5TNDMYb7IdRvlA48BDWUMEokyLtAYfbKHN8aErj4o4V8JTR+dm+wenQ6WiqPr7CnVS0kwaoIZB5X+9x9Gr21+bJNLKXfnG7prtucAl+mvyz+Z3+cLlFllJeJc0c07STaZJ1nyzKaik2Q0Wp/op07/7wxwV7MogkisAxQhOaDWdiJcDmn84l4Q5xboBKKpgCsV0l9IfzwZHsjnadPm7oPcliPMKIqqjAvQLxW5Em1QN8MfLOQarHhEzSkqP00qRwUgTCov3jlLF7BnOOUCuypHnq3g97ZX12ht0fkrqG9ZsnS4ODWwbGJ936req8lbq+svTrhfV8x7bRiuu6nbedC6ufZD+mLo9mP6Yv0+w0/2drVAcuuajDzAUGnoUivxVnzB2h1KyBndVO8yRwVQrbOmjUWZJ2UPeNnfe7vc/8+gUgbHUvXPvf3ub/P/fswbW30uflLf9og9/cR3Efwm43gYF66HqW/vqbalTWY3nY7btPNI/vha0myzp07udmV73V1VkyaQhXcERMsLY9r1lB1V1Vb/3nn8kRBKl67J1l3nFA6DXn1UcgwU53hiTCfUgyLJyM6CQXy25+KPHr2Lw==
+TcwxDgIxDETRq6D0pEE05CiIwruZLBZeBzkOKRB3JxIN3ehJf95hkY6nsXoLl8M1nI+nVGrXTM5V42ak7PinzLRXzcmwQWE/NMgcL0xt3Jx0RYRghzpJyijQhrh0GWSPpOTdMM/r8PtMimD1OHhW4fb5Ag==
 ```
+
 **C4**
+
+**Made By:** yoshi128986
 
 Spam Ivy
 
@@ -313,144 +375,139 @@ Spam Ivy
 ```
 YzUtNCBoYXJkO3NwZWxsLnRveGljaXZ5O2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYXJibGU7ZXhjaGFuZ2UudW5pdmVyc2FsO2V4Y2hhbmdlLmZpcmU7ZXhjaGFuZ2UuZGFya25lc3M7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZGFya25lc3M7cmVzaXN0YW5jZS5maXJl
 ```
+
 **C5**
 
-Spam Everything, offset void for the last group because they could get stun locked
+**Made By:** cl1694
 
 No Accel
 
 `Import Code`
 ```
-YzUtNSBoYXJkO2F1cmEuZnJvc3Q7c3BlbGwuZnJvc3Rub3ZhO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO3NwZWxsLnJlc3BvbnNlLm5ldXRyYWw7ZW5lcmd5LnJlY3ljbGluZztnaWZ0LmhlYXZlbjtlbmVyZ3kuZmxvdzthdHRhY2suc3BlZWQ7YXR0YWNrLmJvdW5jZTthdHRhY2subXVsdGlzaG90O3NwZWxsLmxpZ2h0bmluZzthdHRhY2suYmFzaDtzcGVsbC52b2lkO2NhdC5wb3dlcg==
+rVPBTuQwDP0V1PMStcDsoh2JA9/AjeHgpm5rTZpETjJlhPh3nGZGiAokkLhYtvP8/OI4L1VrEnomG0P1/+Kx2lxutpAYVM8uxOLOI7GZyXYlTHZ05lj8EYFjiM575FMdIcthjKD3KnjEbhu8gTAqIBYXjREMoxTxdIqjeyZNh+M2jISmkw50QA5gtlMykcLoouqdTkHI0CIPR9VCIH0OGIfsQSRn33P6qA3Z4dRDOnpnAyqLKTKY6unPRRU0ky83f6lA5/oyhl2q6+Y2uhlZTa5LBpV09y5QxpTTASY8H+baAyqZET7vWi00EWzMuPpmsf3q5ivQZrH1920l6n9dJH58jl/T+G+tkd5pfyax+fvFa55a1WUTSKvBRUf9iuNqsc3ngptGu8kDU3BWdS61Bnd9US5rbuK4IjvTfDbJ5m6Vvv7x8PJ+tqkbMMpG1hIIX0erFb1ehkfhIct8kNWShV8qafLJBCzQGfaYfJ7RArc4s0u2W4BWMgLKHz8DvHxbGJZMDuWt7s8aehDC16fXNw==
 ```
+
 **C6**
 
-No Accel
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzUtNiBoYXJkO2ZvdW5kYXRpb24uYmF0dGVyeTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS5mcm9zdDthdXJhLmhlYXJ0c3RvcHBlcjtnaWZ0LmZvcmVzdDtnaWZ0LmRlc2VydDthdXJhLnVuaG9seTtmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5zcGVlZDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTthdHRhY2suaW1wZXR1cztzdGVpbmkuY2hhaW5lZC5iYWxsO2F0dGFjay5iYXNoO2F0dGFjay5zcGFyaztzaGFyZHMuaWNlO3NvdWwuaGFydmVzdGluZzthdHRhY2suYm91bmNlLnBob2VuaXg7Y3JpdC5iYXNpYztjcml0LmVtZXJnZW5jeTthdHRhY2suZGVhdGh3aXNoO2F0dGFjay5maXJlO3Rhc3RlLmZpcmU7ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJlO2F0dGFjay5jb21idXN0aW9uO2NyaXQuZmlyZURtZztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbg==
+rVTbbpwwEP2VFc8tgmyyirJV1fYb8tbNgzEDjBY81ngcclH+vTYOqyzaqlXLy8g+Ppy52JzXrOo9WEYjLrvb/MxuPu/2jnyfd4ofwQmadq9ElD7mzgLU84aVxbpBhhkYfC/oOpIZqMgbDXsXhGqXY1zaXrkub5hcYHlWuTcd9c9p/QFuEPgd7UCxOCFrgbOHT5vMaUabin3NlBYkkyo/+KIoGkeNjIohF2rbHg6VDueijEzH1zGW5YmkvJA7ol3QyhSzkO7vVa9OpFGFyXlul7wkW/yXrBAPa8huz2QfiQWe1tDdnemCqcMlhmewhvT1mXRHjC9k1p9FxaB0t4bu7YmEpkGD8rxi0bvFuwhVD+FnTQ9c02AVoyOT1+SrIBHhm1YNif5da+iBVfx7LqkX5ZcFvE01/iFW3+YmyrIFA4w65ENpOGQ+9QfzUUtC2CwyXR3ksv6lthqhETi6RC+/ubPL/X39p/4+xMmMKl+3IMF+yoCEfZCs8dySyu00dXT3sdL7ZKnTxzhY3ztI1FEdwds4ooluYOTgn/VENHF4d5vozZFgg7uqdkLi1jv4MZch7OHt4e0X
 ```
 
+---
 
 ## High_Mountain
 
 **C1**
 
+**Made By:** microwave4
+
 `Import Code`
 ```
-YzYtMTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmFpcjtyZXNpc3RhbmNlLmVsZW1lbnRhbDtleGNoYW5nZS5haXI7cmVzaXN0YW5jZS5maXJlO2JhcnJpZXIuZmlyZTtmb3VuZGF0aW9uLm1hZ21hO3Jlc2lzdGFuY2UuYWJzLmFpcjtnaWZ0LnZvbGNhbm8=
+TY1JDsMgEAS/gngADwhPiXIYQ9uMjAdrGLIoyt+z+JJbdamkfvqpDuzKYt2f3NmzK2RwWV0aEyeqcW5DMhk3CYuSsCEqFgj0kIr6gSsiDaUwpLT6OLiA1Lq1fYceZmboI/aCWgOxRtxTIVnwG39HmWlrkmPGDOkI06g30jWSGaU1pLZNo39Lf3m9AQ==
 ```
+
 **C2**
 
-Made By: rimfire_
-
-Note: If you are using this for Normal Mode, you will have to turn down your resistance in town stats
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzYtMjtmb3VuZGF0aW9uLmdyYW5pdGU7ZGVmZW5zZS5yZWZsZWN0O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5haXI7c2hlbGwud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7ZXhjaGFuZ2UuZmlyZTtyZXNpc3RhbmNlLmVsZW1lbnRhbA==
+nVJNT8MwDP0rUw87QdVuCBBFCPEbdmM7uKmTWUuTKB8raNp/J0kZbGO7cHlKnp/tFzu7opUBjSXlXfE0eS/ub2cN10F14EmrUlhQ5LGxKFChHUmLMh622HTIUTmMBJfIfOPWKGU5gEf7fQayP6o2SIneWK1540yKcgvMB4tNqi0+yxYcsWJ1Mykcs2RGS7siimLb0d8yVFX94PWAtux1FySWwSEp50H5HHwU0OMhllK3WJLq8GPZMv2rq+4y4qmTIvYe+fxeYqXQXhM/y51lrDNWf5Az3Ruw5OKsWq1ltlUfkZ0OrcSlz04H2OJFa/XzGT2/0u8E6fVisdl0es0GH6e5RpB+fZZ8eOJFfy//8XeMedVt6AT6uNwqXmK9js62Pc9jIrdINhfoPCmRM6k3QTocpQNsMJi0vyxXONj0jbNQRSaK0udOAgNsAyIz6Rr/z9vBA4dYcL/afwE=
 ```
+
 **C3**
 
-Made By: rimfire_
+**Made By:** microwave4
 
 `Import Code`
 ```
-YzYtMztmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZWFydGg7c2hlbGwuYWlyO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTthdXJhLnVuaG9seTthdXJhLmhlYXJ0c3RvcHBlcjtmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5zcGVlZDtzcGxhc2guZWxlbWVudC5maXJlO2dpZnQudm9sY2FubzthdHRhY2sucmFwaWRmaXJlO2ZpcmUuaW5jaW5lcmF0aW9u
+TcphDoIwDIbhqxAOwAHcUYw/yvbBmpSOdJ2RGO8uijH8e/t8ffajNKzG6rW/dNeeu0yOLlkX28iRJEylaSLnosNspOw4U2JaiqYzVQckGGYo7CCD7HFHoGY0NM1FtqMzyLx6WVfYIRPDtlAzRAZi+9XnLQc8Yiad8R3+x7EZKlcnjTsIFqiT9LfXGw==
 ```
+
 **C4**
 
-Made By: yoshi128986
-
-**Turn off:** Wave Surge, Wave Vortex, Wave Horizon, Wave Breach and Infinity Horizon.
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzYtNDthdHRhY2suc3BlZWQ7YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTtmaXJlLmluY2luZXJhdGlvbjtzdGVpbmkuY2hhaW5lZC5iYWxsO2dpZnQudm9sY2FubzthdHRhY2suZmlyZTtmb3VuZGF0aW9uLm1hZ21h
+rZXBbpwwEIZfZcW5QbC7XVUhqtKoj5BbNwfbDMZasJE9Dm2TSH23vljHeEFZxEpVy2XA4/E3v0fD8JLwxkNnlUaX3G6+JYebfVEZr0uGyui0ZbJlBUNk4pRWysL47jqAcly0vkHlaoOjgxNBQOEQlFapqJnSUKacNU0RIKnSgjx2yDGeUW0H6F1xfsZswioc3r62Mnn6sEkcebqo9SVhIgCi8KPPsqxypsKeUQY0UjZw5IL2kWkctvfB5vkUxDwad1LdLCyPNqF0f0/dTkE9ewbnrZzHRWz2X1g0tl0Du7vAPhuL8H0N7uGCC7r0llEnrIHeX6BrY9VPo9evBbfARL0G99MUpHRF3wH+WFH0YdYXpLpVWkaAMG3HrHL0AXNjmtj175yl8Zy4KFkbzy+lyPK7mXsXhV6zv3/x+0XQ9vX1moTg/jjJ+CIENOexsIqks+X3Y3HzXAINHiUon8LKUuap7jBuSYNGVbNM2yMu85euVaHpwaY1sAav9NLy/T7/0/3e2WFIcl9KQBqLOXloTchSXY7KfDdUXbnHoPSROoi6ZzhM89c3DmJoz07gu1CiIVxDb8PPYQjUoXi3m/DLCAEdDXEmB09YegcPowy0Ht6e3v4A
 ```
 **C5**
 
-Made By: WootImNoob 
+**Made By:** cl1694
 
-granite to 100, div to 100, shells to 100, then 2 granites for 1 shell (rough estimate)
-
-Post Era
+Post Infinity
 
 `Import Code`
 ```
-YzYtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5lYXJ0aDtzaGVsbC5haXI7c2hlbGwuZGFya25lc3M7Z2lmdC5vY2VhbjtyZWZsZWN0LndpbmNlO2RlZmVuc2UuYnVsd2FyaztzaGllbGQuZGl2aXNpb247bmF0dXJlLmdyb3d0aDthdHRhY2suY29tYnVzdGlvbg==
+TY5NDoIwEIWvYrq3O13YoxgXA33QhjIl06mEGO9uCSzcfXl/eR/TpYpFImsxj8vT3K83N+TKnjRmtqMQR4WjKmQrh5y2f9tHmjN7JxjBkEMUpAbvszREyHZgAIkWzcsCcSUgJbsr4WRPMjFKcaRK/WT7PHe17JPOYwAX2K6mtaUck1ZBe5fXVl9pX1IIUzKv7w8=
 ```
+
 **C6**
 
-Made By: gen1code, bertie690
-Edits By: Yoshi128986
+**Made By:** gen1code, bertie690
+**Edits By:** Yoshi128986
 
 Enable AI and start it before the run (F4)
 
-**Turn Off:** Wave Streaming
+No Accel
 
 `Import Code`
 ```
 zVZtj6JIEP4rGz/fGWzHzXJmP4AC6qoj7EgDl/1A0wzgNA0BFPVy//0KX8HjLjPJXbIkGrqprnrqqbf+o0PY1k+ziBd557dPv3e8z79+HgbRa9F9TTI/L87v1M/9rBhmfuBzP3OLKOHdzGfwsvOHr8mW0/NekLk8KhpbNHLjhNP6VuxmhPlDf++FLg/8Lve3ReayYZ76jHVznpR5kWTxde1yel7XVOSF78OBwo1Tn/rdIHGLfFhhCw5d4uaRd13UIV/3XllSXpSDi2nC8zuG2zHv4LGIB9eNOIHzoZuBL9HRz7oVbZ5bdH788qmTe1mUXviTJ0Zqo1y6P9Pqz3DQfmfHaj6PjR3Fs9z5Pjg6lj61kbj1+kZIuK5Ilm7Y1iylWlg4Fug5DN5I34yItm47z1vON9ff829UYwXIvjl4L9j6njt4wLyYbeYx3VHtS11+JOkV1K9fO+DTaEJTEpuFbS2FmjPj6k/BNCdoFpLRDd/WQ6Yw0pY7wpeCjQeCLKmCgtWDaxkJwabg4sXW0cSeHe/ZiBspwWtYmznVlAfMSX09vllWpJWDzK0D/AAvzNfMDbUM1rRpgJ1lNkaUAfbDyaYVMrtvCo4ebggaHKmmbqmkK8DLxi0vvuIFmr/Yn+FMj9aclUr4yeqdM05D8KdHKvyyCvp6ZRUvD/De4mKYAulT5kWDgiCQBW7Anx3R4Dt6sh2kVvG4f8NLwbUcNo9ZxcdTwx/ZOXrAEfB8cKxlWeGHs+CTKXiQC03fp19WDR8Xdz9k+jdM1FoyF19k5ZDbuAcYejtnYla5Fdp9I6Xxegsyb44VNGKk8mUJ+ZTP+Yx5fbnCAGcHDOJxsHG5qMWJk76xq+OUAuWUZCfe4zPvoHfnxfU0OyWiRTWx71jTLcHiG8V7Nufm0cHsiuNjXErilcsjrN8uNp8fsbrYbqkJ8SHWsx1BpQFyhadVOQ52onut/qc1jCAmUktcF/JEb+zr8qpNbio9PciNXic/HfbRaiO01P1IWin/Xx6QWOxf8uD9OYuvOSuHRP+JeoV04hJiar5VsSFIFbzygeNxG8enx27l2JJ3HmLQU8WtptGw6tm377G6gR6KwBbMCYP5zXg+n2xYMnMAt4PEkE4WddtqzfaHuSdYTUlwmqsaRWoG/bAc4wu+2Ox7sdgjMdRuNTbQeR/yfH3imhnQsyAmsfdYA0c6mVX7D/NIaq4jRWz2aPnFRSwnk0WgIxX8Nw9TRXweB5X1wcO8FVMnqPM025znKeiz5BDkjgQ9VbZgdg14M75K8NDvxWa/1/U1KlKi7Y9TZRmCDsgrefUSqpxoYgR9+aZ3Dv2aPvSOqfQOXYFY88d8cvCyR7V1g5/6veEdc3hmH+1iuUlPM+0D8lDDavEO+W9XeeD+QIwP1qe+v9Zn4mAV7iqNOShLjz3sn+urnuMVlrL13qLd/Tn1JelffKnf5UAP6TfztNmn3id7vv/sb/lCcesddXGbBdxsufcpQd0PqM+Uts0A6XLX/PHnXw==
 ```
 
+---
 
 ## Jungle
 
 **C1**
 
-Made By: rimfire_
+**Made By:** microwave4
 
 `Import Code`
 ```
-YzctMTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2ZvdW5kYXRpb24uZ3Jhbml0ZTthdXJhLmhlYXJ0c3RvcHBlcjtyZXNpc3RhbmNlLm5hdHVyZTtzaGVsbC5uYXR1cmU7cmVzaXN0YW5jZS53YXRlcjtzaGVsbC53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3NoZWxsLmVhcnRoO3Jlc2lzdGFuY2UuZWxlbWVudGFsO2RlZmVuc2UuYnVsbGV0cHJvb2Y=
+TY5RDoMgEESvYjgAByhHafqxwChEXMyy1Jimd69GP/r3MsnMm4/xpWOVzNrMY3iaPCRSDFGG0H0OVNxYO0fSXNlOQpwVTjCBIVcoKAe84agL2c6plv3iBBJtWtcVciVjhuz/izHTUjm6llCK3Q613Hx2081M2uXUttyUOMCiYAHrcS9iBDdY38tGMjtSpTDbUBff2+kwr+8P
 ```
+
 **C2**
 
-Made By: rimfire_
+**Made By:** rimfire_
 
-**Turn Off:** Wave Streaming
+No Accel
 
 `Import Code`
 ```
 YzctMjtmb3VuZGF0aW9uLm1hZ21hO2dpZnQuZGVzZXJ0O2dpZnQudm9sY2FubztmaXJlLmluY2luZXJhdGlvbjthdHRhY2suZmlyZTtzdGVpbmkuY2hhaW5lZC5iYWxsO2F0dGFjay5zcGVlZDthdHRhY2subXVsdGlzaG90O2F0dGFjay5ib3VuY2U7YXR0YWNrLnJhcGlkZmlyZTtpbXBldHVzLmZpcmU7YXR0YWNrLmltcGV0dXM7YXR0YWNrLmV4ZWN1dGlvbjtjcml0LmZpcmVEbWc=
 ```
+
 **C3**
 
-Post Era
+**Made By:** cl1694
 
-Made By: nar31
-
-Upgrade in alternation: Granite Foundation <-> Division Shield then everything else
+Upgrade order: granite 50 -> nature shell 50 -> energy regen max -> split between granite and shell
 
 `Import Code`
 ```
-YzctMyBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtzaGVsbC5uYXR1cmU7ZXhjaGFuZ2UubmF0dXJlO2ZvdW5kYXRpb24uZGlhbW9uZDtnaWZ0LmZvcmVzdDtzaGllbGQuZGl2aXNpb247bmF0dXJlLmdyb3d0aDtkZWZlbnNlLmJ1bHdhcms7cmVmbGVjdC53aW5jZTtib251cy5kZWZlbnNpdmU=
+7ZXNTuMwEMdfBeXACaykZcVqo4K0z8Bty8GJJ+mo/oj8QXYFPAfXlXYfYJ+BvtjaTgtpSKFU4sbFiv8Z//PzzDi+TQruoNEorUm+Hf1Izk+neaWcZNSikqTWVKKF3CyAcyKpdRr67xlSoSTLNdQgQXeiBu4fbiBnUIE0QArHW6qXebfem6rWLrwnAmfESR+qDeV5cKh/kYIaLDeTvnFumkCBQigeheT65Cgxpcamo79NaBn0bitzl6ZZFpdjSVqK1kmLvJNLJRqq0YQ9KFdwmNuaCiAWBcyL0ntYKm2ITc/imF0M5Gkc09fH1b/LxDO+gpJWPZRCqd3iGHRlVQuadMkaAGbrcWw3k4vZcDuPf5vZXK4eHv+sfl+OLzo+3sUR5C8di1DMcSClp2aqlQOnSQ9tO1+jX5y9wNwn62/73t29kdEFUG4Xoxn9MNSnTjnfyqQzgM+22dfYp+t3od9vgKBk8HMMK0tfnJlD2hF6Iq45zjrIwlWVIRLqeOT3OzqTz2K9r1gpbIpVK6uwGs3nrqzuXdFJhPUfEgjGH2DfFB9Sz92/kUPredjPeauc4SopHKvB+ssj9RPvx3Bwm0xjhtBcBcwrMBZlHVeiaBw30IW2dAmuCbWL4RJaHW7MGCi94oPCPRsCGlouaR2VMPXd833DUFFveH99/x8=
 ```
+
 **C4**
 
-Made by: Lunaa.620
+**Made By:** cl1694
 
-Can be done without Generic Resistance, but you will get very close to dying, and could maybe even die in some cases
-
-Enable AI and start it before the run (F4)
-
-**Turn Off:** Wave Streaming
-
-`Blueprint Import Code`
+`Import Code`
 ```
-YzctNDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2VuZXJneS5yZWN5Y2xpbmc7ZW5lcmd5Lm1vb247Z2lmdC5mb3Jlc3Q7Z2lmdC5kZXNlcnQ7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtleGNoYW5nZS5uZXV0cmFsO3Jlc2lzdGFuY2UubmV1dHJhbDtmb3VuZGF0aW9uLnN0ZWVsO2ZvdW5kYXRpb24ubWFyYmxlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtyZXNpc3RhbmNlLmdlbmVyaWM7cmVmbGVjdC53aW5jZTtjYXQucG93ZXI=
-```
-`Facility AI Import Code`
-```
-BGM3LTQBAAAABndha2V1cAAAAAACAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAMZ2VuZXJpYy5nb3RvCGNvbnN0YW50AgEAAAA=
+7VdbT9swFP4rVTTxtGZJgYHIxqY98Av6tiLNcU5Sq44d+UJAwH/a+x75Y/OFrmmatCtKEZPWBzc+OTd/5xKf+yClGipBmJLBxeh7cDY+SYCBKO7CFEmClxsBhX1CinC2pEnNVq/xHaaEFYmsgFKzlxVnEkIGWglEk5xrljnpsBCIEQVNUkZQyVnWJJVIpBSSpl2jlZqHG0jgFs8RK1bqvdWcGLuKizLJIAdrPtW0RmIRXL8fBRILUvlj3gcIW43+zDMdRXHs7BAc1ogozRShlhzlmJcVEkQa8ynnnggNokHOyU8KVEJodJQEZIjNQdQsxcaEQp4jOnFrfNkiT364v2ht7ZKcPDx4TxvWM64NSrNc8RpEOAdE1bwlHG9T+elzi37c4czWNTDIOrfOvA8lzzSFUEsgK7XxuUPn+Z3F/gYMchncdrkVf+xOoj+m9ohVF1rKOaNICd2gXL4IlHdf/7Wo5UsYC654Oytn6ZZYR5RjRJ/PEUroSfVpA+qhgufIhqTmJSij5e9iGo87/C76/e6p3B7jrWD439OvL91qPnguMsk2MF9x/W8HB2kHPf3cp4Xd9yfF1bYo7JW+p2vQYMOd8ZoNB8yhYtut9+hoRxr6K0JnGsZDNuCnn90F98YLZYB+OFRCRXnrHvW6mfS243TebmgVl8ReIofH+XSYZMoFWn1315pc7xf7qjv39kDct4OD9dlhr9678IygeUUi+Ya86tHwCmPDwF1679ra8OjFpbUT5S018cZOZOfMVGcmuc1kOY7NzijMSGvWPHZBJ3Jq/ZyaFmAGZydKykpTCZ61RgvQlQXJsTOohR2PHSOzlX0xsuO6ZagQXqDCUezWNKdvSyeU0PB4/fgb
 ```
 
 
 **Alternative solution**.
 
-Made by: fireball
+**Made By:** fireball541
 
 If you're using this for Normal Mode, you will need to disable Basic, Nature and Universal resistances in Town Stats.
 
@@ -463,23 +520,16 @@ RclBCoAgEAXQq4T7XAVBXqA7RAvTXw4MQ4waRXT3aNX2vdssXLErSclmaCYT+rZrRq/RRayQDKtYGaE4
 
 **C5**
 
-Made By: rimfire_, gen1code
+**Made By:** cl1694
 
-Enable AI and start it before the run (F4)
+`Import Code`
+```
+7VjbbtowGH6VKpp6NbKEjrZqtm7aRZ+Au1FpjvMnWHXsyIdS1Paddr/Lvth8KCOEBAYKFZPGhbH//Cd//yF2HoOUaqgEYUoGVyffg4vBKAEGopiHKZIELxYCCjtDinC2pOE5poQViayAUrOWFWcSQgZaCUSTnGuWOZGwEIgRBXVSRlDJWVYnlUikFJK6MaOVmsk9JEgLFGo25XSeFCRXYc6NReXnGUgQKoEHPEWsWLrgPcuJ5eSiNMawlm4d3L4/CSQWpPJbfwwQtgY9DhMdRfGF4jMQYckzTSHUEgiTCjHlHl4WqITFMyt6DyFhGTxMUsyXfNHHCasZNTaddOx2SHA4Q0Rppgh1zDnmZYUEkWbjKeeeCDUiebU+dNaNjpKADLGBUK3ZtWN83SAPf7i/aGVskxw+PXlPa9Yzrk18JrnHZQqIqmlDON6k8tPnBv2sxZmN4x8Ae4qN5T5vT999YtWGlnLOKFJCOyjXe4Hy7uu/FrV8AWPBFW9m5URtiHVEOUb0dR+hhI5UH9eg7it4jmxIalqCMlr+LqbxoMXvotvvjsrtMN4Ihv+9/PrSruaD5yLDbA3zJdf/dnCQdtDRz31a2HV3UtxsisJO6TtagQYb7ozPWH/AHCq27XpPT7ekoT+ctKZh3GcDfvnZXnBHXig99MO+EirKG6ezt82k447TZbOhVVwSez7tH+dRP8mUC7R87640uc439k177u1Qu74dHKzP9nv03oZnBPUjEsnX5FmHhje4NvTcpXeurTWP9i6trSjb8bxdy5HtyF5hU52Z5DaX1kFsVkZhRhrX2DMXdCLH1s+xaQHmyu5ESVlpKsGzztAd6MqC5NgZzIS9mDtGZiv76sR+HbAMFcJ3qHAUuzTN6dvCCSU0PN8+/wY=
+```
 
-**Turn Off:** Wave Streaming
-
-`Blueprint Import Code`
-```
-YzctNTtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztlbmVyZ3kucmVjeWNsaW5nO3NwZWxsLnJlc3BvbnNlLm5ldXRyYWw7ZW5lcmd5LnN1bjtzcGVsbC5maXJlc3Rvcm07YXR0YWNrLmNvbWJ1c3Rpb247ZXZhc2lvbi5iYXNpYztkZWZlbnNlLmRlZmlhbmNlO2ZvdW5kYXRpb24ubWFnbWE7YXVyYS5mcm9zdDthdXJhLnVuaG9seTthdXJhLnN0b3JtO3NwZWxsLnNhbmRzdG9ybTtzcGVsbC5zbm93c3Rvcm07c2hpZWxkLnVuaXZlcnNhbDtjYXQucG93ZXI=
-```
-`Facility AI Import Code`
-```
-BGM3LTUCAAAABndha2V1cA1nYW1lLm5ld3JvdW5kAQAAABNnYW1lLmlzVG93ZXJUZXN0aW5nCQAAAA5nZW5lcmljLmdvdG9pZghjb25zdGFudAJjAAAAEWNvbXBhcmlzb24uc3RyaW5nEWdsb2JhbC5zdHJpbmcuZ2V0CGNvbnN0YW50BAo8c2l6ZT0wPnNLCGNvbnN0YW50BAI9PQhjb25zdGFudAQqPC9zaXplPjxjb2xvcj13aGl0ZT5Ta2lsbHMgcnVubmluZzwvY29sb3I+EWdsb2JhbC5zdHJpbmcuc2V0CGNvbnN0YW50BAo8c2l6ZT0wPnNLCGNvbnN0YW50BCo8L3NpemU+PGNvbG9yPXdoaXRlPlNraWxscyBydW5uaW5nPC9jb2xvcj4YdG93ZXIubW9kdWxlLnVzZXBvc2l0aW9uGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwuZmlyZXN0b3JtCGNvbnN0YW50BQAAAAAAAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50GGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQWc3BlbGwucmVzcG9uc2UubmV1dHJhbBd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQED3NwZWxsLnNhbmRzdG9ybQ5nZW5lcmljLmdvdG9pZghjb25zdGFudAIDAAAAD2NvbXBhcmlzb24uYm9vbBFjb21wYXJpc29uLmRvdWJsZRV0b3dlci5tb2R1bGUuY29vbGRvd24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5zYW5kc3Rvcm0IY29uc3RhbnQEAj49CGNvbnN0YW50AwAAAAAAgD1ACGNvbnN0YW50BAImJhFjb21wYXJpc29uLmRvdWJsZRB0b3dlci5oZWFsdGgubWF4CGNvbnN0YW50BAE+CGNvbnN0YW50AwAAAAAAAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50GGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwuc25vd3N0b3JtDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgMAAAARY29tcGFyaXNvbi5kb3VibGUQdG93ZXIuaGVhbHRoLm1heAhjb25zdGFudAQBPghjb25zdGFudAMAAAAAAAAAABFnbG9iYWwuc3RyaW5nLnNldAhjb25zdGFudAQKPHNpemU9MD5zSwhjb25zdGFudAQHPC9zaXplPg==
-```
 **C6**
 
-Made By: Yoshi128986
+**Made By:** yoshi128986
 
 Max out in order: Granite Foundation -> Shells
 
@@ -490,253 +540,269 @@ Post Era
 YzctNiBIYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3NoZWxsLm5hdHVyZTtzaGVsbC5haXI7c2hlbGwud2F0ZXI7c2hlbGwuZWFydGg7cmVzaXN0YW5jZS5uYXR1cmU7cmVzaXN0YW5jZS5haXI7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYztnaWZ0Lm9jZWFuO2JvbnVzLmRlZmVuc2l2ZTtyZWZsZWN0LndpbmNlO3NoaWVsZC5kaXZpc2lvbjtzaGllbGQudW5pdmVyc2FsO2RlZmVuc2UuYnVsd2FyaztuYXR1cmUuZ3Jvd3Ro
 ```
 
+**Alternative solution**
+
+**Made By:** cl1694
+
+Open the module tab before run and never manually scroll it to make sure that the script can properly upgrade modules
+
+~20% success rate, so expect the script to restart the run a few times before you complete the challenge
+
+`Import Code`
+```
+7V3Pj9tEFP5XlqhUqGVNkt12oQFagcQRgSinpoeJPXZG69hmPN5saCtaEIUDoHLgUG4gcYIDEkLqoRJS/I8x9ji7jjOTOIm9GW9fK7nxeH69b957882bsfugNXAjHFDisbB1a+9e62j/Zs/CNvZCbFBsu9hkPduPPAsx4nuGQ5FHGO7hU3OIPAcbNqG5O4woG+bzWwSNfM/qoYgiY5g8DpkfBJiKFJtgOumFQ+y6xhgxnix+i3qwh6kzMQYoJObshmIn+ZXWfp5mTkyXeM4sYeTzh2GQ1MSfDRF1cG/ge1Fo+HYiGjnBvRCZlNjExIaF6HGWm/mnxCQnk+z2hHg4NBziII/xLsxwGUTuOCnjIRZRzDHxx7y34ZBg1zIij9dOQ+S27r+51wp5I4GA9kELmUmvBc79qN3udFJZiMllJ8ymaIRbvEyfzpK5UOZx3+a4eIhOjBNsdtNyBw7PapDwrj/G9C4OGZc9edDGPIthU3/0oe9TKxSNIErYcIS5BIblRwMXq5I98a8xIp6obdbwebG27QfpwA583zUczPoDk4vEOEDp40NRd0QMa+KhETE/M1EyMoVsB+m1vfw6fXZnk2Lx318tSsLHAWPPGBOLDQ1LBYCktY4Zf/fF2Y/45W2ZwO3ONQFO1swQE2fIeDtL8krBNf1RwLsVZgBXiLhou3v1qsiea0g1+DpB9v6F6s9tAUCGO0c2JF8WJT0TotDC9EUqOZ5+G//56fRF/NPthhvh15UZ4cJQl1eplc39vlTJirrcYLPUHMTNDHVTHdvGUPv9vJea/lWU/cZcDx9P/yvew1SdwwOm6h36BK0ga85UXaqFZ+vO3w0xWJjWtTJhzUFszrQeP4uf5qb1l3zelha8XsalleMAUXElH3mMuEoVk6kDC1w0wdQ4DVT4V6EPn7DigOTB2Lr66ffTbxQNCFU7IN0iwl1llVKDevhQhaDNEoKVhJhcNiwU7mRXaZXvvbeJkuavQARzOgBEcIeziFaQNYcIxj/GP5z9fQyEb4Vhas5VmmGqmoPYHMI3/XX6fPY3fg507/yqLd3rSKoEutfIWQXo3g7nEK0gA7qnlWEC3dPKVDUHEeieeofP9bkKGMRjRihXl3aHSGnO0aLsVRHIJPmGoEAj34q4opk8t+WPU23rvJ2Sj+xJcurohFMRz8Kn0u7j+aNQdfGmplG8pFtHcxhHISbn1W6H8hq6lZbOuQqePV9S4cQWtTJL3i/LyWcotPFMWR2f+cReKM8UOEodMM4lbilJ0WutGUxWe+9NVW8zP1qHg8gkEOchpRLIQdlMglC+DtTcuNtC87KZWmWAXdbps9TSGcnOZ6bGX/QMgR+SZD7byDXMHT5dNk3VpUMQulgMXWzumZYovqL75xqmctqLGqvqVKKx1dn2lcbZNsRmhJJDbKY6xCE2U15/IDazAliIzWhlqpqD2JzYzMcCOdU1/lm/3TngvcB75VfgvU2dXoH3Voc48N7y+gO8dwWwwHu1MlXNQWwO743/SaFrCwAXr/Fv2uxTpkJWt5d0vfK9pDMgJcNU937Su1JpDiW9adx+0ircFRVcEia/5UY+EO7lPhcId3WIA+Eurz/w8i8QcSDitYPYHCI+dOMnKXg3+Y/4qX7h5lc8spyObHWrj7e24+sQydV9ngJiWR3iQCzL6w8QSyCWQCxrB1FjYrmeGRb683n6J/5DgdD+ktrr4EkHI1/+Hm5ZpiR3cuqDHuIaP1HKv+H4QQhdNL48lLungLC6QHn3tSLN7fZtdYerfYtm7qvO657lJ0xle6vC18VhKqW0h3dqwKBzKPs49VobLO8oOryTDRbpdk+zNlhgvSYcKazXqkMc1mvl9QfWa7Beg/Va7SBqvF7b+UYAUIDtXDhQAKAA2+gPUACgAEABagexORRgBx8Cr/6EoZ0P5qTpg5n+kix2pNf2dVE6VcYyYrxCByM2ial1Xy+J7a6+KrXsoyZ1KdxKf7sqziuUquQxZVJM776x2iSuKGwdVhDCYGAFUR3isIIorz/w+t4KYGGloJWpag5ic1YKKXBInNn4RZtlQirPro4ZzK87CiWvKQpFC8Spln346tS8uyXzn/sW7b9LTaY8y2/SFwZXHTaQUF21G639nMGhpDdr+uDdv8i59cdtYDV4YavBLF28Z7Cg30nN3bR9PqAjgkOOLx/PktBcmv847YJmjfWCNo8/unOZ/PD1bfzwOnp6mT/JvApkU1HBBdm9oJYCJYp5Acrkc4ZNedut+/zZILK4M2vd2mvzG96Klap1yBPuiXKyiFNakoyCyA2xyDpGxzgKksbS7B4eUy6QlWb0krZu7bWO9m8mGQJkHiMnTUluuTF9MOuDjXiFj+4/+h8=
+```
+
+---
 
 ## Metallic_Ruins
 
 **C1**
 
-Made By: rimfire_, bertie690
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzgtMTtzaGVsbC5lYXJ0aDtzaGVsbC5lbGVjdHJpY2l0eTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtleGNoYW5nZS5lYXJ0aDtleGNoYW5nZS5lbGVjdHJpY2l0eTtyZWZsZWN0LndpbmNlO3Rvd2VyLnVuaXZlcnNhbDthdHRhY2suY29tYnVzdGlvbg==
+TY1BCsIwEEWvItkbcCfmKOJimvymwXQSJhOriHe3pSDu3n/weW8z5I4qibWZy+FqzseTG0vnQJoK25BoLhycIIIhuxTkFR5wASO4wc5QynWTHB11ITsmyGvHCSTatNQKcXj6iTjCbnL6mxleJfmk60uV/N36Mg+9bcFfZ+h5Ibk7Ju0CG6UsOpnb5ws=
 ```
+
 **C2**
 
-Made By: rimfire_
+**Made By:** rimfire_
 
-**Turn Off:** Wave Streaming
+No Accel
 
 `Import Code`
 ```
 YzgtMjthdHRhY2suZmlyZTtnaWZ0LnZvbGNhbm87ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJlO2F0dGFjay5pbXBldHVzO3N0ZWluaS5jaGFpbmVkLmJhbGw7YXR0YWNrLnNwZWVkO2F0dGFjay5ib3VuY2U7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2ZvdW5kYXRpb24ubWFnbWE7YXVyYS51bmhvbHk7YXVyYS5mcm9zdDthdXJhLnN0b3Jt
 ```
+
 **C3**
 
-Post Era
+**Made By:** cl1694
 
-Made By: nar31
+Restart until granite levels up on wave 1
 
-Upgrade in alternation: Granite Foundation <-> Division Shield then everything else
+Upgrade order: granite max -> fiery aura max -> adaptive regen max
 
 `Import Code`
 ```
-YzgtMztmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC5maXJlO2V4Y2hhbmdlLmZpcmU7c2hlbGwuYWlyO2V4Y2hhbmdlLmFpcjtzaGVsbC5lbGVjdHJpY2l0eTtleGNoYW5nZS5lbGVjdHJpY2l0eTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmdlbmVyaWM7cmVmbGVjdC53aW5jZTtzaGllbGQuZGl2aXNpb247ZGVmZW5zZS5idWx3YXJrO2JvbnVzLmRlZmVuc2l2ZQ==
+TYwxDsIwEAS/gtzjhgbhpyCKc7wOVpK76HwGRYi/k8gN3c5odz8uzg2rFrbqbqe7u54vIUvjRFaE/ajExfCvUqFFOAXFCIZ2qZj38EKgpuRzgW49PkFq1WRdoSEhgyt8bPObdApkRsPkB1liq8dPiMKteslH77jr3Hc7u8f3Bw==
 ```
+
 **C4**
 
-Made By: Bertie690
+**Made By:** microwave4
 
-`Blueprint Import Code`
+Spam Neutral Response
+
+`Import Code`
 ```
-YzgtNDtib3JmO2F1cmEudW5ob2x5O2F1cmEuZnJvc3Q7c2hpZWxkLnVuaXZlcnNhbDtzcGVsbC50b3hpY2l2eTtzcGVsbC5saWdodG5pbmc7c3RhbXBlZGUuZ29hdHM7c3BlbGwuZmlyZXN0b3JtO2F0dGFjay5jb21idXN0aW9uO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5yZWN5Y2xpbmc7ZW5lcmd5LnN1bg==
-```
-`Facility AI Import Code`
-```
-CWM4LTQ6c3BhbQAAAAAAAAAAAwAAABFnZW5lcmljLndhaXR1bnRpbBFjb21wYXJpc29uLmRvdWJsZRV0b3dlci5tb2R1bGUuY29vbGRvd24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5saWdodG5pbmcIY29uc3RhbnQEAjw9CGNvbnN0YW50AwAAAAAAAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50GGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwubGlnaHRuaW5nDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgEAAAAPY29tcGFyaXNvbi5ib29sEWNvbXBhcmlzb24uZG91YmxlDHRvd2VyLmhlYWx0aAhjb25zdGFudAEACGNvbnN0YW50BAE+CGNvbnN0YW50AwAAAAAAAAAACGNvbnN0YW50BAImJhNnYW1lLmlzVG93ZXJUZXN0aW5n;CWM4LTQ6bWFpbgIAAAAGd2FrZXVwDWdhbWUubmV3cm91bmQBAAAAE2dhbWUuaXNUb3dlclRlc3RpbmcNAAAADmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AmMAAAARY29tcGFyaXNvbi5zdHJpbmcIY29uc3RhbnQEASAIY29uc3RhbnQEAj09CGNvbnN0YW50BBBTa2lsbHMgQ2FzdGVyIE9OEWdsb2JhbC5zdHJpbmcuc2V0CGNvbnN0YW50BAEgCGNvbnN0YW50BBBTa2lsbHMgQ2FzdGVyIE9OD2dlbmVyaWMuZXhlY3V0ZQhjb25zdGFudAQJYzgtNDpzcGFtD2dlbmVyaWMuZXhlY3V0ZQhjb25zdGFudAQJYzgtNDpmaXJlD2dlbmVyaWMuZXhlY3V0ZQhjb25zdGFudAQIYzgtNDppdnkPZ2VuZXJpYy5leGVjdXRlCGNvbnN0YW50BAljOC00OmdvYXQRZ2VuZXJpYy53YWl0dW50aWwRY29tcGFyaXNvbi5kb3VibGUMdG93ZXIuaGVhbHRoCGNvbnN0YW50AQAIY29uc3RhbnQEAjw9CGNvbnN0YW50AwAAAAAAAAAADGdlbmVyaWMuc3RvcAhjb25zdGFudAQJYzgtNDpzcGFtDGdlbmVyaWMuc3RvcAhjb25zdGFudAQJYzgtNDpmaXJlDGdlbmVyaWMuc3RvcAhjb25zdGFudAQIYzgtNDppdnkMZ2VuZXJpYy5zdG9wCGNvbnN0YW50BAljOC00OmdvYXQMZ2xvYmFsLnVuc2V0CGNvbnN0YW50BAEgDGdlbmVyaWMud2FpdAhjb25zdGFudAMAAAAAAAAAAA==;CGM4LTQ6aXZ5AAAAAAAAAAARAAAADWxvY2FsLmludC5zZXQIY29uc3RhbnQEAW4IY29uc3RhbnQCBgAAAA1sb2NhbC5pbnQuc2V0CGNvbnN0YW50BAFtCGNvbnN0YW50AgYAAAANbG9jYWwuaW50LnNldAhjb25zdGFudAQBZAhjb25zdGFudAL6////EWdlbmVyaWMud2FpdHVudGlsEWNvbXBhcmlzb24uZG91YmxlFXRvd2VyLm1vZHVsZS5jb29sZG93bhhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDnNwZWxsLnRveGljaXZ5CGNvbnN0YW50BAI8PQhjb25zdGFudAMAAAAAAAAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zcGVsbC50b3hpY2l2eQ52ZWMuZnJvbUNvb3JkcwNpMmQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbgNpMmQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbQ1sb2NhbC5pbnQuc2V0CGNvbnN0YW50BAFuDmFyaXRobWV0aWMuaW50DWxvY2FsLmludC5nZXQIY29uc3RhbnQEAW4IY29uc3RhbnQEASsNbG9jYWwuaW50LmdldAhjb25zdGFudAQBZBFnZW5lcmljLndhaXR1bnRpbBFjb21wYXJpc29uLmRvdWJsZRV0b3dlci5tb2R1bGUuY29vbGRvd24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zcGVsbC50b3hpY2l2eQhjb25zdGFudAQCPD0IY29uc3RhbnQDAAAAAAAAAAAYdG93ZXIubW9kdWxlLnVzZXBvc2l0aW9uGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQOc3BlbGwudG94aWNpdnkOdmVjLmZyb21Db29yZHMDaTJkDWxvY2FsLmludC5nZXQIY29uc3RhbnQEAW4DaTJkDWxvY2FsLmludC5nZXQIY29uc3RhbnQEAW0NbG9jYWwuaW50LnNldAhjb25zdGFudAQBbg5hcml0aG1ldGljLmludA1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFuCGNvbnN0YW50BAErDWxvY2FsLmludC5nZXQIY29uc3RhbnQEAWQRZ2VuZXJpYy53YWl0dW50aWwRY29tcGFyaXNvbi5kb3VibGUVdG93ZXIubW9kdWxlLmNvb2xkb3duGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQOc3BlbGwudG94aWNpdnkIY29uc3RhbnQEAjw9CGNvbnN0YW50AwAAAAAAAAAAGHRvd2VyLm1vZHVsZS51c2Vwb3NpdGlvbhhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDnNwZWxsLnRveGljaXZ5DnZlYy5mcm9tQ29vcmRzA2kyZA1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFuA2kyZA1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFtDWxvY2FsLmludC5zZXQIY29uc3RhbnQEAW0OYXJpdGhtZXRpYy5pbnQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbQhjb25zdGFudAQBKw1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFkEWdlbmVyaWMud2FpdHVudGlsEWNvbXBhcmlzb24uZG91YmxlFXRvd2VyLm1vZHVsZS5jb29sZG93bhhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDnNwZWxsLnRveGljaXZ5CGNvbnN0YW50BAI8PQhjb25zdGFudAMAAAAAAAAAABh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zcGVsbC50b3hpY2l2eQ52ZWMuZnJvbUNvb3JkcwNpMmQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbgNpMmQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbQ1sb2NhbC5pbnQuc2V0CGNvbnN0YW50BAFtDmFyaXRobWV0aWMuaW50DWxvY2FsLmludC5nZXQIY29uc3RhbnQEAW0IY29uc3RhbnQEASsNbG9jYWwuaW50LmdldAhjb25zdGFudAQBZA1sb2NhbC5pbnQuc2V0CGNvbnN0YW50BAFkDmFyaXRobWV0aWMuaW50DWxvY2FsLmludC5nZXQIY29uc3RhbnQEAWQIY29uc3RhbnQEASoIY29uc3RhbnQC/////w5nZW5lcmljLmdvdG9pZghjb25zdGFudAIEAAAAEWNvbXBhcmlzb24uZG91YmxlDHRvd2VyLmhlYWx0aAhjb25zdGFudAEACGNvbnN0YW50BAE+CGNvbnN0YW50AwAAAAAAAAAA;CWM4LTQ6Z29hdAAAAAAAAAAAAwAAABFnZW5lcmljLndhaXR1bnRpbBFjb21wYXJpc29uLmRvdWJsZRV0b3dlci5tb2R1bGUuY29vbGRvd24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA5zdGFtcGVkZS5nb2F0cwhjb25zdGFudAQCPD0IY29uc3RhbnQDAAAAAAAAAAAYdG93ZXIubW9kdWxlLnVzZXBvc2l0aW9uGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQOc3RhbXBlZGUuZ29hdHMOdmVjLmZyb21Db29yZHMKZG91YmxlLnJuZAhjb25zdGFudAMAAAAAAAAUwAhjb25zdGFudAMAAAAAAAAUQApkb3VibGUucm5kCGNvbnN0YW50AwAAAAAAABTACGNvbnN0YW50AwAAAAAAABRADmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgEAAAAPY29tcGFyaXNvbi5ib29sEWNvbXBhcmlzb24uZG91YmxlDHRvd2VyLmhlYWx0aAhjb25zdGFudAEACGNvbnN0YW50BAE+CGNvbnN0YW50AwAAAAAAAAAACGNvbnN0YW50BAImJhNnYW1lLmlzVG93ZXJUZXN0aW5n;CWM4LTQ6ZmlyZQAAAAAAAAAAEQAAAA1sb2NhbC5pbnQuc2V0CGNvbnN0YW50BAFuCGNvbnN0YW50AgoAAAANbG9jYWwuaW50LnNldAhjb25zdGFudAQBbQhjb25zdGFudAIKAAAADWxvY2FsLmludC5zZXQIY29uc3RhbnQEAWQIY29uc3RhbnQC9v///xFnZW5lcmljLndhaXR1bnRpbA9jb21wYXJpc29uLmJvb2wRY29tcGFyaXNvbi5kb3VibGUVdG93ZXIubW9kdWxlLmNvb2xkb3duGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwuZmlyZXN0b3JtCGNvbnN0YW50BAI8PQhjb25zdGFudAMAAAAAAAAAAAhjb25zdGFudAQCJiYRY29tcGFyaXNvbi5kb3VibGUMdG93ZXIuZW5lcmd5CGNvbnN0YW50AQEIY29uc3RhbnQEAT4IY29uc3RhbnQDZmZmZmZm7j8YdG93ZXIubW9kdWxlLnVzZXBvc2l0aW9uGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwuZmlyZXN0b3JtDnZlYy5mcm9tQ29vcmRzA2kyZA1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFuA2kyZA1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFtDWxvY2FsLmludC5zZXQIY29uc3RhbnQEAW4OYXJpdGhtZXRpYy5pbnQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbghjb25zdGFudAQBKw1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFkEWdlbmVyaWMud2FpdHVudGlsD2NvbXBhcmlzb24uYm9vbBFjb21wYXJpc29uLmRvdWJsZRV0b3dlci5tb2R1bGUuY29vbGRvd24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5maXJlc3Rvcm0IY29uc3RhbnQEAjw9CGNvbnN0YW50AwAAAAAAAAAACGNvbnN0YW50BAImJhFjb21wYXJpc29uLmRvdWJsZQx0b3dlci5lbmVyZ3kIY29uc3RhbnQBAQhjb25zdGFudAQBPghjb25zdGFudANmZmZmZmbuPxh0b3dlci5tb2R1bGUudXNlcG9zaXRpb24YZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5maXJlc3Rvcm0OdmVjLmZyb21Db29yZHMDaTJkDWxvY2FsLmludC5nZXQIY29uc3RhbnQEAW4DaTJkDWxvY2FsLmludC5nZXQIY29uc3RhbnQEAW0NbG9jYWwuaW50LnNldAhjb25zdGFudAQBbg5hcml0aG1ldGljLmludA1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFuCGNvbnN0YW50BAErDWxvY2FsLmludC5nZXQIY29uc3RhbnQEAWQRZ2VuZXJpYy53YWl0dW50aWwPY29tcGFyaXNvbi5ib29sEWNvbXBhcmlzb24uZG91YmxlFXRvd2VyLm1vZHVsZS5jb29sZG93bhhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQED3NwZWxsLmZpcmVzdG9ybQhjb25zdGFudAQCPD0IY29uc3RhbnQDAAAAAAAAAAAIY29uc3RhbnQEAiYmEWNvbXBhcmlzb24uZG91YmxlDHRvd2VyLmVuZXJneQhjb25zdGFudAEBCGNvbnN0YW50BAE+CGNvbnN0YW50A2ZmZmZmZu4/GHRvd2VyLm1vZHVsZS51c2Vwb3NpdGlvbhhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQED3NwZWxsLmZpcmVzdG9ybQ52ZWMuZnJvbUNvb3JkcwNpMmQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbgNpMmQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbQ1sb2NhbC5pbnQuc2V0CGNvbnN0YW50BAFtDmFyaXRobWV0aWMuaW50DWxvY2FsLmludC5nZXQIY29uc3RhbnQEAW0IY29uc3RhbnQEASsNbG9jYWwuaW50LmdldAhjb25zdGFudAQBZBFnZW5lcmljLndhaXR1bnRpbA9jb21wYXJpc29uLmJvb2wRY29tcGFyaXNvbi5kb3VibGUVdG93ZXIubW9kdWxlLmNvb2xkb3duGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwuZmlyZXN0b3JtCGNvbnN0YW50BAI8PQhjb25zdGFudAMAAAAAAAAAAAhjb25zdGFudAQCJiYRY29tcGFyaXNvbi5kb3VibGUMdG93ZXIuZW5lcmd5CGNvbnN0YW50AQEIY29uc3RhbnQEAT4IY29uc3RhbnQDZmZmZmZm7j8YdG93ZXIubW9kdWxlLnVzZXBvc2l0aW9uGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQPc3BlbGwuZmlyZXN0b3JtDnZlYy5mcm9tQ29vcmRzA2kyZA1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFuA2kyZA1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFtDWxvY2FsLmludC5zZXQIY29uc3RhbnQEAW0OYXJpdGhtZXRpYy5pbnQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBbQhjb25zdGFudAQBKw1sb2NhbC5pbnQuZ2V0CGNvbnN0YW50BAFkDWxvY2FsLmludC5zZXQIY29uc3RhbnQEAWQOYXJpdGhtZXRpYy5pbnQNbG9jYWwuaW50LmdldAhjb25zdGFudAQBZAhjb25zdGFudAQBKghjb25zdGFudAL/////DmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgQAAAARY29tcGFyaXNvbi5kb3VibGUMdG93ZXIuaGVhbHRoCGNvbnN0YW50AQAIY29uc3RhbnQEAT4IY29uc3RhbnQDAAAAAAAAAAA=
+TY5dCsIwEISvUnqAHsAcRXzYJNMY3G7KZmMR8e5G/Ovb8M18MPfRc8OqWayOh+E45uFMhiHqEJrPgdjNpUkky0WmpCTZsEcx01IkOkWCQN9QwT1c4SJmSEUHMyPYXlxIPcO9pHSb9rqrK5g7qmt5yYJm2o98pp5qDn8v3AJnSV8wc9lcKIppKWyQ3wXfeCO9OCFrvU1aNjuPp8cT
 ```
 
-Made by: Lunaa.620
 
-Quicker solution
+**Alternative solution.**
 
-This solution might be fixed in the future
+**Made by:** Lunaa.620
+
+Might be fixed in the future
 
 `Import Code`
 ```
 YzgtNDtzaGllbGQudW5pdmVyc2FsO2RlZmVuc2UucmVmbGVjdA==
 ```
+
 **C5**
 
-By: fireball
+**Made By:** cl1694
 
-Wait for AI to upgrade Granite Foundation, then upgrade Energy/Energy Regen to about 100, upgrade Granite/shells about 75 times, then return to Energy/Energy Regen - upgrade them to lv300, after that come back and start maxing out Granite/shells -> Ocean Gift/resistances -> exchanges.
+Restart until no instant death
+
+Upgrade order: all defensive 50 -> granite max -> split between shells/resistances/regen/exchanges
 
 `Import Code`
 ```
-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
+VY9LDsIwDESvgronOyREjoJYuOm0iQh25Th8hLg7VKWi7N5YM2P72bS5YtTEVprD5tjstztPZhTOLsilrcWSsO+lckcTukGJk8GXiJwdSC0unBFMU0j28IqSihEHfC3rwZ9vAEPnakX+wBUe9xCJhyX7k6vk6qQu0UW481SVXOUo+TFzn6BfjFNVMRlHqG+Fa3HS9+Ay7Zt1h0XPBNfWfCM9eyaris/rcrPYnF5v
 ```
+
 **C6**
 
-Made By Yoshi128986
+**Made By:** cl1694
 
-Spam Toxic Piranha Ivy
-
-Offsetting ivy to 7,0 can help (for some reason)
+Might need to disable x3 at low fps
 
 `Import Code`
 ```
-YzgtNiBoYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxsLnRveGljaXZ5O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVzaXN0YW5jZS5maXJlO3NoZWxsLmZpcmU7cmVzaXN0YW5jZS5lbGVjdHJpY2l0eTtzaGVsbC5lbGVjdHJpY2l0eTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtleGNoYW5nZS5maXJlO2V4Y2hhbmdlLmVsZWN0cmljaXR5O3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtyZXNpc3RhbmNlLmRhcmtuZXNzO3NoZWxsLmRhcmtuZXNzO2V4Y2hhbmdlLmRhcmtuZXNzO3Jlc2lzdGFuY2UuZ2VuZXJpYzthdXJhLmhlYXJ0c3RvcHBlcg==
+5VjdTtswFH6VLprQLoaVlL+qGQztGbhb0eQ4J6mFY0f+aUDAM+xVtrvd98VmOy2EkKC26zQ6btz49Pz5+46PLd8GCTNQSsq1CsaDr8Fo/zjOhOEp1lRwlEvMqYamSGkA1hQUWCbsiUpKcSF4GkvIgYOshRKY/ZhBjI3EyPCpYDdxTjONMiFB6fo7BQVSx3BNppjngDgYLTGLU8iAK0CJYQx0KYXIHmRK46SUMAPuAtX+qymVrKI2CVUCYyijLoaQhc2TGOXnsUsuv0EJVpQsJ82cF7bWshQu0CKZ4PLjIFBE0rIG7TbAxKnXCE5MGEaRd0IJqjDVxubFnDjMiChKLKmyeCRC1EJoCC0P3n6Y4wKQ9VFQUIhYaPUkITaExrVGeOjH6KwlHl76n/DJ2GU5vLurM21ET4WxTE4yLSqQaAqY6WnLOHrJ5afTlvygI5kXx8Ai69M6qXMoRGoYIKOAPrqNRh6dxX8O+xlY5FK47korOu5hcRlqDa660NI+GU0L6AblbCNQ3p/vGmvZEsZcaNGuygnv5zqEpiXNntm68aQ7dj8hFZ71EPJu4/VGh+fbLlD+2I4eXIdMEMwWy0EKerb+RaP0NinmHelGXmxFelqAtgtbbdtF+x1Q5v1QrrScg/mv+Q/v9+jb/Gf9Mf/+edd26uvtr2s23d49/py5VcD5sHbPfU21+X+eKmsWUB9JR0/KnVjtVFR8/WIPs9Z18m8tfhd5GrV7SikUdRfj7eN8tJ1iyiR+PDtXuof0Bd76WTo8bRMzXK9W9va2XSub9ZxOFv7pFWdLh8xzhv7olOnn6000MLNjR6mPS3byPH3DffqVtUP3kJSY1BZsMB7sR3ZmHaa09Zh04Bmh6sLleWFxpjz3prQoDVNQq1b4CkzpQPLqHCrpXuS8InfwjQfudc8plJhc4dxL3NRWwJdlEloauL+8/w0=
 ```
 
+---
 
 ## Beach
 
 **C1**
 
-By: Gen
+**Made By:** microwave4
 
 `Import Code`
 ```
-YzktMTtzaGVsbC5lYXJ0aDtzaGVsbC5maXJlO3NoZWxsLndhdGVyO2dpZnQub2NlYW47Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXVyYS5oZWFydHN0b3BwZXI7ZXhjaGFuZ2UuZWFydGg7cmVzaXN0YW5jZS5maXJlO3Jlc2lzdGFuY2Uud2F0ZXI7cmVzaXN0YW5jZS5nZW5lcmljO3Jlc2lzdGFuY2UuZWxlbWVudGFsO2dpZnQuZm9yZXN0O2dpZnQuZGVzZXJ0
+TY/RDcMgDERXiTJABiijVP0wcElQwETGNKqq7l4ifvh7tu7O5+9sY8UpgbXMj+k5h2knxeRlctUGR9GsubInDZmXTYiDwlAVWtYA+XTcQaJF83lCjGADQ7pDEBu8Mab4QCmzH1eJtkTNWUJRYocWLhjnq5WScXFf3E3ZEWMXd+y6zl0yeiISWNtPHiu4YLE1XiSHIVVyx+JysrXcjebX7w8=
 ```
+
 **C2**
 
-By Yoshi128986
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzktMiBIYXJkO2F1cmEuaGVhcnRzdG9wcGVyO3Jlc2lzdGFuY2UuZ2VuZXJpYztyZXNpc3RhbmNlLmZpcmU7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3NoZWxsLmZpcmU7c2hlbGwud2F0ZXI7c2hlbGwuZWFydGg7Zm91bmRhdGlvbi5ncmFuaXRlO2V4Y2hhbmdlLmVhcnRoO2ZvdW5kYXRpb24uZGlhbW9uZDtnaWZ0Lm9jZWFuO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGllbGQuZnJvc3Q=
+ZYxBCgIxDEWvIt3bhTvtUcRFtL/TQE2HNFVEvLsjFRlw9/Lykqc7l45ZWay5w+bo9ttdSLVLJOMqflISNqxVZLpWiUExQaBDKsoCNwTqSr5LruUxOIPUmtV5hoaWUYpPrPjineynP2Fe3jZuRnLB6FbziFfi7wIFV4hRCRMn86kuOxsc0aDmTq83
 ```
+
 **C3**
 
-By Yoshi128986
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzktMyBIYXJkO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2VuZXJneS5mbG93O3NwZWxsLnRveGljaXZ5O2F1cmEuaGVhcnRzdG9wcGVyO3Jlc2lzdGFuY2UuZ2VuZXJpYztyZXNpc3RhbmNlLmZpcmU7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3NoZWxsLmZpcmU7c2hlbGwud2F0ZXI7c2hlbGwuZWFydGg7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24uZGlhbW9uZDtnaWZ0Lm9jZWFuO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGllbGQuZnJvc3Q7cmVzaXN0YW5jZS5haXI7c2hlbGwuYWly
+Tc5BCsIwEIXhq0j2ZuNKcxRxMW1emtB0UiYTi4h3t6UV3H38MI95my43zJJYq7md7uZ6vrhQGnvSVNgOQpwU/8knmgp7JxjAkD0K8oonXI3I2S6kkMMg0XiY0q8yaRM4akK2cSz5tTskyMG4XVYt87xueQRwhe1aXkhGR6rUj7YvU9fq9oJ5fL4=
 ```
+
 **C4**
 
-By: Yoshi128986
+**Made By:** cl1694
+
+Use Dark Sacrifice twice
+
+`Import Code`
+```
+PY/BbgMhDER/Jdp7OPXS8ilVD14YgrUUkG0SRVH+PUSrzcnjJ9szfixrGejC1XT5Of0u3+cvT0PIjZpbue86g8TUWu+QnSRparu8ZZZy4xp9REJVODXhDSuFzZPZLE47EI9GqHNMLDjA/yjGmpsdYG2jBnilIJw4wEWSzWsbxWWSK9S4Xj7DpNnr5FEdv7d6mcQRyyH3sJoZJc6/+ApRKv5j61ILQ2dAVMjl/r7IYfl7vgA=
+```
+
+**C5**
+
+**Made By:** cl1694
+
+`Import Code`
+```
+xVbBbtswDP2VwoeeViNO2q6rh6HbN/S29CBLtExElgyJitsV/Zd9y75skpVkcZaiRediFyGimKfHR5HmY1YpD51FTS67PvmefTq7KGvjtWCERufSMo0E+6aW2UqNLAJZa7QoLUjQYJPRggo/1lBKrCmvjQVHpetAqZzMPXJcP5SMiPFVHqwgwplirskZ2lJADdpBXnnVM7sqNSNvIZAxPTWlaxCUyL0O6NYxVa40yobyzvRgy8hAPuQVc8i3m31iGw6BTmfiHRo8Waayuw8nmeMWuyTEY8Z4dE+qLP1sNqudqSnwgRCAlAqWFQ/nxDQNx+dxLYqdE/Nk3Aq7A7cirVm47vWo851Tz9bgvJWHfgl29k+wZGw7BexiBLs2luB+CtzLES5o4cPr5JMocT6CbozFH0ZPr0VlgfFmCtyrnRPqGkONPkxI+vLgXQTWLWqZALhpO2bRhRqvjFHp1e8ZhfGhPwzmC8nahPGVc1CbCjx25az4fGBeJOIvrNXNUbT56elzvGjHaRIev37SzU7c1GaQ59KQwfoAab6sj6M8Kx/Fjpa3RngFOQ9iC9PrlP4his1J7FTr+BDEX3WWgoJx3z0e+Jc3JWBv3cpQXI14ewedcThkfmrqF2/l+GKqBp//k65Qfkc/Ue+dto+HacM/sNNEsLuq2KrfM6TaBuhXJ4Zen5Q6BdQAU/RM030vTeM0UXkhgcL8cFaEXQAUOJ4oisUgKrrbyPM2NNrQZIe/Ytt55SC59mwFvosCDe4aehtnr8FRR+muT+LYFh26ME4xOVjiNuTw25YEWQ9Pd0+/AQ==
+```
+
+**C6**
+
+**Made By:** cl1694
 
 No Accel
 
 `Import Code`
 ```
-YzktNCBIYXJkO3NoYXJkcy5pY2U7YXR0YWNrLnNwZWVkO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTthdHRhY2suaW1wZXR1czthdHRhY2sucmFwaWRmaXJlO3N0ZWluaS5jaGFpbmVkLmJhbGw7YXR0YWNrLmJhc2ljO2F0dGFjay5iYXNoO2F0dGFjay5zcGFyaztjcml0LmJhc2ljO2NyaXQubmV1dHJhbERtZztzcGxhc2guYWR2YW5jZWQ7c291bC5oYXJ2ZXN0aW5nO2VuZXJneS5iYXNpYzthdXJhLmZyb3N0O2ZvdW5kYXRpb24uYmF0dGVyeTtnaWZ0Lm5ldXRyYWw=
-```
-**C5**
-
-Made by: Lunaa.620 (with help from ryan180322)
-
-Post era
-
-Enable AI and start it before the run (F4)
-
-**Turn Off:** Wave streaming
-
-`Blueprint Import Code`
-```
-YzktNTtyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9uO2RlZmVuc2UuYnVsd2FyaztlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztzcGVsbC5yZXNwb25zZS5uZXV0cmFsO2dpZnQuZm9yZXN0O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYXJibGU7cmVnZW5lcmF0aW9uLnJlbGF0aXZl
-```
-`Facility AI Import Code`
-```
-BGM5LTUBAAAABndha2V1cAAAAAACAAAAF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50CGNvbnN0YW50AgEAAAAMZ2VuZXJpYy5nb3RvCGNvbnN0YW50AgEAAAA=
-```
-**C6**
-
-Made by: Lunaa.620
-
-**Turn Off:** Wave streaming (can be turned on if you add Universal shield to the blueprint)
-
-`Import Code`
-```
-YzktNjtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtzaGVsbC53YXRlcjtzaGVsbC5lYXJ0aDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZWFydGg7cmVzaXN0YW5jZS5lbGVtZW50YWw7ZXhjaGFuZ2Uud2F0ZXI7ZXhjaGFuZ2UuZWFydGg7YXVyYS5oZWFydHN0b3BwZXI=
+ZYrLCsIwEEV/RbI3S0HzKeJi2t42wemkTCY+EP9dpVoK7s495z5cwxWTJrHiDpuj2293oc9VOrKUxQ9Kkgxr1SUas3RBMUCgs1TwGy4IVJV8lZj5PnMEqRXL0wQNJYLZX8kW/tQYcGsjyYBvWuZcFSUVI2l/fSX+HmCMECMOHXpIgW8qX0nP7vR8AQ==
 ```
 
+---
 
 ## Ocean
 
 **C1**
 
-By: by22dgb
-
-Turn off wave streaming around wave 250
+**Made By:** cl1694
 
 `Import Code`
 ```
-QzEwLTEgSGFyZDtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZ2VuZXJpYztyZXNpc3RhbmNlLmVsZW1lbnRhbDtzaGVsbC53YXRlcjtmb3VuZGF0aW9uLmRpYW1vbmQ7YXVyYS5oZWFydHN0b3BwZXI7ZXhjaGFuZ2Uud2F0ZXI7YXR0YWNrLmxpZmVzdGVhbDthdHRhY2subXVsdGlzaG90O2F0dGFjay5zcGVlZDt0YXN0ZS5lbGVjdHJpY2l0eTthdHRhY2suZWxlY3RyaWNpdHk7Y3JpdC5lbGVjdHJpY2l0eURtZztidXJzdC5lbGVjdHJpY2l0eTtjb3JlLm1hZ25ldGlj
+xVbBbtswDP2Vzodethp2MuxQL0Mx7BN6W3qQZdohKkuGRNUr2v7LvmVfNlquAzeTsaQFtosSPZPi4yNN+SEplYfOoiaXXJ59T/LsIi9q43UlCI1OGys0EsyhCkVrdFXAD7kTuoG0FwS2cDtQ6vm/BYeOhJbwJwAKWtAkVCG8FekOhCVHpuvYTBAJeTuYSLIoke4nSGENjmDwGgHXAVTTpvWK0O0MTUDJdCUU7IEaU+aJGqq0FEoV0iLNI3xrm4JMDzb1Gu/AOqGSmw9niWPDblTlIRFySH2UaOuzLKudqakXFlIyTaNgW0p+zhlSePxxWPNPe6Ne3DF9C6JF3YwHSNN2wqJjRUtjVABhBnJJtlYZKdTwN22AYjGyHKPwarM5wFdhXYc1e7FG/c/PF2nm+QysjC85fWpEO6YZZ/n5AI7xmK1X5ipO6/Hxf9L69ZMWeD3LdVjAgPGedi0Qyj22rlb4N3Lr1lRvq+FCD0QSS7jhg4bZ2HGjfKlbarp+Rj74zjp10QlChFVwBA0tgkslv6i0j543jPNryeci1ZYNjz4cw0/Jw0YLez8J/YqeWL3bRJRYfP36YyWO8os1TEyheOwvRw0IiHbh60dL/j6ach5J+aggU/UzmKrfGDJYHx3llIFQj6Oebx1Fu4MI09kLWp80KU4bs/9odO2VftPtFRUtXJmlr7jMfEle5LxjswpfXpv5OiSF7nqowjUfygcGV2w7rxyMpr24Bd8NbIO5ht4Onx/BUA9D4fIsfKgMFh1f96IJ0LD1Dr5OLMh6eLp5+g0=
 ```
+
 **C2**
 
-- Energy Flow and Low Tide are not required.
-- Wait for AI to upgrade Granite Foundation, after that you upgrade granite foundation and shells manually.
+**Made By:** cl1694
 
-By: Fireball
+Wait until granite gets free level (the script restarts when it doesn't)
 
-Post Era
+Upgrade order: granite 50 -> unholy, heartstopper, combustion max
 
 `Import Code`
 ```
-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
+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
 ```
+
 **C3**
 
-No Accel
+**Made By:** yoshi128986
 
-By: Yoshi128986
+No Accel
 
 `Import Code`
 ```
 YzEwLTMgSGFyZDthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYm91bmNlO2F0dGFjay5yYXBpZGZpcmU7c3RlaW5pLmNoYWluZWQuYmFsbDthdHRhY2suYmFzaWM7Y3JpdC5iYXNpYztzcGxhc2guYWR2YW5jZWQ7YnVyc3QubmV1dHJhbDtzaGFyZHMuaWNlO2F0dGFjay5iYXNoO2F0dGFjay5zcGFyazthdXJhLmZyb3N0O2ZvdW5kYXRpb24uYmF0dGVyeTtlbmVyZ3kuYmFzaWM=
 ```
+
 **C4**
 
-No Accel
+**Made By:** yoshi128986
 
-By: Yoshi128986
+No Accel
 
 `Import Code`
 ```
 XZDBTgQhDIZfZTN3iSae5OrBdzAeOtAdmmUKaYvrxPjuYnaIjhfS/+On/cvnNOeGVYhNp6fT6xQe7u8eTy8g0WvqpzoK6MEMwsVpRYxDrC0baSo2wFwa/3pvytVUkOnjH12AYCBaK1rTIQUqxTMJejUkJhcSEGN0M+Tsg5D1SikMf0SwdO1BvJaWXc/8jmrEy82LGYMJBbLteV383EQP0Bv0OQeyN/6L9owHpjWDph+0Ih97zqX0KYzNBPKurmAoex1BLoyqHhll2cZCTcCdpRv8uX9TBKPC/c76w216+/oG
 ```
+
 **C5**
 
-No Accel
-
-By: Yoshi128986
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzEwLTUgSGFyZDthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYm91bmNlO2F0dGFjay5iYXNpYzthdXJhLmZyb3N0O2ZvdW5kYXRpb24uYmF0dGVyeTtnaWZ0LmZvcmVzdDtnaWZ0LmRlc2VydDthdXJhLmNoZWNrZXJib2FyZDtlbmVyZ3kuYmFzaWM7Z2lmdC5uZXV0cmFsO2dpZnQudW5pdmVyc2U7c2hvdC5sdWNreQ==
+VZDBTgQhDIZfxcxdogcv8ijGQ4eWoVkohJbVjfHdZXVnst74/vLRlq9lzYNaZzFdXh/eluenxxeviSmjAzyDBMKDS8scmbqPdQiCcRWHDKUK3kcF+prJd1JWu77gPsCmdRcI2Oj/riD0k5Cqp8+QQLZdOvCmHHwIMDq4Ianmy985EXRTq61N/ze5Dj2LZhBObgXlsIM2mgveoENjjDy7qBELu9mKhXAqOe+/MCTWjCyb59IgmNs6nNkuvoxsrKmaizUMJVzev38A
 ```
+
 **C6**
 
-By: Yoshi128986
+**Made By:** exosol
+
+Low Accel
 
 `Import Code`
 ```
-YzEwLTYgSGFyZDthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYm91bmNlO2F0dGFjay5yYXBpZGZpcmU7c291bC5oYXJ2ZXN0aW5nO3N0aW5nLnBvaXNvbjtjcml0LmZpcmVEbWc7YnVyc3QuZmlyZTt0YXN0ZS5maXJlO2F0dGFjay5maXJlO2F0dGFjay5maXJlYnJlYXRoO2ZpcmUuaW5jaW5lcmF0aW9uO3N0ZWluaS5jaGFpbmVkLmJhbGw7Y3JpdC5iYXNpYzt0b3dlci51bml2ZXJzYWw7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24uZGlhbW9uZDtmb3VuZGF0aW9uLm1hcmJsZTthdXJhLmhlYXJ0c3RvcHBlcjthdXJhLnVuaG9seTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmdlbmVyaWM7cmVzaXN0YW5jZS51bml2ZXJzYWw7cmVzaXN0YW5jZS53YXRlcjtzaGVsbC53YXRlcjtleGNoYW5nZS53YXRlcjtleGNoYW5nZS51bml2ZXJzYWw7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2ZvdW5kYXRpb24ubWFnbWE=
+TVAxbgQhDPzKafugpEkR2hT5Q5TCC2axDswKmz1FUf4edu+4S8XYM57R8DPNqeFaiVWmt9Pn5F6en15PH1C9BVVwZyMr4n3ILSlJLDoWc2nscEwVVvKBKlpZE0g04Dfo/P2e8oraxLpKamYQcla00hlN1zM/hB5B46VH2YWCmq0kB1wGe0T8w3Pd5fbmfqWPiB2958XuryF2xFhBqfC4diXPTY6NxN5aDD3qdHhzHm17J1tCQBba0EQEHxsrcU/oH+EPa5NhyWChVTCNY0nfVxxqEZ2+fv8A
 ```
 
+---
 
 ## Neutral
 
 **C1**
 
-No Accel
-
-By: Yoshi128986
-
-Post Era
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzExLTEgSGFyZDt3YXRlci5leHRpbmd1aXNoO29ic2lkaWFuLmduYXJseTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24ubWFyYmxlO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtleGNoYW5nZS5uZXV0cmFsO2dpZnQub2NlYW47cmVzaXN0YW5jZS5uZXV0cmFsO2F1cmEuaGVhcnRzdG9wcGVy
+TY1BCsMwDAS/UnyvIdf6KaUHJVk7AkcKslwaSv/eQC65DbMM+w1j7diMxVt43J5hGO5D0rHxzCSxCFndU+HsUSeQpKxdZnLWYzQSdlzVEa0q81WtZGNFMhQI7HSGesAbCZ9pISmIgu5G9XzKamieqBvFzLD9xAVk3ly3DRZevz8=
 ```
+
 **C2**
 
-By: Yoshi128986
+**Made By:** microwave4
 
 `Import Code`
 ```
-YzExLTIgSGFyZDtmb3VuZGF0aW9uLm1hcmJsZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3Jlc2lzdGFuY2UubmV1dHJhbDtleGNoYW5nZS5uZXV0cmFsO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYzthdXJhLmhlYXJ0c3RvcHBlcjtzb3VsLmhhcnZlc3Rpbmc7YXR0YWNrLmJhc2lj
+TY5BCsMwDAS/YvwAP6B+SulBtuVE1JGCLAdK6d+b4h5yG4Yd2LdPbeCuxNb9zd09uRUMXVGXR6IMLYIZ5GfIsqXRjYTjQtXCIS0DS6wyuMDPh0WByTAqLsioUyq2Ew68DgvBJlwiDIVQCfU1cfAq7c8rglo32XfUa7uBpobzQxXFbv7x+QI=
 ```
+
 **C3**
 
-No Accel
+**Made By:** yoshi128986
 
-By: Yoshi128986 
+No Accel
 
 `Import Code`
 ```
 YzExLTMgSGFyZDtmb3VuZGF0aW9uLm1hZ21hO2F0dGFjay5iYXNpYzthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYm91bmNlO2F0dGFjay5pbXBldHVzO3N0ZWluaS5jaGFpbmVkLmJhbGw7YXR0YWNrLmZpcmU7ZmlyZS5pbmNpbmVyYXRpb247aW1wZXR1cy5maXJl
 ```
+
 **C4**
 
-By Google HQ
+**Made By:** GoogleHQ
 
 No Accel
 
@@ -744,9 +810,10 @@ No Accel
 ```
 YzExLTUgaGFyZDthdXJhLm1vbnNvb247ZGVmZW5zZS5kZWZpYW5jZTthdXJhLmZyb3N0O2F1cmEuc3Rvcm07Zm91bmRhdGlvbi5tYWdtYTtldmFzaW9uLmJhc2ljO2F0dGFjay5zcGVlZDthdHRhY2suYm91bmNlO2F0dGFjay5tdWx0aXNob3Q7c3BsYXNoLmFkdmFuY2VkO2F0dGFjay5yYXBpZGZpcmU7YXR0YWNrLmltcGV0dXM7YXR0YWNrLmRlYXRod2lzaDtjcml0LmJhc2ljO2ltcGV0dXMuZmlyZTtzcGxhc2guZWxlbWVudC5maXJlO2F0dGFjay5maXJlO2NyaXQuZmlyZURtZztmaXJlLmluY2luZXJhdGlvbjtnaWZ0LnZvbGNhbm8=
 ```
+
 **C5**
 
-By Google HQ
+**Made By:** GoogleHQ
 
 `Import Code`
 ```
@@ -754,32 +821,33 @@ YzExLTUgaGFyZDthdXJhLm1vbnNvb247ZGVmZW5zZS5kZWZpYW5jZTthdXJhLmZyb3N0O2F1cmEuc3Rv
 ```
 **C6**
 
-By Google HQ
+**Made By:** GoogleHQ
 
 `Import Code`
 ```
 YzExLTUgaGFyZDthdXJhLm1vbnNvb247ZGVmZW5zZS5kZWZpYW5jZTthdXJhLmZyb3N0O2F1cmEuc3Rvcm07Zm91bmRhdGlvbi5tYWdtYTtldmFzaW9uLmJhc2ljO2F0dGFjay5zcGVlZDthdHRhY2suYm91bmNlO2F0dGFjay5tdWx0aXNob3Q7c3BsYXNoLmFkdmFuY2VkO2F0dGFjay5yYXBpZGZpcmU7YXR0YWNrLmltcGV0dXM7YXR0YWNrLmRlYXRod2lzaDtjcml0LmJhc2ljO2ltcGV0dXMuZmlyZTtzcGxhc2guZWxlbWVudC5maXJlO2F0dGFjay5maXJlO2NyaXQuZmlyZURtZztmaXJlLmluY2luZXJhdGlvbjtnaWZ0LnZvbGNhbm8=
 ```
 
+---
 
 ## Dark_Realm
 
 **C1**
 
-Post Era
-
-By: Yoshi128986
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzEyLTEgSGFyZDtzaGllbGQuZGl2aXNpb247cmVmbGVjdC53aW5jZTtkZWZlbnNlLmJ1bHdhcms7c2hlbGwuZWFydGg7c2hlbGwuZGFya25lc3M7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtleGNoYW5nZS5kYXJrbmVzczt0b3dlci51bml2ZXJzYWw=
+TY0xDgIxDAS/gtIT6SjxUxCF77J3F2Ec5DikQPydSFDQjUar2VeYpeFhWb2G8+ESptNxorU0Tey5aNyMNTv+Vcp8L5rIsEFhX2mQAU9Q3SESweb7jxPbTVErJazQijg36cORsjfDuCh9jA2rYPHYsy4gLx0Wm46kVZZwfX8A
 ```
 
-Slower No WINCE solution
+**Alternative solution.**
+
+**Made By:** yoshi128986
+
+No WINCE solution
 
 Post Era
-
-By: Yoshi128986
 
 `Import Code`
 ```
@@ -788,119 +856,120 @@ TU5LDsIgEL1Kw16SupSjGBdTGOik/DKApjHeXWzEuJv3nfcUi2+YmWIt4jJdhZ7Pp3lagc0U0/SgqFHZ
 
 **C2**
 
-By Yoshi128986
+**Made By:** Yoshi128986
 
 `Import Code`
 ```
 YzEyLTIgSGFyZDtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZGFya25lc3M7cmVzaXN0YW5jZS5nZW5lcmljO3Jlc2lzdGFuY2UuZWxlbWVudGFsO2V4Y2hhbmdlLmVhcnRoO2V4Y2hhbmdlLmRhcmtuZXNzO2V4Y2hhbmdlLnVuaXZlcnNhbDtmb3VuZGF0aW9uLm1hcmJsZTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2dpZnQub2NlYW47c2hpZWxkLmZyb3N0O2RlZmVuc2UuYnVsbGV0cHJvb2Y7c2hlbGwuZWFydGg7c2hlbGwuZGFya25lc3M7YXVyYS5oZWFydHN0b3BwZXI7ZXZhc2lvbi5iYXNpYztyZWdlbmVyYXRpb24ucmVsYXRpdmU7cmVzaXN0YW5jZS51bml2ZXJzYWw7Zm91bmRhdGlvbi5zdGVlbA==
 ```
+
 **C3**
 
-Spam Ivy
-
-By: Yoshi128986
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzEyLTMgSGFyZDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtyZXNpc3RhbmNlLmZpcmU7cmVzaXN0YW5jZS5lYXJ0aDtyZXNpc3RhbmNlLmRhcmtuZXNzO3NoZWxsLmZpcmU7c2hlbGwuZWFydGg7c2hlbGwuZGFya25lc3M7c3BlbGwudG94aWNpdnk=
+Tc1BCsIwEIXhq0j2BtSdOYq4mDaTZmg6CTMTQcS7a2kFdx8/PN7LDaVjE2JTdz3c3Ol8vIRUO0cwquwnASbD/xQJlsoxCE7IKFsULF88MGjGUnwi+RFBLO+OIDOjaoAu4DvnWp6bE6HszOtCrbaGEsAMxtmPdRm6rk/u/v4A
 ```
+
 **C4**
 
-No Accel
-
-By: Yoshi128986 
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzEyLTQgSGFyZDthdHRhY2subXVsdGlzaG90O2F0dGFjay5ib3VuY2U7YXR0YWNrLmJhc2ljO2F0dGFjay5zcGVlZDthdXJhLmZyb3N0O2dpZnQuZm9yZXN0O2dpZnQuZGVzZXJ0O2F1cmEuY2hlY2tlcmJvYXJkO2ZvdW5kYXRpb24uYmF0dGVyeTthdXJhLm1vbnNvb247c2hvdC5sdWNreTtnaWZ0Lm5ldXRyYWw7Z2lmdC51bml2ZXJzZTtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kucmVjeWNsaW5nO3NwZWxsLnJlc3BvbnNlLm5ldXRyYWw7ZW5lcmd5LnN1bjt0aWRlLmhpZ2g7Z2lmdC5oZWF2ZW4=
+rVZdctsgEL5KRs+tRrLdNFM1/TtD3uo8IFgwYwQaWOy6mdyld+nFugjbsV116mn1gsXux7fLx7L4qWhNhN5ri6F4d/O1qGevF4100QqG2tlSaNY5K05NLUMEv2tY9KyU3gVsQg/GEDb9NkpLLKXzQI7hW0AAjw0tY3xNy4PmhwktAHH0UAwOTWDca6k5lIL5dSNAgg1QttFs05x1vSE3+NJCRM9M00WDOqxcispjIMK11WqFZe+24Buw4NVuH3c/8aDS17Ch4vHVTREoZp81eCoYT/YsyDJWVSWDk0jRoUSnlIFly8mPzOLgXqSxro8gFtGFte4vYHUeCwp3PevsCNqyDYTo1SUu01b/RYvOd1PQzs9oN84jfJuC9/aMF6yg2qNamYJ6cUa9cl5/d3Z6LVoPjK+m4L07grSV2mrcTZj07UVdUNadtioXOHddz7wOqS+42BJFMr9RrMvwz5yD2d+qMfaqfn9hnucc/zK2n46byPdW81I5dFpe0M2WcpxkLHeJqT2UK2AGxw+mnnATP398PGyifpsjd05EAyV1LP3CVt8Ncu59qRNt0kGL3+5RTgbOu+XVOg2YP+QKJ1rpfVaLnHIbpQzUeBVLeY1mNLu/H402osnUgsjTd+hqKXDKkqnGS+bDP9X9qVTpkWqjUID0LNVVRVNiFPr8parng1g6PKREH+gC0+Ud1uqujyZAhm7ZGmKfFBrgFrY+ve8D0JKFQMM/gYTo6WlmajClKR3Ol0Ma6CM8Pz7/Ag==
 ```
+
 **C5**
 
-No Accel
-
-By: Yoshi128986
+**Made By:** blueturbo47
 
 `Import Code`
 ```
-YzEyLTUgSGFyZDthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYm91bmNlO2F0dGFjay5yYXBpZGZpcmU7c3RlaW5pLmNoYWluZWQuYmFsbDthdHRhY2suYmFzaWM7Y3JpdC5iYXNpYztjcml0Lm5ldXRyYWxEbWc7c3BsYXNoLmFkdmFuY2VkO2J1cnN0Lm5ldXRyYWw7c2hhcmRzLmljZTthdHRhY2suYmFzaDthdHRhY2suc3Bhcms7dGFzdGUubmV1dHJhbDtzcGxhc2guYmFzaWM7YXVyYS5mcm9zdDthdXJhLmNoZWNrZXJib2FyZDtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3Jlc2lzdGFuY2Uud2F0ZXI7Z2lmdC5uZXV0cmFs
+zVTJbtswEP2VQOeGkLK0RQX00N+IcxiRI2oQikNwsWME+feSWupaMIoGyMEXgrO9eZwB31vVmYTOk42h+nHzVDV3t49tcGiM2DOpNgyERolkaY8+gGlDhNGhQqEZYlhSe/IYIvtxsSO/kqT9sUWLXh9FB4HkanjU5QaR2K6+3vDhFJdHacjq1THyKTEku/TIHR3bgMJiij4z09RH0SHIoe05WTU1ENqDpYh/u0bwnTnzKIKRrVqQD+CVCAPLl0Jigu25PLB6/nJTBenJzdN6q0CW+nl0u1TXzffIB/SZskoGRQroOFDJmaMaRlyDpXaPgqzC110nM0wEG0te/TCd/Wa4m6TH6az//6wy+08niecbv0aOzf2FvV4dUXv6dVfHbV702c//NI7fthzpBPvBPX+9rAxrq3oWHpL5BZGp32Dc/Ytw00geHXgKRS44ZQHZ9TPzAcHEYQPWLKWXJtn83LjvPzy8IkRdUhpjlp7bJlsZUNEfMSpxGl0yAWdxmuZo8eCL6E3lNntyaFL8MiEH8gX05CpmXsSvtUH0Cd+f338D
 ```
+
 **C6**
 
-By: Yoshi128986 
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzEyLTYgSGFyZDthdHRhY2suc3BlZWQ7ZmlyZS5pbmNpbmVyYXRpb247c3RlaW5pLmNoYWluZWQuYmFsbDthdHRhY2suZmlyZTtzb3VsLmhhcnZlc3Rpbmc7ZW5lcmd5LmJhc2ljO2ZvdW5kYXRpb24uZ3Jhbml0ZTtyZXNpc3RhbmNlLndhdGVyO3NoZWxsLndhdGVyO2V4Y2hhbmdlLndhdGVyO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLm1hZ21hO3Jlc2lzdGFuY2UuZWFydGg7cmVzaXN0YW5jZS5uYXR1cmU7cmVzaXN0YW5jZS5kYXJrbmVzcztzaGVsbC5lYXJ0aDtzaGVsbC5uYXR1cmU7c2hlbGwuZGFya25lc3M7Zm91bmRhdGlvbi5iYXR0ZXJ5O2RlZmVuc2Uuc3RyaWtlYmFjaw==
+bZDBasNADER/pfjehfbQQ/ZTQg7y7tgW3ihGkltMyb9nTTbgQ24zD2YY6b/ry4pFWdy608e5+/r+/IkQ6LiFnoxTHG6rZHK+SRiVhB1H1JM7dIuKcU89oaJU8YuYMUAMwVx5Rk9pjjahlPBHNdU0SH1qWshXRTOZdBaY1XJjc5KEFjyAZ/oAWsWBvOtBwRXiVGI9oO7aQaorE/v2QrYA+WWUFs4D7+McLBzSRCzI9QOlxJEHD1fUvsJJVxbrLvcH
 ```
 
+---
 
 ## Heaven
 
 **C1**
 
-Spam Ivy
-
-By: Yoshi128986
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzEzLTEgSGFyZDtib3JmO3NoaWVsZC5kaXZpc2lvbjtyZWZsZWN0LndpbmNlO3NwZWxsLnRveGljaXZ5O2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2dpZnQub2NlYW47cmVzaXN0YW5jZS5haXI7cmVzaXN0YW5jZS5saWdodDtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmdlbmVyaWM7c2hlbGwuYWlyO3NoZWxsLmxpZ2h0O2V4Y2hhbmdlLmFpcjtleGNoYW5nZS5saWdodDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztlbmVyZ3kucmVjeWNsaW5n
+ZYtBCsIwEEWvItlbKO7MUcTF1Pw0wemkTCZqEe9uoQsL7t5/n/d2AzfMmsWqOx8urj8dex9Lk0CWi3SjkmTDXoVMU5HgFSMEukkFr/CAx+uWSEZ0lPU3OI/J1qLmaiS37d3Nvx+MCWLEPiBCKrqhMcNmLSV6akpdk1R42TiB1KqVeYZuJmboso+fpHd3/XwB
 ```
+
 **C2**
 
-Spam Something
-
-By: elmaradon
+**Made By:** cl1694
 
 `Import Code`
 ```
-QzEzLTIgSE07ZGVmZW5zZS5kYWlnb3BhcnJ5O2dpZnQuY2hhb3M7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24uZGlhbW9uZDtyZWdlbmVyYXRpb24ucmVsYXRpdmU7c2hlbGwubGlnaHQ7c2hlbGwud2F0ZXI7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247ZW5lcmd5LmZsb3c7ZW5lcmd5LnJlY3ljbGluZztlbmVyZ3kubW9vbjtlbmVyZ3kuc3VuO2dpZnQuZGFya3JlYWxtO2dpZnQuaGVhdmVuO3RpZGUuaGlnaDtzcGVsbC5zb21ldGhpbmc=
+TY/BTsQwEEN/BfVOJOBGPgVxmCRuMtrstJpMu1SIf2cQXcHNtp4s+3NKfcOqLDam14e36enl8TnOyyaFjBcJhem6SPkfJTKDHlFRIdDfUNFd7Ij4yI2kItzIqT/buTaLqWMMluq9OwviMLBwcMZd8ere41g7jRao7CQZJRo5FUBq7dTEeioh2xR3pCObcmY7om+kfAljhTecRmnlMrPzZ3DduvFoi92D5C8zYsEMGQhp6zfSS/y5WQ9fNzhP71/f
 ```
+
 **C3**
 
-No Accel
-
-By: fireball
-
-If you're using this for Normal Mode, you will need to disable Basic, Water, Air and Light resistances in Town Stats.
+**Made By:** cl1694
 
 `Import Code`
 ```
-NchBCgIxDAXQqwzdW5DZ2Qt4B3ER2982GDKSZpyFeHcH1N3jvcJNVjyM1Uc4TZeQj/Nhns5kJZE75XssIO8bj55Gh0gktp82cvwt3LqnuqxayHnR2IyUHcnQoLBvGmTHE6mgQgf2qILs4fr+AA==
+TY7BCsIwEER/RXI3IL2ZTxEP22RNgukmbDZaEf/dltTi7c3wBuatxtSwcCSp6ny4qNNwHMwtN3IgMZP2DBQF/ysXYcrkDKNHQu4lY1rggaYGTEk/QZA3hvijFH0Qg7MNQB43aY+rt4euQmPQjUJOr84BgaVKLmVZggjYu7Z5GltdX6jr5ws=
 ```
+
 **C4**
 
-By: Yoshi128986
+**Made By:** cl1694
+
+Use Dark Sacrifice twice
 
 `Import Code`
 ```
-YzEzLTQgSGFyZDtyZWZsZWN0LndpbmNlO3Jlc2lzdGFuY2UuZ2VuZXJpYztmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtnaWZ0Lm9jZWFuO3NoZWxsLmxpZ2h0O3NoZWxsLmRhcmtuZXNzO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UubGlnaHQ7cmVzaXN0YW5jZS5kYXJrbmVzcw==
+PY7BCsIwEER/RXo3IHoynyIeNsmkXRq3JbtRRPx3K9reZh87w3t1oTTMlcW0O+8u3eG4P/lQoMrSu8R3FngjNbjC/WD/nKiOsjx5MqM4Op2BtB6VZk6ZK1Zwa8VYh8lWEKYmEV4pVs4cf3s+LzSR8SSuryRs8AkZonBqlUeEpet1QCl/mV/eZCCo/dMFUo5bNbTy+K5vEi5PsSlSd31/AA==
 ```
+
 **C5**
 
-No Accel
+**Made By:** yoshi128986
 
-By: Yoshi128986
+No Accel
 
 `Import Code`
 ```
 YzEzLTUgSGFyZDthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2suYm91bmNlO2F0dGFjay5yYXBpZGZpcmU7c3RlaW5pLmNoYWluZWQuYmFsbDthdHRhY2suYmFzaWM7Y3JpdC5iYXNpYztjcml0Lm5ldXRyYWxEbWc7c3BsYXNoLmFkdmFuY2VkO2J1cnN0Lm5ldXRyYWw7c2hhcmRzLmljZTthdHRhY2suYmFzaDthdHRhY2suc3Bhcms7YXVyYS5mcm9zdDtnaWZ0Lm5ldXRyYWw=
 ```
+
 **C6**
 
-No Accel
+**Made By:** yoshi128986
 
-By: Yoshi128986
+No Accel
 
 `Import Code`
 ```
 XZDBTgQhDIZfZTN3iSae5OrBdzAeOtAdmmUKaYvrxPjuYnaIjhfS/+On/cvnNOeGVYhNp6fT6xQe7u8eTy8g0WvqpzoK6MEMwsVpRYxDrC0baSo2wFwa/3pvytVUkOnjH12AYCBaK1rTIQUqxTMJejUkJhcSEGN0M+Tsg5D1SikMf0SwdO1BvJaWXc/8jmrEy82LGYMJBbLteV383EQP0Bv0OQeyN/6L9owHpjWDph+0Ih97zqX0KYzNBPKurmAoex1BLoyqHhll2cZCTcCdpRv8uX9TBKPC/c76w216+/oG
 ```
 
+---
 
 ## Universe
 
 **C1**
+
+**Made By:** yoshi128986
 
 Use Dark Sacrifice twice
 
@@ -908,29 +977,27 @@ No Accel
 
 Probably luck based
 
-By: Yoshi128986
-
 Post Era
 
 `Import Code`
 ```
 YzE0LTEgSGFyZDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtmb3VuZGF0aW9uLmJhdHRlcnk7YXVyYS5mcm9zdDtnaWZ0LmZvcmVzdDthbXBsaWZpZXIubmV1dHJhbDtkZWZlbnNlLmJ1bHdhcms7Z2lmdC51bml2ZXJzZTthdHRhY2suYmFzaWM7Y3JpdC5uZXV0cmFsRG1nO2J1cnN0Lm5ldXRyYWw7c3BsYXNoLmFkdmFuY2VkO3NhY3JpZmljZS5kYXJrO2F0dGFjay5zcGVlZDthdHRhY2subXVsdGlzaG90O2F0dGFjay5ib3VuY2U7c2hhcmRzLmljZTtjcml0LmJhc2ljO2F0dGFjay5pbXBldHVzO2F0dGFjay5zcGFyazthdHRhY2suYmFzaDtzdHJpa2UucGxhbm5lZDthdHRhY2sucmFwaWRmaXJlO3Rhc3RlLm5ldXRyYWw7Y3JpdC51bml2ZXJzYWw=
 ```
+
 **C2**
 
-Spam Simple Heal
-
-By: Yoshi128986 
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzE0LTIgSGFyZCBBZ2FpbjtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztlbmVyZ3kucmVjeWNsaW5nO2VuZXJneS5tb29uO2VuZXJneS5zdW47Z2lmdC5qdW5nbGU7dGlkZS5oaWdoO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5tYXJibGU7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2dpZnQub2NlYW47cmVzaXN0YW5jZS5saWdodDtyZXNpc3RhbmNlLmRhcmtuZXNzO3Jlc2lzdGFuY2UudW5pdmVyc2FsO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYztzaGVsbC5saWdodDtzaGVsbC5kYXJrbmVzcztkZWZlbnNlLmhlYXR3YXZlO3NwZWxsLnNpbXBsZWhlYWw7YXVyYS51bmhvbHk7Zm91bmRhdGlvbi5tYWdtYQ==
+VVBBTsNADPwKyp1IIE7sUxAHZ3eSrOrYke1QEOLvbJuoak8ejz32aH67gTesViW8e3/66F7enl/TqJsUiqrST0ZSA/fUQjbwA1MqLSolTXWMXjNIkmGCwPa5gRv4QvIZzD3XaY4DF7KTwD3hO88kE/pN2qY5cbvh1YMk45DcETfdHQfGAolH5dVGzbu3AodFwhf5xdfQSk4Daz4dH3Z8O14wQhz9sDEjVlMdm+8KLv1o6pFoM2qOZ+WfHc8gCw9dV9jOjBV2DM9zNT7XltS1bZm5qiSKoPY16zJsfgms+/z7Bw==
 ```
+
 **C3**
 
-No Accel
+**Made By:** yoshi128986
 
-By: Yoshi128986 
+No Accel
 
 Post Era
 
@@ -938,41 +1005,46 @@ Post Era
 ```
 YzE0LTMgSGFyZDtzaGFyZHMuaWNlO2F0dGFjay5pY2VicmVhdGg7YXR0YWNrLnNwZWVkO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTthdHRhY2suYm91bmNlLnBob2VuaXg7YXR0YWNrLmJvdW5jZS5nYWlhO2F0dGFjay5pbXBldHVzO2F0dGFjay5yYXBpZGZpcmU7ZWxlY3RyaWNpdHkucmVsYXk7c3RlaW5pLmNoYWluZWQuYmFsbDtjcml0LmJhc2ljO3NwbGFzaC5mcm9zdDthdHRhY2suZGVhdGh3aXNoO3NvdWwuaGFydmVzdGluZztjcml0Lm5ldXRyYWxEbWc7YnVyc3QubmV1dHJhbDt0YXN0ZS5uZXV0cmFsO2F0dGFjay5iYXNpYztzcGxhc2guYmFzaWM7c3BsYXNoLmFkdmFuY2VkO2F0dGFjay5zcGFyazthdHRhY2suYmFzaDtnaWZ0Lm5ldXRyYWw7a25pZ2h0LnBvd2VyO2VuZXJneS5iYXNpYzthdXJhLmZyb3N0O2ZvdW5kYXRpb24uYmF0dGVyeTthdXJhLnN0b3JtO2RlZmVuc2UuZGVmaWFuY2U=
 ```
+
 **C4**
 
-No Accel
-
-By: Yoshi128986 
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzE0LTQgSGFyZDtzaGFyZHMuaWNlO2F0dGFjay5zcGVlZDthdHRhY2subXVsdGlzaG90O2F0dGFjay5ib3VuY2U7YXR0YWNrLmltcGV0dXM7YXR0YWNrLnJhcGlkZmlyZTtzdGVpbmkuY2hhaW5lZC5iYWxsO2F0dGFjay5iYXNpYzthdHRhY2suYmFzaDtnaWZ0Lm5ldXRyYWw7Z2lmdC51bml2ZXJzZTtlbmVyZ3kuYmFzaWM7Z2lmdC5oZWF2ZW47YXVyYS5mcm9zdDtmb3VuZGF0aW9uLmJhdHRlcnk7Z2lmdC5mb3Jlc3Q7Z2lmdC5kZXNlcnQ7YXVyYS5jaGVja2VyYm9hcmQ=
+nVLBTsMwDP2VqWeoWjZxoBJIfMM4sR3c1MmipUmVOCvStM/hS/gxnBQGVENC9GDVzy/PL3aORWsiDl5bCsXd4rmoV9erRrpoOyDtbKk8WE3YKC2pdALBNh4VWvRT3aPhnwM2HUq0ARmQBgU1+CJ2YBWWoP1XYjGSB3Nmt9GM4PfF9mpRBOH1MNk4FiCS/ORpE6uqksFJYi6W5JQyuGkF1wks5fIqxfr2TBrhgIE8Qq+tyrVauH4ArwO77lxsWUKSG9GXOwRDu5lg/REvtKnq+xm8fMrf2+tDwRfJ0DQkLUrlyGk5O3DzrUc1j/+zWv3R6uWev8e8mzZ2Com3UXHCep3+uZ56qaDHUod1srnm0fPY80ndD9EEnKgj7DEOaUaZbnH06allomWESfkFJsYAYg8qQymNAR8/TUhgxdP29A4=
 ```
+
 **C5**
 
-Upgrade Granite first, then upgrade division shield and wince, after granite is at a good level you can activate acceleration
+**Made By:** cl1694
 
-By: Yoshi128986 
+T20+ utility module is recommended
+
+It even works with T5 utility, but you need to manually upgrade granite whenever possible
 
 `Import Code`
 ```
-YzE0LTUgSGFyZDtib251cy5vZmZlbnNpdmU7Ym9udXMuZGVmZW5zaXZlO3JlZmxlY3Qud2luY2U7c2hpZWxkLmRpdmlzaW9uO2NhdC5wb3dlcjtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZQ==
+7VjLbtNAFP2VyEIVAmLstIGqgYJY9AuyIxUa29fOqPaMNY8G1HYDYt09X9ENK3bJjzGPhjrOOC8SlEpkMfFc3zlz59zHzPjKi3IJJcNEcO+k9dELj9rdXkSJ5H4CKRCOL6EHBFj2xY8Qx/G0wyDTT0hgSnq8hDxXIl5SwsEnIAVDeS+lkiRGw88YIlhAVVQgFuXQqwIpiFw9qCktYooVpqCs8M5ftDweM1xaO688FOsB1uiBDIIwNDA49kcIC0kEzrU4SGNalIhhrtAjSq0QKkK1dDO+k6ECfIVRYOB+rOwUgyhWUwhkNYIj04anNXHnk/kLZlrXyM71tbW0MntCpSJhkAo6AuYPAeViWBscLoJ887YmP3QYs7D1FLPGrNfWhoImMgdfcsAPsOGxYef+neb+EhRzCXx2mRW+cgfEn6nW8JWLLWGMEbgANymnG5Hy5P1j81o6pTGjgtajchAt8HWQ0xjl9+vwOTSEer9C9bacZ8RKJIYFCIWymk/DtsPurNnuhsxtmLzmDPub/HrnhnlptXAnmeNct93/5WB35aChntuw0P3moDhb5IW1wrc7Q02stBM6ItsjZle+deMeHCwJQ7vjO8Mw3GYBnty5E27PE+Vvo3fXURaktcPU4wkvN+TKdXyxueMf4zv3lh8+X3GCybfJz6eDwfh28nXyvWG3eGawgupa1dHX7ak9j/Tj+pZQUo71MXz7QenaRDdIx5Shh5PLzDbReOY5cyfqGtXPRvzOdqrtXl6W8RlA9ZCJ07nxogHhH1y8tlyI1s6tOYs2Tq2lLC/IiT1bkb6pRzJRwa3u5u1Q9RRggmu39UPjdMz72s6+KgGYZGYoLkqZc7CqI3QBstQkGXUCI6a/HxhFojP7pGW+WGiNEsUXKDMi3VXV6cPUCsEk3Jzf/AY=
 ```
 **C6**
 
-No Accel
+**Made By:** blueturbo47
 
-By: Yoshi128986
+No Accel
 
 `Import Code`
 ```
-XZBBSgQxEEWvMvTegCAuzNaFdxAX1Ul1UnQ6CVWVVhHvbpyezKCbUO/z+TzyNc2pYWXKKtPT6XVy9w93j6cXYG8l9lcMObSgCm41UhH9gK0lJYlFRzCXlm/dg0yNBTN9/EsDEIyItoraZCBDJb8QoxVFymRcBMrozQwpWcek/RJyo+8RNL53ESulJdOddxSlHI5uxqYM6XkLdm4s18Aq9P0rDb3zstQEEv8C+B26ubdzKX3lLHiciULUy+2B14wiF2yZdmTp+7//ZFJz66cNtNwsoDGYhXt5evv+AQ==
+zVTLbsIwEPwVlHOxkpbSqpF66G8UDo69Mas668gPHkL8e+2EQIlQVSQOvVjeWXt2Mt7NPqt0gNYieZe9TT6zYjadl64FrdnaoCzdCkFLFgjXYB3Xx5w3WxS43h3DGi04b2xTAoFVO1Zxh2IILKi04x4NDVhjznsX6MgTWVpDDhhB8DZWOzGIndBIagBqbTZlbQLJjpUpywk9/IQabit9gUjkjSFZKqw9q02S3O8lOLC+hK1YcVKn6tnyYZI5YbHtzdlnXCSi3qlFyPPi1ZsN2Pg1MmhgwUFrHKYzfVbxBoZkursGhiRhu6hEpPGcfDqXzxZ0tnyUe+7W/O9rFkXfVVta69E7/0uRcNmbd9P4MtaIZ9rbJBbz630+lMr7SUHBlPEG6xHH42+Ci0KYpuUWXWp1E2LzL+pe+Qq49qsRWXG8es3J4n0EP91sXpqdKkgFPk7LtIhRJJR4mp+Ux6YN2kE/T52PBBubBra7ThGJqe6flBxqufjiqoNSGB/iYyjgbYDD8vAN
 ```
 
+---
 
 ## Chaos
 
 **C1**
+
+**Made By:** yoshi128986
 
 No Accel or 3x speed
 
@@ -984,52 +1056,52 @@ Don't spam dark sacrifice
 ```
 YzE1LTEgSGFyZCBXaHk7YXR0YWNrLnNwZWVkO2F0dGFjay5yYXBpZGZpcmU7aW5maW5pdHkuYXR0YWNrLnNwZWVkO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJvdW5jZTthdHRhY2suaW5maW5pdHk7aW5maW5pdHkuaW1wZXR1czthdHRhY2suaW1wZXR1cztjcml0LmJhc2ljO2F0dGFjay5iYXNoO2F0dGFjay5zcGFyazthdHRhY2suYm91bmNlLnBob2VuaXg7YXR0YWNrLmJvdW5jZS5nYWlhO3NhY3JpZmljZS5kYXJrO2ltcGV0dXMuZmlyZTthdHRhY2suZmlyZTtzeW5lcmd5LnN1bjtlbGVjdHJpY2l0eS5yZWxheTtmaXJlLmluY2luZXJhdGlvbjtpbXBldHVzLmVsZWN0cmljaXR5O2dpZnQudm9sY2FubztnaWZ0Lm1ldGFsbGljcnVpbnM7ZGVmZW5zZS5idWx3YXJrO2VuZXJneS5iYXNpYztlbmVyZ3kucmVnZW5lcmF0aW9uO2ZvdW5kYXRpb24uYmF0dGVyeTthdXJhLmZyb3N0O2ZvdW5kYXRpb24ubWFnbWE7Z2lmdC5mb3Jlc3Q7dG93ZXIuYWJzb2x1dGUuemVybw==
 ```
+
 **C2**
 
-By: BudEBoy (he was the original person to make the bp, before challenges)
+**Made By:** BudEBoy (he was the original person to make the bp, before challenges)
 
 `Import Code`
 ```
 MTUtMiBIYXJkO3NoaWVsZC51bml2ZXJzYWw7ZGVmZW5zZS5yZWZsZWN0
 ```
+
 **C3**
 
-No Accel
+**Made By:** cl1694
 
-By: fireball
+Use Dark Sacrifice twice
+
+No Accel
 
 `Import Code`
 ```
-PY/BasMwDIZfpeQ+wxi7zNce+g5jB8VWYhFHMZLcUkbfvYKQHL9f+tCv/2GsHZsQmw4/l98hfX5/fF1uIDmCGaQljKCUDtCGeE4EGuWJBI9g7dVIy2anu3VOGLVV0BIg38Hx9GltaF0PzAhWHu5HNaEFg1vMvm6ghoGxm0CNScgOuK7zzntJXyOmkAqQex7WGrX4LxrIa8w0neYOnemOohgnL5rBaGO3zFCeEbpAmGRTi8go83M/Mvy93g==
+PY/BCsIwEER/RXo3IOLFfIp42CaTdjFNw+4GEfHfrdZ6m7fLzDDPrs8NVbiYdufdpTuc9kdPZhRuriflsIFWIG4gVDkmFmyHqWVjHWf7e+dWArxSEE4c4CLJzauBC7swEhfEpSDnzcBThTX1EQlF4fqW7x8LTTUvCRBX0Ewo+4GT/SEtPZGM57KkmUEe6z/NArVVRyjEPApkePxW/UAwfNQ3oLu+3g==
 ```
+
 **C4**
 
-By: Yoshi128986
+**Made By:** cl1694
 
 `Import Code`
 ```
-YzE1LTQgSGFyZDtyZWZsZWN0LndpbmNlO3Jlc2lzdGFuY2UubmV1dHJhbDtyZXNpc3RhbmNlLmZpcmU7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuYWlyO3Jlc2lzdGFuY2UubmF0dXJlO3Jlc2lzdGFuY2UubGlnaHQ7cmVzaXN0YW5jZS5kYXJrbmVzcztyZXNpc3RhbmNlLmVsZWN0cmljaXR5O3Jlc2lzdGFuY2UudW5pdmVyc2FsO3Jlc2lzdGFuY2UuZWxlbWVudGFsO3Jlc2lzdGFuY2UuZ2VuZXJpYztmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2ZvdW5kYXRpb24ubWFyYmxlO3NoZWxsLmZpcmU7c2hlbGwud2F0ZXI7c2hlbGwuZWFydGg7c2hlbGwuYWlyO3NoZWxsLm5hdHVyZTtzaGVsbC5saWdodDtzaGVsbC5kYXJrbmVzcztzaGVsbC5lbGVjdHJpY2l0eTtyZWdlbmVyYXRpb24ucmVsYXRpdmU=
+Tc2xCgIxEIThV5H0BgRtzKOIxZ6Z5IJxN2w2HiK+uwdnYffxTzFvN9WBpoWtu/Pu4g6n/TEkGRzJirDPSlwM/ykWegjHkEsyLzcQB0UGQ7ddUVc8EWgo+cGz1NfmVKA/ziC1btIaNEQkcIefRl1I74HJhmL9lsVmd/18AQ==
 ```
+
 **C5**
 
-No Accel
-
-You need to disable damage multipliers for normal mode
-
-By: fireball
+**Made By:** cl1694
 
 `Import Code`
 ```
-XZA9bsMwDIWvEnivgA5ZqrVD71B0oCXaIqxIAn+cBkXvXjeGkqYLwe/xgXrU1zBmw8ZUVIaXw/sQno9Px8MbcPSStiqOAnpQhbA4aYixw1itBHQtVSz0+U+dgaBLJ8tKkqo+ejrRqaGadGRoFCdi9IFJ3QhCoc8igqbztstLtey2fCuKUpl3b0FThvx6mv1oLDfBK4jijXqK62ZpGSQ9AsQVtoDxjzPdvwB48b/XuGxhufiZpvtDV7BCK7JsBxqDm7iK7oOpMvY+oiDrbkkIrKK1NeRdsZJqvgwf3z8=
+TchBCgIxDAXQq0j3FlzMxh5FXGTo70yxJiVNFBm8u8K4cPd4W5ibo2tlG+F8uITTdJxSEedMVoXjosTV8F+50l04J8UChu6paF88kMiVovMq7bW7VOiPK0htmPQOTRkFPBBnb0/SW7i+Pw==
 ```
+
 **C6**
 
-No Accel
-
-By: fireball
+**Made By:** cl1694
 
 `Import Code`
 ```
-PY8xbsMwDEWvEnivgA7tUK0ZcoeiAy3RFmGZFkgqQVDk7iFg2OP75AM//4exdmxCbDr8XH6H9Pn18X25geQIZpCWMIJSOkAb4jkRaJQnEjyCtVcjLZud7tY5YdRWQUuAfAfH06e1oXU9MCNYebgf1YQWDG4x+7qBGgbGbgI1JiE74LrOO+8lfY2YQipA7nlYa9Tiv2ggrzHTdJo7dKY7imKcvGgGo43dMkN5RugCYZJNLSKjzM/9yPD3egM=
+1VVJctUwEL1KyksGlZ3kM5kCig0XyI5k0ZZaturLkktDnPCTHRfhAhwiXIy2HFeM8U8xhAUbldVqvX6vu93aZZWO2Dllgs9eHXzMis3TZ6W00QgIyhomFLTWiLmpdmBUwLJWMjDLEUzp0CsfwHBkUPkSogMmnfVh/GwQXPDBdh26ua8AtzXofYkGXX3JKvCKTxuH9fCVYt7Z+CXXytSTobV0mIhUCLwpPXCnpLrFLn2HWrM26qB8Y4lNCMC3zECIRCPYSFcqTQwIkqSeK0OyrK01MmUkZYZYlgIlGo+siron0OzsyUHmKUw3pmyXAR84jvk7jXlePA+2R0fkRCSk6FGZQXFIhy9qaHE6G66eD8EEXpxW3N755cfJO1/SySj6AwfJ5SJPU4x8LIHirLbBKrm4fDhb859WyW3bgVOeWqayVidexcwobKTcJ/PmBy2cvIXtzUOka1Vv8WZhPtqjYf+6Bnt4dbVPpBwFjl27uFzcA1m8HhEJLTQtBirFLeIfCHj5bj3G41+MsUt+xzdfP3z78unm89t1tEdjIeaCWQsX/6Bv/4OfY7Nei3tahGalDs3vtMhfN3OaaFUUNQaaYTltCE+oxVA7SllT/mSgeULTk2ZmuqnaLmqPo2sPW4zdkKPkbrB3w8uRHA1ZyCm9MYNHR7MY6mQatlSl9xMJCYR4fXb9HQ==
 ```
-
