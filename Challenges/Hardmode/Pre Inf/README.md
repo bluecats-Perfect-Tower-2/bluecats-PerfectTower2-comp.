@@ -856,13 +856,22 @@ TU5LDsIgEL1Kw16SupSjGBdTGOik/DKApjHeXWzEuJv3nfcUi2+YmWIt4jJdhZ7Pp3lagc0U0/SgqFHZ
 
 **C2**
 
-**Made By:** Yoshi128986
+Use provided AI
+
+Slow, will need many attempts before a good run
+
+Requires Rak's Curse
+
+**Made By:** yoshi128986
 
 `Import Code`
 ```
-YzEyLTIgSGFyZDtyZXNpc3RhbmNlLmVhcnRoO3Jlc2lzdGFuY2UuZGFya25lc3M7cmVzaXN0YW5jZS5nZW5lcmljO3Jlc2lzdGFuY2UuZWxlbWVudGFsO2V4Y2hhbmdlLmVhcnRoO2V4Y2hhbmdlLmRhcmtuZXNzO2V4Y2hhbmdlLnVuaXZlcnNhbDtmb3VuZGF0aW9uLm1hcmJsZTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2dpZnQub2NlYW47c2hpZWxkLmZyb3N0O2RlZmVuc2UuYnVsbGV0cHJvb2Y7c2hlbGwuZWFydGg7c2hlbGwuZGFya25lc3M7YXVyYS5oZWFydHN0b3BwZXI7ZXZhc2lvbi5iYXNpYztyZWdlbmVyYXRpb24ucmVsYXRpdmU7cmVzaXN0YW5jZS51bml2ZXJzYWw7Zm91bmRhdGlvbi5zdGVlbA==
+ZY+xbsMwDER/pfBeAc1YjfmMogMtXSQhMmWQVNCg6L/XjocI7Xb3cOAdv6e5dqxS2HR6f/mYwtvp9eTxFTJxgutcbhCl+kQgsfy0keTKUPWaUetfe4QFWtSIwxAf2L8QKhawba0DTGBICf7SOkey0tglIS6GEcVCS+M4ooVkrthOPS4cTFA3cYNP5WKuBRAfMkIh5qkLubwPU2vrCjlI59zq3YcmcPv3dduj6/6o0FXPXRR+L0l3N5OWMH3+/AI==
 ```
-
+`AI Import`
+```
+jVFdSsQwEL5KybPUVAVBBNFr2H2YptM0tElKfujDskfYA+gtvML2Yk5TI1L2QQJD5u/7vpk5Mi+cmoJnT8X7kYEIyprksNoFO6MrHfoALrCbgtWR8+pxC2vbxhHL6FEZKjChboT9+VEZv0u2Spb/tQmok2jQKVHOoFJ9VYFTodcYKNja2Iy4A7y/fF4+8lu+Xnbph43vtjZBaSy9gBGzZo6ZTtpgVfdfqZswYfVE4rw1WVi3raBHGEO/A8swV9U972e6zkmCl/NyfmUHGqCJrcRAJ+HkUHerfm+0ppWe4uhxu9kMA8YptRnQSDHmYCikU9Rm5LqPCcQAMqVWl+73lgk6IKDT4fQN
+```
 **C3**
 
 **Made By:** cl1694
