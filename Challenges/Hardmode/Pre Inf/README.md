@@ -1057,7 +1057,7 @@ zVTLbsIwEPwVlHOxkpbSqpF66G8UDo69Mas668gPHkL8e+2EQIlQVSQOvVjeWXt2Mt7NPqt0gNYieZe9
 
 **Made By:** yoshi128986
 
-No Accel or 3x speed
+No Accel nor 2x/3x speed
 
 Post Infinity
 
